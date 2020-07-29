@@ -9,4 +9,4 @@ This page presents simple geohumanities tutorials and maps created for teaching,
 
 2. [Draft tutorial for editing geodata with Geojson.io](https://pad.gwdg.de/s/BJ3wudDaI#)
 
-3. [Zoomable map of German research institutes receiving government funding in 1949, created for the IEG jubilee exhibition by Jannik Schulze-Selmig and Monika Barget](https://github.com/MonikaBarget/GeoHumTutorials/blob/master/qgis2web_IEG_jubilee_map/index.html)
+3. [Zoomable map of German research institutes receiving government funding in 1949, created for the IEG jubilee exhibition by Jannik Schulze-Selmig and Monika Barget](https://monikabarget.github.io/GeoHumTutorials/qgis2web_IEG_jubilee_map/index.html)
