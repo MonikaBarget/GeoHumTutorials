@@ -1,4 +1,4 @@
-Als Ergänzung zur [Einführung in die Erstellung von GeoJSON-Dateien](Link zum Post) beschäftigt sich der heutige Blogbeitrag mit der Visualisierung dieser Geodaten im Open Source Geoinformationssystem [QGIS](https://www.qgis.org/en/site/).
+Als Ergänzung zur Einführung in die Erstellung von GeoJSON-Dateien beschäftigt sich der heutige Blogbeitrag mit der Visualisierung dieser Geodaten im Open Source Geoinformationssystem [QGIS](https://www.qgis.org/en/site/).
 
 QGIS erfordert eine Installation auf der Festplatte und ist daher nur für Nutzer*innen geeignet, die auf Ihren Computern Administratorenrechte haben. Andernfalls kann für die Erstellung von Karten, die sich auf für den Druck eignen, die browserbasierte Plattform [Mapbox](https://www.mapbox.com/) verwendet werden, die in der Anwendung allerdings weniger intuitiv ist.
 
