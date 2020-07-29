@@ -1,3 +1,5 @@
+# Mapping for Historians
+
 This page presents simple geohumanities tutorials and maps created for teaching, research and public relations at the Institute of European History in Mainz, Germany. Please visit our [blog](https://dhlab.hypotheses.org/) for more digital humanities reports and training opportunities.
 
 
