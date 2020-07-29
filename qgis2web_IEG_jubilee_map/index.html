@@ -102,14 +102,26 @@
                <p style="text-align:centre;"><strong>Karte der 1949 in Deutschland geförderten Forschungsinstitute</strong></p><p style="text-align:centre;">Diese Karte wurde 2020 für die IEG Jubiläumsausstellung erstellt.</p>
            </div>
         </section>   
-        <div id="logo">
-                <a href="likecms.php"><img id="logo" src="assets/images/logo_70-jahre.png" height="196" width="144" alt="IEG-Mainz" style="border:1px solid #8f1c3f;"/></a>
-        </div>
+        <image>
+           <div id="logo">
+                <img src="assets/images/logo_70-jahre.png"/></img>
+           </div>
+        </image>
         <style>
-            section {
+            .image {
+                   position: relative;
+                   heigth: 196px;
+                   width: 144;
+                   float: right;
+                   clear:right; 
+                   margin-top: -50px;   
+                   }
+            
+        <style>
+            .section {
                      position: relative;
                      border: 2px solid;
-                     width: 280px;
+                     width: 270px;
                      display: inline;
                      float: right;
                      clear:right; 
@@ -117,7 +129,7 @@
                      padding: 15px;
                      overflow-x: scroll;
                      background-color: #8f1c3f;
-                     text-color: FFFFFF
+                     text-color: FFFFFF;
                     }
         </style>
    </body>
