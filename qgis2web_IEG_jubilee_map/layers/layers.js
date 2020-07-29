@@ -66,7 +66,7 @@ var lyr_SonstigeForschungsinstitute_4 = new ol.layer.Vector({
                 source:jsonSource_SonstigeForschungsinstitute_4, 
                 style: style_SonstigeForschungsinstitute_4,
                 interactive: false,
-                title: '<img src="styles/legend/SonstigeForschungsinstitute_4.png" /> Sonstige Forschungsinstitute'
+                title: '<img src="styles/legend/SonstigeForschungsinstitute_4.png" /> Geisteswissenschaften / Wirtschaftswissenschaften'
             });
 
 lyr_OSMStandard_0.setVisible(true);lyr_MaxPlanckInstitutevormalsKaiserWilhelmInstitute_1.setVisible(true);lyr_NaturwissenschaftenLandwirtschaftGeowissenschaften_2.setVisible(true);lyr_Museen_3.setVisible(true);lyr_SonstigeForschungsinstitute_4.setVisible(true);
