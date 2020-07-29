@@ -5,7 +5,7 @@ Maps and geohumanities tutorials created for IEG Mainz
 This page presents simple geohumanities tutorials and maps created for teaching, research and public relations at the Institute of European History in Mainz, Germany. Please visit our [blog](https://dhlab.hypotheses.org/) for more digital humanities reports and training opportunities.
 
 
-1. [Draft tutorial for editing geodata with Geojson.io](https://monikabarget.github.io/GeoHumTutorials/Tutorial1_GeoJSON)
+1. [Draft tutorial for editing geodata with Geojson.io](https://github.com/MonikaBarget/GeoHumTutorials/blob/master/IEG_test_map.geojson)
 
 2. [Draft tutorial for creating and printing simple maps in QIGS (German)](https://monikabarget.github.io/GeoHumTutorials/Tutorial2_simpleQGISmaps)
 
