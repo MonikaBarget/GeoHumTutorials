@@ -79,10 +79,10 @@ lyr_MaxPlanckInstitutevormalsKaiserWilhelmInstitute_1.set('fieldImages', {'label
 lyr_NaturwissenschaftenLandwirtschaftGeowissenschaften_2.set('fieldImages', {'label': 'TextEdit', 'institute': 'TextEdit', 'place': 'TextEdit', 'mix': 'TextEdit', });
 lyr_Museen_3.set('fieldImages', {'label': 'TextEdit', 'institute': 'TextEdit', 'place': 'TextEdit', 'mix': 'TextEdit', 'Geisteswissenschaft': 'TextEdit', });
 lyr_SonstigeForschungsinstitute_4.set('fieldImages', {'label': 'TextEdit', 'institute': 'TextEdit', 'place': 'TextEdit', 'mix': 'TextEdit', });
-lyr_MaxPlanckInstitutevormalsKaiserWilhelmInstitute_1.set('fieldLabels', {'marker-color': 'no label', 'marker-size': 'no label', 'marker-symbol': 'no label', 'label': 'inline label', 'institute': 'no label', 'place': 'no label', 'mix': 'no label', });
-lyr_NaturwissenschaftenLandwirtschaftGeowissenschaften_2.set('fieldLabels', {'marker-color': 'no label', 'marker-size': 'no label', 'marker-symbol': 'no label', 'label': 'inline label', 'institute': 'no label', 'place': 'no label', 'mix': 'no label', });
-lyr_Museen_3.set('fieldLabels', {'marker-color': 'no label', 'marker-size': 'no label', 'marker-symbol': 'no label', 'label': 'inline label', 'institute': 'no label', 'place': 'no label', 'mix': 'no label', 'Geisteswissenschaft': 'no label', });
-lyr_SonstigeForschungsinstitute_4.set('fieldLabels', {'marker-color': 'no label', 'marker-size': 'no label', 'marker-symbol': 'no label', 'label': 'inline label', 'institute': 'no label', 'place': 'no label', 'mix': 'no label', });
+lyr_MaxPlanckInstitutevormalsKaiserWilhelmInstitute_1.set('fieldLabels', {'marker-color': 'no label', 'marker-size': 'no label', 'marker-symbol': 'no label', 'label': 'inline label', 'institute': 'inline label', 'place': 'inline label', 'mix': 'no label', });
+lyr_NaturwissenschaftenLandwirtschaftGeowissenschaften_2.set('fieldLabels', {'marker-color': 'no label', 'marker-size': 'no label', 'marker-symbol': 'no label', 'label': 'inline label', 'institute': 'inline label', 'place': 'inline label', 'mix': 'no label', });
+lyr_Museen_3.set('fieldLabels', {'marker-color': 'no label', 'marker-size': 'no label', 'marker-symbol': 'no label', 'label': 'inline label', 'institute': 'inline label', 'place': 'inline label', 'mix': 'no label', 'Geisteswissenschaft': 'no label', });
+lyr_SonstigeForschungsinstitute_4.set('fieldLabels', {'marker-color': 'no label', 'marker-size': 'no label', 'marker-symbol': 'no label', 'label': 'inline label', 'institute': 'inline label', 'place': 'inline label', 'mix': 'no label', });
 lyr_SonstigeForschungsinstitute_4.on('precompose', function(evt) {
     evt.context.globalCompositeOperation = 'normal';
 });
