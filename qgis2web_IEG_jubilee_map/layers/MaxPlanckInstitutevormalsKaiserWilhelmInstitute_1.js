@@ -44,5 +44,7 @@ var json_MaxPlanckInstitutevormalsKaiserWilhelmInstitute_1 = {
 { "type": "Feature", "properties": { "label": "25", "institute": "Gmelin-Institut für anorganische Chemie und Grenzbetriebe", "place": "Tübingen", "mix": null }, "geometry": { "type": "Point", "coordinates": [ 9.049816131591797, 48.527838974114474 ] } },
 { "type": "Feature", "properties": { "label": "27", "institute": "Max-Planck-Institut für Biochemie", "place": "Tübingen", "mix": null }, "geometry": { "type": "Point", "coordinates": [ 9.058442115783691, 48.528229760628591 ] } },
 { "type": "Feature", "properties": { "label": "26", "institute": "Max-Planck-Institut für Biologie", "place": "Tübingen", "mix": null }, "geometry": { "type": "Point", "coordinates": [ 9.05449390411377, 48.528627649253728 ] } }
+{ "type": "Feature", "properties": { "label": "33", "institute": "Gmelin-Institut für anorganische Chemie und Grenzgebiete in der Max-Plank-Gesellschaft", "place": "Clausthal-Zellerfeld", "mix": null }, "geometry": { "type": "Point", "coordinates": [ 10.362526774406433, 51.804455333940552 ] } },
+{ "type": "Feature", "properties": { "label": "34", "institute": "Gmelin-Institut für anorganische Chemie und Grenzbetriebe (Max-Planck-Gesellschaft)", "place": "Tübingen", "mix": null }, "geometry": { "type": "Point", "coordinates": [ 9.049816131591797, 48.527838974114474 ] } }
 ]
 }
