@@ -15,6 +15,6 @@ var json_NaturwissenschaftenLandwirtschaftGeowissenschaften_2 = {
 { "type": "Feature", "properties": { "label": "43", "institute": "Forschungsinstitut für Rebenzüchtung", "place": "Siebeldingen", "mix": "Forschungsinstitut für Rebenzüchtung" }, "geometry": { "type": "Point", "coordinates": [ 8.046777248382567, 49.218269863587835 ] } },
 { "type": "Feature", "properties": { "label": "44", "institute": "Tuberculose-Forschungsinstitut", "place": "Borstel", "mix": "Tuberculose-Forschungsinstitut" }, "geometry": { "type": "Point", "coordinates": [ 10.197077393531799, 53.819765010533942 ] } },
 { "type": "Feature", "properties": { "label": "45", "institute": "Institut für Weltwirtschaft", "place": "Kiel", "mix": null }, "geometry": { "type": "Point", "coordinates": [ 10.156173706054686, 54.338680705010987 ] } },
-{ "type": "Feature", "properties": { "label": "47", "institute": "Astronomisches Recheninstitut", "place": "Heidelberg", "mix": null }, "geometry": { "type": "Point", "coordinates": [ 8.687862753868103, 49.417754276955151 ] } },
+{ "type": "Feature", "properties": { "label": "47", "institute": "Astronomisches Recheninstitut", "place": "Heidelberg", "mix": null }, "geometry": { "type": "Point", "coordinates": [ 8.687862753868103, 49.417754276955151 ] } }
 ]
 }
