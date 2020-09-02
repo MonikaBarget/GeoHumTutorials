@@ -1,8 +1,8 @@
-# Karten erstellen mit QGIS
+# Gestaltung einfacher Karten mit QGIS
 
-Als Ergänzung zur Einführung in die Erstellung von GeoJSON-Dateien beschäftigt sich der heutige Blogbeitrag mit der Visualisierung dieser Geodaten im Open Source Geoinformationssystem [QGIS](https://www.qgis.org/en/site/).
+Als Ergänzung zur [Einführung in die Erstellung von GeoJSON-Dateien](https://monikabarget.github.io/GeoHumTutorials/Tutorial1_GeoJSON) beschäftigt sich der heutige Blogbeitrag mit der Visualisierung dieser Geodaten im Open Source Geoinformationssystem [QGIS](https://www.qgis.org/en/site/).
 
-QGIS erfordert eine Installation auf der Festplatte und ist daher nur für Nutzer*innen geeignet, die auf Ihren Computern Administratorenrechte haben. Andernfalls kann für die Erstellung von Karten, die sich auf für den Druck eignen, die browserbasierte Plattform [Mapbox](https://www.mapbox.com/) verwendet werden, die in der Anwendung allerdings weniger intuitiv ist.
+QGIS erfordert eine Installation auf der Festplatte und ist daher nur für Nutzer/innen geeignet, die auf Ihren Computern Administratorenrechte haben. Andernfalls kann für die Erstellung von Karten, die sich auf für den Druck eignen, die browserbasierte Plattform [Mapbox](https://www.mapbox.com/) verwendet werden, die in der Anwendung allerdings weniger intuitiv ist.
 
 Die Nutzeroberfläche von QGIS erinnert an Bildbearbeitungsprogramme und ermöglicht sowohl den Import standardisierter geographischer Daten aus verschiedenen Quellen, als auch deren Darstellung auf unterschiedlichen Hintergrundkarten. Für die meisten Hintergrundkarten sind allerdings (gewerbliche) Nutzungrechte erforderlich.
 
@@ -52,7 +52,7 @@ Da in QGIS erstellte Karten oft für die Veröffentlichung in wissenschaftlichen
 
 Für jedes Drucklayout muss ein eindeutiger Layoutname gewählt werden. Im Drucklayout selbst muss außerdem der aktuelle Kartenausschnitt bzw. der Auschnitt, der gedruckt werden soll, separat geladen werden. Die einzelnen Arbeitsschritte erklärt z.B. das deutschsprachige Video [QGIS 3 | Tutorial | Kartenlayout Teil 1](https://www.youtube.com/watch?v=rpkeBZHrXVQ&t=2s).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rpkeBZHrXVQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="500" height="281" src="https://www.youtube.com/embed/rpkeBZHrXVQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 Im Drucklayout können Attributinformationen entweder als Labels oder in einer Kartenlegende angezeigt werden. Die Legende erhält einen frei wählbaren Titel. Das Layout und die Elementeigenschaften können im Bedienfeld rechts neben der Karte angepasst werden. Das Einfügen einer Legende empfiehlt sich bei besonders dichten Kartenbildern mit umfangreichen Beschriftungen.
