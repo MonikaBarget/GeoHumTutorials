@@ -58,6 +58,6 @@ Eine ausführlichere Einführung in Geojson.io gibt das folgende Video-Tutorial 
 
 ["GeoJSON.io editing webmap data online"](https://www.youtube.com/watch?v=sPAkG7bS10o)
 
-<iframe width="500" height="281.25" src="https://www.youtube.com/embed/sPAkG7bS10o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="500" height="281" src="https://www.youtube.com/embed/sPAkG7bS10o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Außerdem empfehle ich das auf Geoinformationssysteme spezialisierte Forum [GIS.Stackexchange](https://gis.stackexchange.com/).
