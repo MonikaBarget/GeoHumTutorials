@@ -1,0 +1,4860 @@
+[
+	{
+		"id": "http://zotero.org/groups/2289797/items/I2B8TFET",
+		"type": "webpage",
+		"abstract": "BESTAND MUSS ALS KARTE NOCH ERFASST WERDEN!",
+		"container-title": "Wikisource",
+		"language": "lat",
+		"title": "Topographia Archiepiscopatuum Moguntinensis, Treuirensis et Coloniensis (Topographia Colonia)",
+		"URL": "https://de.wikisource.org/wiki/Topographia_Colonia_et_al.",
+		"author": [
+			{
+				"literal": "Wiki"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					1,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					1,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/9SJBZYLV",
+		"type": "map",
+		"event-place": "Nürnberg",
+		"genre": "engraving",
+		"language": "de-de",
+		"publisher": "Homann",
+		"publisher-place": "Nürnberg",
+		"title": "Das Eichsfeld",
+		"title-short": "Historische Karte",
+		"URL": "https://www.weltbild.de/artikel/buch/homann-e-historische-karte-das-eichsfeld-1759-plano_20111673-1",
+		"author": [
+			{
+				"literal": "Homanns Erben"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					3,
+					23
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1759"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/NTDF783K",
+		"type": "map",
+		"language": "French",
+		"note": "OCLC: 1012171010",
+		"source": "Open WorldCat",
+		"title": "Partie Occidentale Du Temporel De L'Archevesché et Eslectorat De Mayence et le Haut et Bas Comté de Catzenellenboge",
+		"author": [
+			{
+				"family": "Sanson",
+				"given": "Guillaume"
+			},
+			{
+				"family": "Jaillot",
+				"given": "Alexis Hubert"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1681"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/E2JI2KZ6",
+		"type": "map",
+		"language": "French",
+		"note": "OCLC: 1012170822",
+		"source": "Open WorldCat",
+		"title": "Partie Orientale Du Temporel De L'Archevesché et Eslectorat De Mayence et le Comté de Reineck",
+		"author": [
+			{
+				"family": "Sanson",
+				"given": "Guillaume"
+			},
+			{
+				"family": "Jaillot",
+				"given": "Alexis Hubert"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1681"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/PLKPNCW8",
+		"type": "map",
+		"event-place": "Paris",
+		"language": "French",
+		"note": "OCLC: 165868756",
+		"publisher": "LeRouge [Nach 1764",
+		"publisher-place": "Paris",
+		"source": "Open WorldCat",
+		"title": "L' Electorat De Mayence, Partie de la Hesse et du Palatinat du Rhin: [Gewidmet] le Comte de Maurepas : Avec privilege",
+		"title-short": "L' Electorat De Mayence, Partie de la Hesse et du Palatinat du Rhin",
+		"author": [
+			{
+				"family": "Le Rouge",
+				"given": "Georges-Louis"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1743"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/TACMU3PT",
+		"type": "map",
+		"event-place": "Erscheinungsort nicht ermittelbar",
+		"language": "French",
+		"note": "OCLC: 635346641",
+		"publisher-place": "Erscheinungsort nicht ermittelbar",
+		"source": "Open WorldCat",
+		"title": "Table Geographique dans la quelle fort distinctement est montré La Partie Meridionale ou Superieure du Rhein, Meuse, Moselle et les moindres rivieres, qui se decharchent dans elles: comme aussi les parties, qui sont au milieu, l Archevesche et l Electorat de Mayence et le Palatinat du Rhein, Lorraine, Suisse, l Alsace, Sueve, la Duche et la Comte de Bourgogne et d'autres Provinces voisines de France et Italie",
+		"title-short": "Table Geographique dans la quelle fort distinctement est montré La Partie Meridionale ou Superieure du Rhein, Meuse, Moselle et les moindres rivieres, qui se decharchent dans elles",
+		"author": [
+			{
+				"family": "Sanson",
+				"given": "Guillaume"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1700"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/HWI7WJY5",
+		"type": "map",
+		"event-place": "Paris",
+		"language": "French",
+		"note": "OCLC: 868187212",
+		"publisher": "le Rouge",
+		"publisher-place": "Paris",
+		"source": "Open WorldCat",
+		"title": "Carte Topographique Du Cours Du Rhin De Philisbourg á Mayence Contenant Partie l'Eveché de Spir et de Worms, Partie de l'Electorat De Mayence et du Landgraviat De Darmstat",
+		"issued": {
+			"date-parts": [
+				[
+					"1745"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/YBICYQ67",
+		"type": "map",
+		"event-place": "A Amsterdam",
+		"language": "French",
+		"note": "OCLC: 71573292",
+		"publisher": "chez Cóvens et Mortier",
+		"publisher-place": "A Amsterdam",
+		"source": "Open WorldCat",
+		"title": "L'électorat de Mayence, le Bas Palatinat, et une partie du Pays de Hesse et de la riviere du Mein, représentant ensemble les parties du Cercle Occidental de Franconie, savoir la plus basse partie de l'Evêché de Wurtzbourg, le comté de Wertheim, Reineck, Hohenlo, Erpach &c.",
+		"author": [
+			{
+				"family": "Condet",
+				"given": "Johannes"
+			},
+			{
+				"family": "Covens",
+				"given": "Johannes (I",
+				"suffix": "Amsterdam)"
+			},
+			{
+				"family": "Mortier",
+				"given": "Cornelis (Amsterdam)"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1750"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/AAFTHNA8",
+		"type": "map",
+		"language": "de",
+		"note": "OCLC: 1005728862",
+		"source": "Open WorldCat",
+		"title": "Der Churfürstliche Rheinische Craiß worinnen begriffen die dreÿ Erzbist. und Churfürstenthümmer Maintz, Trier und Kölln wie aüch Chur=Pfaltz nebenst noch mehr andern zugehörigen Ländern und Herrschafften.",
+		"author": [
+			{
+				"family": "Sanson",
+				"given": "Guillaume"
+			},
+			{
+				"family": "Hoffmann",
+				"given": "Johann"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1675"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/39M5IG4M",
+		"type": "map",
+		"abstract": "Umfang: \t1 Karte auf 2 Blätter : Kupferstich ; Gesamtgr. 92 x 32 cm, je Teil 46 x 32 cm",
+		"event-place": "Nürnberg",
+		"genre": "engraving",
+		"language": "de",
+		"publisher": "Homann",
+		"publisher-place": "Nürnberg",
+		"scale": "1:96 000",
+		"title": "Die Gegenden des Rheins von Speyer biss Mayntz: nebst der Situation laengst der Bergstrasse zwischen dem Rhein und dem Odewaldt, dem Mayn und Necker ; Mit Kayerl. allergn. Privil. = Le Environs du Rhin, depuis Spire iusqu à Mayence, avec le pais adjacents de la Rue des Montagnes appellée Bergstrasse entre les rivieres du Rhin, de Main, & de Neckar",
+		"URL": "https://hds.hebis.de/ubmz/Record/HEB335492495",
+		"author": [
+			{
+				"family": "Homann",
+				"given": "Johann Christoph"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					10,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1735"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/HYFYU3KA",
+		"type": "map",
+		"event-place": "[Nürnberg]",
+		"genre": "engraving",
+		"language": "de",
+		"publisher": "Homann",
+		"publisher-place": "[Nürnberg]",
+		"title": "Die Gegenden des Rheins von Speyer biss Mayntz: nebst der Situation laengst der Bergstrasse zwischen dem Rhein und dem Odewaldt, dem Mayn und Necker",
+		"title-short": "Die Gegenden des Rheins von Speyer biss Mayntz",
+		"URL": "https://opacplus.bsb-muenchen.de/search?id",
+		"author": [
+			{
+				"literal": "Homanns Erben"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1735"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/AQBW5UWL",
+		"type": "map",
+		"abstract": "Mehrere Teile unter dieser Adresse als .jpg zu finden.\n\nKarte der Gebiete zwischen Rhein, Saar, Mosel und dem Unter-Elsaß\nArchivaliensignatur:\nHessisches Staatsarchiv Darmstadt, P 23, 11\nKontext:\nKarten Herrschaft Schlitz >> Deutsches Reich >> Teile des Deutschen Reichs >> Größere Teilgebiete des Deutschen Reichs\nLaufzeit:\n1705\nVorprovenienz:\nHerrschaft Schlitz\nMaße:\n109 x 100 cm\nUrheber:\n[Alexis-Hubert] Iaillot, Geographe ordinaire du Roi\nArchivalientyp:\nKarte/Plan\nSonstige Erschließungsangaben:\nIdentifikation (Karte/Plan): Originaldatierung: Paris 1705\n\nIdentifikation (Karte/Plan): Originaltitel: Titel: Carte Particuliere Des Pays Qui Sont Situéz Entre Le Rhein, La Saare, La Moselle, Et La Basse Alsace : contenant Partie Du Palatinat, Des Eslectorats De Mayence, Et De Treves, Des Eveschés De Spire Et De Wormes; Avec Les Duchés De Deuxponts, Et De Simmeren, Les Comtés De Sarbrik, Ottweiller, Bitche, Saverden, Falkenstein, Linanges, Veldents, Haut et Bas Sponheim, Les Seigneuries De Bliscastel, Landstoul, Crombach, Reypolkirch, Grevenstein, Kirn, Oberstein, Lixheim, Lautreck, Dagstoul, La Petitepierre, Et Dimering ; avec Privilège de Sa Majesté\n\nIdentifikation (Karte/Plan): Inhaltliche Beschreibung: Kurpfalz, Kurmainz, Kurtrier, Bistum Speyer und Worms, Herzogtümer Zweibrücken, Simmern, Grafschaften Saarbrücken, Ottweiler, Bitsch, Saarwerden, Falkenstein, Leiningen, Veldenz, Sponheim und Herrschaften Blieskastel und Landstuhl\n\nHerstellerangaben: Drucker / Verleger: Jaillot\n\nHerstellerangaben: Erscheinungsort: Paris\n\nWeitere Angaben (Karte/Plan): Maßstab: 1:150.000\n\nWeitere Angaben (Karte/Plan): Ausführung: Papier, Druck mit Grenzkolorierung\n\nWeitere Angaben (Karte/Plan): Blattzahl: 1\n\nVermerke: Deskriptoren: Deutschland (Südwest) / Pfalz; Deutschland (Südwest) / Trier (Kurfürstentum); Europa (West) / Frankreich, Elsaß (Unter-Elsaß)\n\nVermerke: Deskriptoren: Jaillot, Alexis-Hubert\nMehr anzeigen\nBestand:\nP 23 Karten Herrschaft Schlitz",
+		"language": "de",
+		"title": "Karte der Gebiete zwischen Rhein, Saar, Mosel und dem Unter-Elsaß - Deutsche Digitale Bibliothek",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/B2DZ7K44I6BWANBTLZH4NU6H5AHX75DT",
+		"author": [
+			{
+				"literal": "[Alexis-Hubert] Iaillot, Geographe ordinaire du Roi"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					12,
+					4
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1705"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/5K58DGAN",
+		"type": "map",
+		"event-place": "Nürnberg",
+		"genre": "engraving",
+		"language": "de",
+		"publisher": "Homann",
+		"publisher-place": "Nürnberg",
+		"title": "Karte des Westteils des Fränkischen Reichskreises mit Kurmainz, den Grafschaften Wertheim, Rieneck und Erbach sowie einem Teil von Kurpfalz - Deutsche Digitale Bibliothek",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/2RXYN2WZMVIRJ4OUXNC7EHQJTWWKIIOX",
+		"author": [
+			{
+				"literal": "Jo[hann] Bapt[ist] Homann"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					12,
+					4
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1707"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/6V7B4A9W",
+		"type": "map",
+		"language": "de",
+		"title": "Karte der Land- und Poststraße von Fürth nach Heppenheim zum geplanten Austausch von Orten zwischen Kurmainz und Kurpfalz - Deutsche Digitale Bibliothek",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/EBHRFQAN5N2LZQICQWYDST2TL3VKWKVL",
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					12,
+					4
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1780"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/ERBPNXGS",
+		"type": "map",
+		"language": "de",
+		"title": "Karte des Kurrheinischen Reichskreises mit Kurmainz, Kurköln, Kurtrier, Kurpfalz und den Grafschaften Beilstein, Neuenahr, Isenburg und Reiferscheit - Deutsche Digitale Bibliothek",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/NYRKUKG2O6IYMF5DUQ6RPQYOIQZD3TGR",
+		"author": [
+			{
+				"literal": "P[hilipp] Tidemann f[ecit] / G[illiam] v[an der] Gouwan scu[lpsit]"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					12,
+					4
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1698"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/7FE9XHNK",
+		"type": "map",
+		"language": "de",
+		"title": "Karte des Kurrheinischen Reichskreises mit Kurpfalz, Kurmainz, Kurtrier, Kurköln, Nassau, Westfalen, Rhein, Lahn, Ruhr und Mosel - Deutsche Digitale Bibliothek",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/OJPN47IU2E5UQJQJQQK3R2XT3CXV66UP",
+		"author": [
+			{
+				"literal": "Gio[vanni] Giac[omo] Rossi, Vin[cenzo] Mariotti Romano del. et sculp."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					12,
+					4
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1686"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/CGIGUN5Z",
+		"type": "map",
+		"language": "de",
+		"title": "Karte zur Überlassung des auf der Grenze zwischen der Gemeinde Viernheim und Kurmainz geschlagenen Holzes - Deutsche Digitale Bibliothek",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/OZQZQYIUVRSUITLZJLGIWZHMRDMJ2ADV",
+		"author": [
+			{
+				"literal": "[Hofgerichtsrat und Oberamtsverweser] Wilhelmi"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					12,
+					4
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1789"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/E7FQHRRQ",
+		"type": "map",
+		"language": "de",
+		"title": "Karte zu der zwischen den Dörfern Fauerbach (Kurmainz) und Ober-Mörlen (Amt Butzbach) strittigen Grenze - Deutsche Digitale Bibliothek",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/SSGPQVR4G2K4YV7RNWX4P6C74Y373NLN",
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					12,
+					4
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1671"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/VNG59ZIP",
+		"type": "map",
+		"language": "de",
+		"title": "Karte der Grenze zwischen Kurmainz und der Grafschaft Hanau in den Gemarkungen Hanau und Großauheim zum Grenzstreit zwischen der Altstadt Hanau und dem Amt Steinheim",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/AXG4YSFK5KTCMLV3FCNFE64V6BW7LGH7",
+		"author": [
+			{
+				"literal": "Köhler, Jacob Johann"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					12,
+					4
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1751"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/I3DHPJ6V",
+		"type": "map",
+		"language": "de",
+		"title": "Karte der zwischen Kurmainz und Hessen-Darmstadt strittigen rechtsrheinischen Besitzungen der Gemeinde Nierstein - Deutsche Digitale Bibliothek",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/KCHEUFLXDDXEIKEHG55RWGF6HH5NBTH6",
+		"author": [
+			{
+				"literal": "Hochstein, Johann Wilhelm"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					12,
+					4
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1787"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/AMY3C7EM",
+		"type": "map",
+		"abstract": "Archivaliensignatur:\nHessisches Staatsarchiv Darmstadt, P 1, 802\nAlt-/Vorsignatur:\nSonstige Behördensignaturen: P 1, E 14 E Nr. 181/3\nKontext:\nAlte Karten und Pläne (bis 1918) >> Deutsches Reich (ohne Hessen-Darmstadt) >> Einzelne Orte, Gemarkungen und Ämter\nLaufzeit:\n1772\nVorprovenienz:\nKurmainz, Hofkammer\nMaße:\n33,2 x 220,5 cm\nUrheber:\nA. P. Bürger, Kurpfälzisch-Geistlicher Administrationsrenovator\nArchivalientyp:\nKarte/Plan\nSonstige Erschließungsangaben:\nIdentifikation (Karte/Plan): Originaltitel: Aufzeichnung der Grenzbahn und darin befindlicher Steinen ...\n\nWeitere Angaben (Karte/Plan): Maßstab: 1:2000\n\nWeitere Angaben (Karte/Plan): Ausführung: Papier, Federzeichnung, koloriert; nur Grenzlinie\n\nWeitere Angaben (Karte/Plan): Blattzahl: 1\n\nVermerke: Deskriptoren: Bürger, A. P.\nBemerkungen:\nvgl. P 1 Nr. 271\nBestand:\nP 1 Alte Karten und Pläne (bis 1918)",
+		"language": "de",
+		"title": "Karte der Grenze zwischen der Gemarkung der kurmainzischen Stadt Hirschhorn und den zur kurpfälzischen geistlichen Administrations-Pflege Schönau gehörenden Waldungen zu Neckarhausen und Michelbuch - Deutsche Digitale Bibliothek",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/Z47C75VWAMJROB2PXIVB5STJ5KA5P23A",
+		"author": [
+			{
+				"literal": "A. P. Bürger, Kurpfälzisch-Geistlicher Administrationsrenovator"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					12,
+					11
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1772"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/IX4ZDF5F",
+		"type": "map",
+		"language": "de",
+		"title": "Karte der Geleitstraßen zwischen Butzbach und Frankfurt - Deutsche Digitale Bibliothek",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/WVXLEI27CPSZAAN4KPHXJUIL3MPSYR47",
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					12,
+					11
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1679"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/QW8VM3YQ",
+		"type": "map",
+		"abstract": "Archivaliensignatur:\nHessisches Staatsarchiv Darmstadt, P 1, 271\nKontext:\nAlte Karten und Pläne (bis 1918) >> Grenzen von Hessen-Darmstadt >> Andere Grenzen\nLaufzeit:\n1771\nVorprovenienz:\n[Kurmainz]\nMaße:\n32,5 x 220,5 cm\nUrheber:\nA. P. Bürger, Kurpfälzisch Geistlicher Administrations-Renovator\nArchivalientyp:\nKarte/Plan\nSonstige Erschließungsangaben:\nIdentifikation (Karte/Plan): Originaltitel: Aufzeichnung der Grenzbahn und darin befindlichen Steinen zwischen der Kurmainzischen Stadt Hirschhorner Gemarkung und den Kurpfälzischen Geistlichen Administrations- zur Pfleg Schönau gehörigen Neckarhäuser und Michelbucher Waldungen ...\n\nIdentifikation (Karte/Plan): Inhaltliche Beschreibung: enthält: Hirschhorner Hochgericht\n\nWeitere Angaben (Karte/Plan): Maßstab: 1:2026\n\nWeitere Angaben (Karte/Plan): Ausführung: Papier, handgezeichnet, koloriert; nur Grenzlinie\n\nWeitere Angaben (Karte/Plan): Blattzahl: 1\n\nWeitere Angaben (Karte/Plan): Korrespondierende Archivalien: A 8 Nr. 353\n\nVermerke: Deskriptoren: Bürger, A. P.\nMehr anzeigen\nBestand:\nP 1 Alte Karten und Pläne (bis 1918)",
+		"language": "de",
+		"title": "Karte der Grenze zwischen den zur Kurpfälzischen Geistlichen Administrations-Pflege Schönau gehörenden Wäldern Neckarhausen und Michelbuch und der Gemarkung der kurmainzischen Stadt Hirschhorn und den kurmainzischen Kameral-Hack-Wäldern - Deutsche Digitale Bibliothek",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/PCMYATRETBAR3E3L6U5HYAT55U4ROLIU",
+		"author": [
+			{
+				"literal": "A. P. Bürger, Kurpfälzisch Geistlicher Administrations-Renovator"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					12,
+					11
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1771"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/7GECI2GU",
+		"type": "map",
+		"language": "de",
+		"title": "Stromkarte des Rheins von der Schweiz über Elsaß bis Holland - Deutsche Digitale Bibliothek",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/VBUS7KMFRDXVBTMBHOG7VWXS5EQ3B6CY",
+		"author": [
+			{
+				"literal": "Guiljelmus Blaeu"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					12,
+					11
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1640"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/VGGEWBFJ",
+		"type": "map",
+		"event-place": "Nürnberg",
+		"genre": "engraving",
+		"publisher": "Homann",
+		"publisher-place": "Nürnberg",
+		"title": "Karte des Kurfürstentum Mainz",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v4086944",
+		"author": [
+			{
+				"literal": "Johann Baptist Homann"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					12,
+					11
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1783"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/TH48W64A",
+		"type": "map",
+		"title": "Karte des Westteils des Erzbistums Mainz",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v3914809",
+		"author": [
+			{
+				"literal": "N[icolas] Sanson, Geographe ordinaire du Roy"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					12,
+					11
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1670"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/XH2BHDYE",
+		"type": "map",
+		"title": "Karte des Kurfürstentums Mainz im Rhein-Main-Gebiet",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v4372702",
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					12,
+					11
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1710"
+				]
+			],
+			"season": "um"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/LU7FVVTS",
+		"type": "map",
+		"title": "Karte des Oberrhein- Mittelrheingebiets mit den Erzbistümern Trier, Mainz und Köln",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v2249170",
+		"author": [
+			{
+				"literal": "Henry Sengre"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					12,
+					11
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1692"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/WCYPZBRC",
+		"type": "map",
+		"title": "Karte der Erzbistümer und Kurfürstentümer Mainz und Köln, die Pfalz und das Kurfürstentum bei Rhein, Herzogtum Württemberg ...",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v3466878",
+		"author": [
+			{
+				"literal": "Hubertus Iaillot (= Alexis-Hubert Jaillot)"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					12,
+					11
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1704"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/DBJX4IYR",
+		"type": "map",
+		"title": "Karte von Ländereien zwischen Kirdorf im Kurfürstentum Mainz und Seulberg in der Landgrafschaft Hessen-Darmstadt sowie von Waldungen jenseits der Landwehr",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v4347679",
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					12,
+					11
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1700"
+				]
+			],
+			"season": "um"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/GLZFT2F8",
+		"type": "map",
+		"title": "Straßenkarte des Gebiets zwischen Rhein und Main mit Ansichten von Frankfurt, Sprendlingen, Langen, Bayerseich, Arheilgen, Darmstadt...",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v4592835",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					1,
+					5
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1575"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/XLW3KIXK",
+		"type": "map",
+		"title": "Karte des zwischen der Landgrafschaft Hessen-Darmstadt und dem Erzstift Mainz wegen des Zehnten strittigen Ackerfels im 'Mörß' in der Gemarkung Nordenstadt, gelegen an der Grenze zu Erbenheim und dem Häuser Hof",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v3220231",
+		"author": [
+			{
+				"literal": "Heinrich Dickert"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					1,
+					5
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1736"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/95AP5XHL",
+		"type": "map",
+		"title": "Karte des Gebiets zwischen Rhein, Mosel, Saar und dem Unterelsaß mit den Kurfürstentümern Mainz, Trier und Pfalz, den Bistümern Speyer und Worms und der Grafschaft Saarbrücken sowie kleineren Herrschaften",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v598147",
+		"author": [
+			{
+				"literal": "N. Person, Mainz"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					1,
+					5
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1689"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/V7KWX9QG",
+		"type": "map",
+		"title": "Karte eines Teils der Kurpfalz, des Kürfürstentums Mainz und des Bistums Worms, 1696 und 1697",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v3911676",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					1,
+					5
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1697"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/GXQ64MDJ",
+		"type": "map",
+		"title": "Karte über den Verlauf der Grenze zwischen dem Kurfürstentum Mainz und der Landgrafschaft Hessen-Darmstadt in der Gemarkung des Hofs Häusel bei Eppstein",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v4461157",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					1,
+					5
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1712"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/9IUTT74B",
+		"type": "map",
+		"abstract": "Archivaliensignatur:\nHessisches Hauptstaatsarchiv, 3011/1, 631 H\nKontext:\nAllgemeine Kartenabteilung >> Ortskarten >> E >> Ei... - El... >> Eltville (RhT) >> Stadt, Gemarkung und Wald\nLaufzeit:\n1767\nUrheber:\nAndreas Trauttner\nArchivalientyp:\nKarte/Plan\nSonstige Erschließungsangaben:\nIdentifikation (Karte/Plan): Ort (alt): Eltville\n\nIdentifikation (Karte/Plan): Ort: Eltville\n\nWeitere Angaben (Karte/Plan): Ausführung: farbige Zeichnung\n\nWeitere Angaben (Karte/Plan): Blattzahl: 2\nDigitalisat im Angebot des Archivs:\nkein Digitalisat verfügbar\nBestand:\n3011/1 Allgemeine Kartenabteilung\nOnline-Findbuch im Angebot des Archivs:\nhttps://arcinsys.hessen.de/arcinsys/llist?nodeid=g89926&page=1&reload=true&sorting=41\nRechteinformation:\nEs gelten die Nutzungsbedingungen der Staatsarchive in Hessen.",
+		"title": "Plan des zwischen Kurmainz und dem Stift St. Peter in Mainz strittigen Zehntdistrikts an der 'Hanacher Ruhe' in der Gemarkung Eltville",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v2043551",
+		"author": [
+			{
+				"literal": "Andreas Trauttner"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					1,
+					5
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1767"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/B6F5FNAD",
+		"type": "map",
+		"abstract": "Rheinregion zwischen Speyer und Mainz\n\nnach Westen ausgerichteter Plan mit Speyer und Heidelberg auf der linken Seite und Mainz und Kelsterbach auf der rechten Seiten; unterer Rand: Heppenheim, Bensheim, Darmstadt\n\nVerzeichnung der Hilfstruppen am Rhein",
+		"title": "Plan der Rheinregion zwischen Speyer und Mainz, 1735",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v4085862",
+		"author": [
+			{
+				"literal": "Erben von Homänn"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					1,
+					5
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1735"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/MCWTCHXV",
+		"type": "map",
+		"abstract": "4 Karten",
+		"event-place": "Nürnberg",
+		"genre": "engraving",
+		"publisher": "Homann",
+		"publisher-place": "Nürnberg",
+		"title": "Karte des Rheins von Speyer bis Mainz und zur Bergstraße mit Eintragung der Stellungen der Hilfstruppen",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v4088027",
+		"author": [
+			{
+				"literal": "Homann Erben"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					1,
+					5
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1735"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/SXZGJ7QB",
+		"type": "map",
+		"title": "Karte des Rheins und der Bergstraße von Speyer bis Mainz",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v989028",
+		"author": [
+			{
+				"literal": "Johann Jakob Hill, Ingenieur-Leutnant"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					1,
+					5
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1779"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/9NJCTHBY",
+		"type": "map",
+		"event-place": "Nürnberg",
+		"genre": "engraving",
+		"publisher": "Homann",
+		"publisher-place": "Nürnberg",
+		"title": "Karte des Kurfürstentums Mainz mit Teilen des fränkischen Reichskreises",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v4086944",
+		"author": [
+			{
+				"literal": "Johann Baptist Homann"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					1,
+					5
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1783"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/93BWEGIG",
+		"type": "map",
+		"title": "Karte des Erzbistums Mainz mit Archidiakonaten, Archipresbyteraten, Stiften und Klöstern",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v953319",
+		"author": [
+			{
+				"literal": "bearbeitet von G. Palzer, Mainz"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1500"
+				]
+			],
+			"season": "1530"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/JQFPUX45",
+		"type": "map",
+		"title": "Karte des Gebietes zwischen Wiesbaden, Breckenheim, Flörsheim am Main und Mainz",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v2650170",
+		"author": [
+			{
+				"literal": "o.A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1600"
+				]
+			],
+			"season": "1699"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/L4ENW4Q2",
+		"type": "map",
+		"title": "Karte des 'Zollwaldes' des Kurfürstentums Mainz bei Oberlahnstein, mit Aufzeichnungen vom Waldbestand",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v1632855",
+		"author": [
+			{
+				"literal": "Andreas Trauttner. Chur Mayntz geschworener Geometra im Rheingau"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1772"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/MPATUAVH",
+		"type": "map",
+		"title": "Riss über die Gegend von Lampertheim, Lorsch und Viernheim, aufgerichtet zwischen Mainz und Worms.",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v1093572",
+		"author": [
+			{
+				"literal": "o.A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1715"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/25747JHW",
+		"type": "map",
+		"title": "Karte der Grenze zwischen Kurpfalz und Kurmainz bei Ransel",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v4546250",
+		"author": [
+			{
+				"literal": "Andreas Trauttner"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1758"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/295IC99R",
+		"type": "map",
+		"abstract": "Belagerung von Mainz, 1793\n\nRhein-Main-Region von Hechtsheim bis Budenheim, mit Bierbirch, Mosbach, Erbenheim, Hochheim bis Ginsheim, mit Mainz im Grundriss und Belagerungsstellungen\n\nLegende",
+		"title": "Plan der Belagerung von Mainz, 1793",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v3464301",
+		"author": [
+			{
+				"literal": "E. v. Dieterich"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1793"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/2IN68BL8",
+		"type": "map",
+		"abstract": "Belagerung von Mainz, 1793\n\nnach Südwesten ausgerichteter Plan der Rhein-Main-Region zwischen Laubern, Walluf, Wiesbaden und Hochheim mit den Stellung rund um Mainz und Kastel Legende\n\nunten: Abbildung der Beschießung der Stadt",
+		"title": "Plan der Belagerung von Mainz, 1793",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v364676",
+		"author": [
+			{
+				"literal": "Peter Brand"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1794"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/A9SQMQ8D",
+		"type": "map",
+		"abstract": "Grundriß und Abriß des löblichen Sankt-Viktor-Stifts besitzender Mundät oder Immunitäts-Distrikt, auch Gemarkung zu Weißenau bei Mainz",
+		"title": "Karte des Immunitätsbezirks und der Gemarkung des St. Viktor-Stifts zu Mainz in Weisenau",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v3717636",
+		"author": [
+			{
+				"literal": "o.A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1747"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/TUIA2Q5L",
+		"type": "map",
+		"abstract": "Belagerung von Mainz, 1793\n\nnach Westen ausgerichteter Plan der Rheininsel Petersaue mit Schanzanlagen und Magazinen",
+		"title": "Plan der Insel Petersaue bei Mainz, 1793",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v4589065",
+		"author": [
+			{
+				"literal": "Lieut. Duncker"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1793"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/3EJ8DMZE",
+		"type": "map",
+		"title": "Der Kästerich - Situationsplan, nach beigefügtem Maßstab, von einigen Parzellen auf dem Kästrich in Mainz",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v4428378",
+		"author": [
+			{
+				"literal": "o.A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1705",
+					6,
+					14
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/TWRTDBQV",
+		"type": "map",
+		"title": "Federzeichnung der Befestigung von Mainz und der Truppenaufstellung bei der Belagerung im Jahre 1689",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v2537337",
+		"author": [
+			{
+				"literal": "o.A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1689"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/2MXMITI9",
+		"type": "map",
+		"title": "Karte der Stellungen der französischen und alliierten deutschen Armee bei der Belagerung von Mainz 1793",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v2077860",
+		"author": [
+			{
+				"literal": "o.A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1793"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/MBG3Y5DC",
+		"type": "map",
+		"title": "Karte des Deutschen Reichs mit Österreich, den Kurfürstentümern Mainz, Trier und Köln und anderen Staaten",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v1190814",
+		"author": [
+			{
+				"literal": "S. Sanson; kolorierter Druck: H. Jaillot, Paris"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1689"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/WZPUHBK4",
+		"type": "map",
+		"abstract": "enthält den südwestlichen Teil der Festung / angefertigt für Landgraf Wilhelm IX",
+		"note": "Premierlieutenant Duncker. „Plan der Belagerung von Mainz im Jahre 1793 unter König Friedrich Wilhelm II. von Preußen“. 1793. https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v740968.",
+		"title": "Plan der Belagerung von Mainz im Jahre 1793 unter König Friedrich Wilhelm II. von Preußen",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v740968",
+		"author": [
+			{
+				"literal": "Premierlieutenant Duncker"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1793"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/8H6CR2FH",
+		"type": "map",
+		"abstract": "Belagerung von Mainz 1793\n\nnach Westen ausgerichteter Plan mit den Verschanzungen der Franzosen und der Preußen um Kastel an Main und Rhein mit Kastel im Grundriss und Verzeichnung des zertörten Kostheim",
+		"title": "Plan der Verschanzungen vor Kastel bei Mainz, 1793",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v2558242",
+		"author": [
+			{
+				"literal": "Lieut. Duncker"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1793"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/LD7RAIIR",
+		"type": "map",
+		"title": "Plan der Belagerung der Stadt Mainz durch die Reichsarmee Kaiser Ferdinands II. im Jahr 1635",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v3446968",
+		"author": [
+			{
+				"literal": "Merian, Matthäus"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1660"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/ITI3VX76",
+		"type": "map",
+		"abstract": "Belagerung von Mainz 1793\n\nnach Nordosten ausgerichteter Plan mit der Rhein-Main-Region zwischen Biebrich, Mainz, Flörsheim, Wallau und Wiesbaden mit den Stellungen der Alliierten um Kastel\n\nausführliche Legende",
+		"title": "Belagerung von Mainz, 1793 farblich markierte Bewegungen der Truppen mit den verschiedenen Schanzen Zeittafel",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v2817779",
+		"author": [
+			{
+				"literal": "Bödicker"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1793"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/GDZTAMPF",
+		"type": "map",
+		"abstract": "Belagerung von Mainz 1793'\n\nRhein-Main-Region zwischen Budenheim, Schierstein, Mosbach, Erbenheim, Massenheim, Flörsheim, Rüsselsheim und Ginsheim mit den Stellungen der Hessen, Sachsen und Preußen um Mainz\n\nkurze Legende",
+		"title": "Plan der Belagerung der Stadt Mainz durch die deutschen Truppen, 1793",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v364645",
+		"author": [
+			{
+				"literal": "o.V."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1793"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/9IYZY4Z8",
+		"type": "map",
+		"abstract": "Belagerung von Mainz, 1793\n\nPlan der Belagerungsstellungen der Alliierten zwischen Bretzenheim und Weisenau\n\nkeine weiteren Einzelheiten",
+		"title": "Plan der Eröffnung der Belagerungsgräben vor Mainz, 20. Juni 1793",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v1215585",
+		"author": [
+			{
+				"literal": "Wiederhold"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1793"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/TZ2C8DJE",
+		"type": "map",
+		"title": "Stellungen der 2. Division der Rhein-Armee und der Mosel-Armee vor Mainz am 19. Juli 1795",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v2837725",
+		"author": [
+			{
+				"literal": "o.A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1795"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/WEJ9SJ8Z",
+		"type": "map",
+		"abstract": "Belagerung von Mainz 1793\n\nnach Süden ausgerichteter Plan mit der Rhein-Main-Region zwischen Hochheim und Biebrich mit den Stellungen der Alliierten um Kastel\n\nausführliche Legende",
+		"title": "Plan der Stellungen bei Mainz am 29. März 1793",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v2558240",
+		"author": [
+			{
+				"literal": "A. Duncker"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1793"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/W3G3ZICU",
+		"type": "map",
+		"abstract": "Belagerung von Mainz 1793\n\nnach Westen ausgerichteter Plan der Rhein-Main-Region zwischen Ginsheim, Niederwalluf, Wiesbaden, Diedenbergen und Rüsselsheim mit den Stellungen der Hessen, Sachsen und Preußen um Mainz\n\nausführliche Legende",
+		"title": "Plan der Lager der deutschen Armee um Mainz, 1793",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v2817781",
+		"author": [
+			{
+				"literal": "Joh. Jacob Müller"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1793"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/Q3DXPVJ5",
+		"type": "map",
+		"abstract": "Rheinregion zwischen Mainz und Bingen, 1735\n\nnach Süden ausgerichteter Plan mit den Stellungen der Franzosen und Kaiserlichen",
+		"title": "Plan der Stellungen zwischen Mainz und Bingen, 1735",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v4589033",
+		"author": [
+			{
+				"literal": "o.A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1735"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/X3DNM822",
+		"type": "map",
+		"title": "Karte des Kurfürstentum Mainz mit den angrenzenden Gebieten der Landgrafschaft Hessen und der Pfalzgrafschaft bei Rhein",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v3602564",
+		"author": [
+			{
+				"literal": "o.A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1743"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/L2CGD53G",
+		"type": "map",
+		"abstract": "Truppenstellungen, mit Kostheim und Gustavsburg",
+		"title": "Plan der Befestigung und Belagerung der Stadt Mainz durch Herzog Karl von Lothringen im Jahr 1689",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v2519345",
+		"author": [
+			{
+				"literal": "Merian, Matthäus"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1698"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/TWL9U4EE",
+		"type": "map",
+		"abstract": "nach Süden ausgerichtete Landkarte mit eingezeichneten Ortschaften, rot markierten Festungen und Stellungen der Truppen\n\nLandgrafschaft Hessen-Darmstadt, dem Bistum Mainz und Teilen der Pfalz zwischen Gernsheim und Mainz mit Stellungen bei Flonheim",
+		"title": "Plan der Landgrafschaft Hessen-Darmstadt, vom Bistum Mainz und der Pfalz zwischen Gernsheim und Mainz mit Stellungen bei Flonheim, 1696",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v364440",
+		"author": [
+			{
+				"literal": "o.A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1696"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/N73IJJAQ",
+		"type": "map",
+		"title": "Vogelschaukarte des Grenzverlaufs zwischen Kurmainz und Nassau",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v4064410",
+		"author": [
+			{
+				"literal": "o.A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1718"
+				]
+			],
+			"season": "um"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/73H5HYBE",
+		"type": "map",
+		"abstract": "Belagerung von Mainz, 1689\n\nFestung Mainz mit umgebenden Stellungen\n\nmit beiliegender dreiseitiger Beschreibung als Flugblatt",
+		"title": "Plan der Belagerung von Mainz, 1689",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v1215588",
+		"author": [
+			{
+				"literal": "o.A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1689"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/VB2YWBXY",
+		"type": "map",
+		"abstract": "Belagerung von Mainz 1793\n\nnach Westen ausgerichteter Plan der Rhein-Main-Region zwischen Ginsheim, Niederwalluf, Wiesbaden, Diedenbergen und Rüsselsheim mit den Stellungen der Hessen, Sachsen und Preußen um Mainz\n\nLegende\n\nProvenienz",
+		"title": "Plan der Gegend um Mainz mit dem Lager der vereinigten deutschen Armee, 1793",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v4085898",
+		"author": [
+			{
+				"literal": "o.A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1793"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/YK844KVN",
+		"type": "map",
+		"abstract": "Rheinregion zwischen Oppenheim und Mainz\n\nnach Westen ausgerichteter Plan der Region zwischen Nahe, Flörsheim und Pfungstadt mit den Stellungen der Franzosen und Kaiserlichen bei Oppenheim, Mainz und Algesheim, 1735\n\nLegende",
+		"title": "Plan der Stellungen in der Rheinregion zwischen Oppenheim, Mainz und Bingen, 1735",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v364581",
+		"author": [
+			{
+				"literal": "Leopold jun"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1735"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/57DRDIAP",
+		"type": "map",
+		"abstract": "Kopie\n\n Belagerung von Mainz, 1793\n\nfarblich markierte Bewegungen der Truppen mit den verschiedenen Schanzen\n\nZeittafel",
+		"title": "Plan der Belagerung von Mainz, 10. Juni bis 15. Juli 1793",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v364644",
+		"author": [
+			{
+				"literal": "Carl Friedrich Philip von Baumbach"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1793"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/JTNPAV4D",
+		"type": "map",
+		"title": "Karte der Zehntbezirke der Grafen von der Leyen und des St. Peterstiftes zu Mainz in der Gemarkung Kiedrich",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v1143286",
+		"author": [
+			{
+				"literal": "Landmesser Christoph Hock"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1772"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/87TA75EK",
+		"type": "map",
+		"abstract": "mit Anwesenheitsliste",
+		"title": "Plan des dem Domkapitel zu Mainz gehörden Schwemmlandes am Rheinufer zwischen dem Leinpfad und einzelnen Grundstücken der Gemarkung Mombach",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v351131",
+		"author": [
+			{
+				"literal": "Andreas Trauttner, kurmainzischer geschworener Geometer des Landes Rheingau zu Rüdesheim"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1762",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/AUXENIJM",
+		"type": "map",
+		"abstract": "Belagerung von Mainz 1793\n\nnach Nordosten ausgerichteter Plan mit der Rhein-Main-Region zwischen Ginsheim, Niederwalluf, Wiesbaden, Hofheim und Trebur mit dem Belagerungsring um Mainz und Kastel\n\nausführliche Legende",
+		"title": "Plan der Gegend um Mainz mit dem Lager der Alliierten, am 18. Juni 1793",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v2993244",
+		"author": [
+			{
+				"literal": "geätzt durch W. Unger"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1793"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/ZT67YS8N",
+		"type": "map",
+		"abstract": "rechter Bildrand: Festungsgrundriss von Mainz, 1689\n\nmit Grundriss der sächsischen Stellungen mit Namen der Regimenter",
+		"title": "Plan des Kursächsischen Angriffs vor Mainz, 1689",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v4434010",
+		"author": [
+			{
+				"literal": "o.A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1689"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/J2EI69JC",
+		"type": "map",
+		"abstract": "Belagerung von Mainz 1793\n\nnach Westen ausgerichteter Plan mit der Rhein-Main-Region zwischen Ginsheim, Niederwalluf, Wiesbaden und Hochheim mit dem Belagerungsring um Mainz und Kastel\n\nausführliche Legende",
+		"title": "Plan der Belagerung der Festung Mainz vom 4. April bis zum 22. Juli 1793",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v2117778",
+		"author": [
+			{
+				"literal": "Major von Bouchenröder"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1793"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/3EZR29EC",
+		"type": "map",
+		"title": "Plan der französischen Linien vor Mainz, die von den Österreichern erobert wurden, 29. Oktober 1795",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v809711",
+		"author": [
+			{
+				"literal": "P. Brand; Franz Cöngten"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1795"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/8BKJWI5A",
+		"type": "map",
+		"abstract": "Belagerung von Mainz, 1793\n\nnach Westen ausgerichteter Plan mit den Rheininseln mit ihren Schanzanlagen und den Schanzanlagen bei Gustavsburg am Main\n\nErklärungen",
+		"title": "Plan der Inseln Bleiaue, Drei Müllers Wert und Aukopf und von Gustavsburg bei Mainz, 1793",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v1863795",
+		"author": [
+			{
+				"literal": "Lieut. Duncker"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1793"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/FN95YKFA",
+		"type": "map",
+		"abstract": "Ansicht von Mainz, 1793\n\nBlick auf Mainz und Kastel mit Rhein und Main von Osten mit dem Lagern der Belagerungstruppen\n\nLegende",
+		"title": "Abbildung der Stadt und Festung Mainz mit den Lagern der Preußen, Sachsen und Hessen, 1793",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v3481216",
+		"author": [
+			{
+				"literal": "Berndt"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1963"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/NRBPU65W",
+		"type": "map",
+		"abstract": "Stellungen der Alliierten und der Franzosen bei Mainz, 1793\n\nnach Osten ausgerichteter Plan der Rhein-Main-Region zwischen Schierstein, Hochheim, Ginsheim und Klein-Winternheim mit den Stellungen der Truppen rund um Mainz\n\nLegende\n\nKopie von WHK 31/22",
+		"title": "Plan der Stellungen der vereinigten deutschen Armee bei der Blockade von Mainz, 18. Juni 1793",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v4326392",
+		"author": [
+			{
+				"literal": "Gerhard Conrad von Ising"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1793"
+				]
+			],
+			"season": "1799"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/P38IAI3Q",
+		"type": "map",
+		"abstract": "Stellungen der Alliierten und der Franzosen bei Mainz, 1793\n\nnach Osten ausgerichteter Plan der Rhein-Main-Region zwischen Schierstein, Hochheim, Ginsheim und Klein-Winternheim mit den Stellungen der Truppen rund um Mainz\n\nLegende",
+		"title": "Plan der Stellungen der vereinigten deutschen Armee bei der Blockade von Mainz, 18. Juni 1793",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v4955716",
+		"author": [
+			{
+				"literal": "Marienborn"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1793"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/ZFP4IH86",
+		"type": "map",
+		"abstract": "Belagerung von Mainz, 1795\n\nBlick auf Mainz und die Belagerungsanlagen der Franzosen von Kastel aus vereinfachter Vogelperspektive\n\nLegende",
+		"title": "Darstellung der Verschanzungen der Franzosen bei Mainz, die von den Kaiserlichen erorbert wurden, 29. Oktober 1795",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v4589069",
+		"author": [
+			{
+				"literal": "Barndt"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1795"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/E2STCJV2",
+		"type": "map",
+		"abstract": "Belagerung von Mainz, 1793\n\nGegend am Rhein zwischen Festung Mainz, Weisenau und Hechtsheim mit den Schanzanlagen",
+		"title": "Plan der Belagerung von Mainz durch die Alliierten unter König Friedrich Wilhelm II. von Preußen, 1793",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v1468681",
+		"author": [
+			{
+				"literal": "(Lieut. Duncker)"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1793"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/KIYGRWAP",
+		"type": "map",
+		"abstract": "Belagerung von Mainz, 1793\n\nBelagerungsstellungen gegen die Zitadelle von Mainz von Weisenau am Rhein bis in den Hechtsheimer Grund",
+		"title": "Plan der Belagerung von Mainz unter dem Kommando des Königs von Preußen Friedrich Wilhelm II., 1793",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v3713735",
+		"author": [
+			{
+				"literal": "Lieut. Duncker"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1793"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/X8FPJ96I",
+		"type": "map",
+		"abstract": "Stellungen der Alliierten südlich von Mainz, 1793\n\nGegend am Rhein zwischen Mombach, Bodenheim und Ober-Olm mit den Stellungen der Truppen",
+		"title": "Plan der Stellungen der kaiserlichen, preußischen, kursächsischen und hessisch-darmstädtischen Truppen vor Mainz im Juni 1793",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v809710",
+		"author": [
+			{
+				"literal": "L. Wiederhold, kopiert von Hilchenbach"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1793"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/B4HCMEAZ",
+		"type": "map",
+		"abstract": "Belagerung von Mainz, 1793\n\nBelagerungsstellungen gegen die Zitadelle von Mainz von Weisenau am Rhein bis in den Hechtsheimer Grund\n\nKopie von WHK 31/33",
+		"title": "Plan der Belagerung von Mainz unter dem Kommando des Königs von Preußen Friedrich Wilhelm II., 1793",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v2558244",
+		"author": [
+			{
+				"literal": "F. v. Gilsa, Lieut. im hess. Garde-, Grenadierregiment Kassel"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1793"
+				]
+			],
+			"season": "1796"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/9X2QNSLA",
+		"type": "map",
+		"abstract": "nach Osten ausgerichtete Karte\n\nBelagerung von Mainz, 1689\n\nFestung Mainz mit umgebenden Stellungen\n\nmit Legende in französischer Sprache",
+		"title": "Plan der Belagerung der Stadt und Festung Mainz, 1689",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v4764842",
+		"author": [
+			{
+				"literal": "D"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1689"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/3BVG26VG",
+		"type": "map",
+		"abstract": "Belagerung von Mainz, 1793\n\nGegend am Rhein zwischen Festung Mainz, Weisenau und Hechtsheim mit den Schanzanlagen",
+		"title": "Plan der Belagerung von Mainz durch die Alliierten unter König Friedrich Wilhelm II. von Preußen, 1793",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v3256623",
+		"author": [
+			{
+				"literal": "Carl Friedrich Philip von Baumbach"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1793"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/PWJ2EK9V",
+		"type": "map",
+		"abstract": "Photographie der Originalzeichnung",
+		"title": "Karte über die Aufstellung (Postierung) der preußischen Truppen zwischen Hochheim und Wiesbaden während der Belagerung der von der französischen Armee besetzten Stadt Mainz (Nachdruck)",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v2478446",
+		"author": [
+			{
+				"literal": "gezeichnet von Premierlieutenant Rheinbaden"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1793"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/DME8MNIC",
+		"type": "map",
+		"abstract": "Feldlager der Alliierten bei Mainz 1743\n\nnach Süden ausgerichteter Plan der weiteren Gegend um Mainz mit den Stellungen der Truppen Legende",
+		"title": "Plan der Feldlager der Alliierten bei Biebrich in der Nähe von Mainz am Rhein, 1743",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v4326367",
+		"author": [
+			{
+				"literal": "dec. J.G. Rimius"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1743"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/G9JYBWB6",
+		"type": "map",
+		"abstract": "nach Westen ausgerichtete Karte\n\nBelagerung von Mainz, 1689\n\nFestung Mainz mit umgebenden Stellungen\n\nmit knapper Legende",
+		"title": "Grundriss der Belagerung von Mainz, 16. Juli bis 9. September 1689",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v4326399",
+		"author": [
+			{
+				"literal": "o.A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1689"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/WUFXDKKR",
+		"type": "map",
+		"abstract": "Feldlager der kaiserlichen Truppen vor Mainz, 1689\n\nMainz mit den umliegenden Dörfern und Stellungen aus der Vogelschau\n\nmit ausführlicher Legende in französischer Sprache\n\nKopie von WHK 7/26",
+		"title": "Plan der Feldlager, Stellungen und Attacken der kaiserlichen Truppen vor Mainz, 24. August 1689",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v4955724",
+		"author": [
+			{
+				"literal": "E"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1689"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/QSLWR5CR",
+		"type": "map",
+		"abstract": "Plan der Belagerung von Mainz durch die alliierten Truppen unter dem Herzog von Lothringen, 1689",
+		"title": "Plan der Belagerung von Mainz durch die alliierten Truppen unter dem Herzog von Lothringen, 1689",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v3464310",
+		"author": [
+			{
+				"literal": "o.A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1689"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/ELAU5LNE",
+		"type": "map",
+		"abstract": "Übersichtskarte der Pfalz zwischen Bingen und Worms mit den Feldlagern und Stellungen, 1696-1697",
+		"title": "Karte eines Teils der Kurpfalz, des Kürfürstentums Mainz und des Bistums Worms, 1696 und 1697",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v3911676",
+		"author": [
+			{
+				"literal": "[corrigée sur les lieux par c.d. Voisin Ingr. du général Choiseut]"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1697"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/KM37YILT",
+		"type": "map",
+		"abstract": "Belagerung von Mainz, 1689\n\nmit Festung und umliegenden Dörfern, Festung Gustavburg und Stellungen aus der Vogelschau\n\nmit ausführlicher Legende zu den einzelnen Truppen\n\nnach Süden ausgerichtete Karte",
+		"title": "Plan der Belagerung von Mainz durch die kaiserlichen und alliierten Truppen, 17. Juli bis 1. September 1689",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v4764843",
+		"author": [
+			{
+				"literal": "o.A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1689"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/SBUQCHCQ",
+		"type": "map",
+		"title": "Topographische Karte der Länder zwischen Rhein, Saar, Mosel und dem Niederelsaß, mit der Pfalz, den Kurfürstentümern Mainz und Trier, den Bistümern Speyer und Worms, den Herzogtümern Zweibrücken und Simmern und zahlreichen Grafschaften",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v5417004",
+		"author": [
+			{
+				"literal": "S. Jalliot, königlicher Geograph, Paris"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1705"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/YQEUZWUD",
+		"type": "map",
+		"abstract": "Belagerung von Mainz, 1795\n\nnach Südwesten ausgerichteter Plan mit der Gegend um Mainz zwischen Laubenheim, Hechtsheim und Budenheim, dem Rhein, Biebrich und der Mainmündung bei Kastel und Kostheim mit den Stellungen und Anlagen der Kaiserlichen und der Franzosen Legende\n\nNebenkarte: Gefecht bei Höchst am 12. Oktober 1795 (mit Legende)\n\nAbbildung: Erdhütte\n\nmit: 'Nachricht zur Erläuterung des Plans' (3 Seiten)",
+		"title": "Plan der Gegend von Mainz, 1795",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v4589072",
+		"author": [
+			{
+				"literal": "Andreas Wilhelm Eberhard von Ising"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1795"
+				]
+			],
+			"season": "1799"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/BV6PNZYC",
+		"type": "map",
+		"title": "Skizze einer Wegeverlegung bei Delkenheim als Teil des Weges zwischen Diedenbergen und Mainz",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v4327588",
+		"author": [
+			{
+				"literal": "o.A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1600"
+				]
+			],
+			"season": "1699"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/7ND2BLC9",
+		"type": "map",
+		"abstract": "Belagerung von Mainz 1793\n\nnach Westen ausgerichteter Plan mit der Rhein-Main-Region zwischen Ginsheim, Niederwalluf, Wiesbaden, Hochheim und Rüsselsheim mit dem Belagerungsring um Mainz und Kastel\n\nOrtschaften aus Vogelperspektive\n\nLegende",
+		"title": "Plan der Belagerung von Mainz mit den Schanzanlagen der Belagerer und der Belagerten, 1793",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v5119475",
+		"author": [
+			{
+				"literal": "o.A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1793"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/D359FN89",
+		"type": "map",
+		"abstract": "Die Schmitt´sche Karte von Südwestdeutschland umfasst Gebiete von Salzburg, Bayern, Pfalz, Württemberg, Baden und Hessen-Nassau im Jahr 1797.;\nDas farbige topografische Kartenwerk besteht aus 198 Kartenblättern im Maßstab 1:57.600. Unter Leitung des österreichischen Generalmajors Heinrich von Schmitt, der damals dem k. u. k. Generalquartiermeisterstab vorstand, wurde dieses ausschließlich für militärischen Zwecke dienende Kartenwerk erstellt. Daher ist das Kartenwerk gegen den anrückenden Gegner nach Westen ausgerichtet. Wegen des fehlenden übergeordneten trigonometrischen Netzes handelt es sich hierbei um keine wissenschaftlich exakte topografische Landesaufnahme.",
+		"event-place": "[Österreich?]",
+		"publisher-place": "[Österreich?]",
+		"title": "Schmitt'sche Karte von Südwestdeutschland [Teile des Kartenwerks] – Blatt 30: Alzey-Mainz",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v2718197",
+		"author": [
+			{
+				"family": "Schmitt",
+				"given": "Heinrich",
+				"non-dropping-particle": "von"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1797"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/XZ8GECLN",
+		"type": "map",
+		"abstract": "mit Vermerken über Flurbesitzer und Kulturzustand",
+		"title": "Karte der Güter des Klosters Altenmünster zu Mainz in der Gemarkung Mombach",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v3259130",
+		"author": [
+			{
+				"literal": "o.A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1695"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/UCFSIBF3",
+		"type": "map",
+		"title": "Karte der Belagerung von Mainz und Kastell durch die alliierte Armee",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v2537345",
+		"author": [
+			{
+				"literal": "Zeichner: Köhler"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1793"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/3BZXWQUN",
+		"type": "map",
+		"title": "Karte der Belagerung von Mainz durch Frankreich",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v5149224",
+		"author": [
+			{
+				"literal": "gezeichnet von C.I. v. Humbert, Preußischer Ingenieur-Leutnant; Kupferstich von Carl Jöck, Berlin, 1794"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1794"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/K5XFK2EZ",
+		"type": "map",
+		"title": "Preußische Planskizze der Blockade von Mainz 1793",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v406802",
+		"author": [
+			{
+				"literal": "o.A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1793"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/A94PEDJI",
+		"type": "map",
+		"abstract": "mit Truppenstellungen, Festungsanlagen und den Vororten Gustavsburg, Kostheim und Kastel",
+		"title": "Karte der Blockade von Mainz 1689",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v2561028",
+		"author": [
+			{
+				"literal": "o.A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1690"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/G24DMHA6",
+		"type": "map",
+		"abstract": "Plan der Belagerung von Mainz nebst den vorhergegangenen Positionen bey Wichert und Hochheim im Jahr 1793",
+		"title": "Belagerungsplan von Mainz",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v1866993",
+		"author": [
+			{
+				"literal": "gezeichnet von: [C. J.] Humbert; aufgenommen von: I[nfanterie] Lieut[nant] Jachnik und Humbert / gestochen von Carl Jäck / [Capitaine] [Franz Jacob] Röder"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1793"
+				]
+			],
+			"season": "1794"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/EFM6I78N",
+		"type": "map",
+		"abstract": "Plan der Belagerung von Mainz nebst den vorhergegangenen Positionen bey Wichert und Hochheim im Jahr 1793",
+		"title": "Belagerungsplan von Mainz",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v351226",
+		"author": [
+			{
+				"literal": "C. J. Humbert"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1794"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/SZU5A5RB",
+		"type": "map",
+		"abstract": "Stellungen der Truppen im Rhein-Main-Gebiet 1792/1793\n\nnach Süden ausgerichteter Plan der Rhein-Main-Region von Osthofen bis Mainz und Wiesbaden, bis Königstein und Bonames, von Frankfurt über Darmstadt bis Zwingenberg mit Verzeichnung der Wege und Straßen",
+		"title": "Plan der Stellungen in der Region von Frankfurt und Mainz, zwischen Main und Rhein, im Winter 1792/1793 und des Gefechts bei Alsheim am alten Rhein am 30. März 1793",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v4434005",
+		"author": [
+			{
+				"literal": "o.A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1793"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/M8BDAD89",
+		"type": "map",
+		"abstract": "Belagerung von Mainz, 1793\n\nRhein-Main-Region von Hechtsheim bis Budenheim, mit Biebrich, Mosbach, Erbenheim, Hochheim bis Ginsheim, mit Mainz im Grundriss und Belagerungsstellungen der Preussen, Sachsen und Hessen",
+		"title": "Plan der Belagerung von Mainz, 1793",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v2558241",
+		"author": [
+			{
+				"literal": "o.A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1793"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/96YTVUQ9",
+		"type": "map",
+		"abstract": "Belagerung von Mainz, 1793\n\nGegend am Rhein zwischen Festung Mainz, Weisenau und Hechtsheim mit den Schanzanlagen\n\nKopie von WHK 31/24",
+		"title": "Plan der Belagerung von Mainz, 1793",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v2558243",
+		"author": [
+			{
+				"literal": "J. L. von Motz"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1793"
+				]
+			],
+			"season": "1795"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/GJYPZ6KV",
+		"type": "map",
+		"abstract": "Belagerung von Mainz, 1795\n\nnach Südwesten ausgerichteter Plan mit der Gegend um Mainz zwischen Laubenheim, Hechtsheim und Budenheim, dem Rhein, Biebrich und der Mainmündung bei Kastel und Kostheim mit den Stellungen und Anlagen der Kaiserlichen und der Franzosen\n\nLegende\n\nNebenkarte: Gefecht bei Höchst am 12. Oktober 1795 im Maßstab: 400 Schritte = 2,6 cm, mit Legende\n\nAbbildung: Erdhütte",
+		"title": "Plan der Gegend von Mainz, 1795",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v5479213",
+		"author": [
+			{
+				"literal": "Ph. Bauer"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1795"
+				]
+			],
+			"season": "1799"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/AXKMNMLV",
+		"type": "map",
+		"title": "Karte der Grenze zwischen Kurmainz und Hessen-Hanau",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v2096290",
+		"author": [
+			{
+				"literal": "Gezeichnet von dem kurmainzischen Leutnant und Ingenieur Johann Peter Kühn"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1744",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/JJEXXHMJ",
+		"type": "map",
+		"language": "de",
+		"title": "Plan des von Kurmainz beanspruchten Waldstücks bei Hirschhorn",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v2996798",
+		"author": [
+			{
+				"literal": "Johann Jakob Zimmermann, Erbach-Fürstenauischer Geometer"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1768",
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/NMWVXY4G",
+		"type": "map",
+		"language": "de",
+		"title": "Karte der Grenze zwischen der Herrschaft Wiesbaden, Kurmainz und Hessen-Kassel",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v4335227",
+		"author": [
+			{
+				"literal": "o.A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1700"
+				]
+			],
+			"season": "1750"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/YWPHEXL7",
+		"type": "map",
+		"language": "de",
+		"title": "Karte des strittigen Grenzverlaufs zwischen Nassau und Kurmainz am Sellenberg bei Reifenberg",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v3220631",
+		"author": [
+			{
+				"literal": "Hagelgans"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1700"
+				]
+			],
+			"season": "1800"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/NQWISG3Z",
+		"type": "map",
+		"language": "de",
+		"title": "Karte der Grenze zwischen Nassau, Kurmainz und Hessen in der Gegend von Wambach",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v1371959",
+		"author": [
+			{
+				"literal": "o.A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1730"
+				]
+			],
+			"season": "um"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/PGNJE4LZ",
+		"type": "map",
+		"archive": "Hessisches Hauptstaatsarchiv, 3011/1 Allgemeine Kartenabteilung",
+		"language": "de",
+		"title": "Karte der Grenze zwischen Kurpfalz und Kurmainz im Gebiet von Ransel und Kaub",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v4371729",
+		"author": [
+			{
+				"literal": "P. Graßmann"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1792"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/SLH83F2F",
+		"type": "map",
+		"language": "de",
+		"title": "Karte der zwischen Kurmainz und Hessen-Darmstadt strittigen rechtsrheinischen Besitzungen der Gemeinde Nierstein",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v3466870",
+		"author": [
+			{
+				"literal": "Johann Wilhelm Hochstein"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1787"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/WDVKQ85K",
+		"type": "map",
+		"language": "de",
+		"title": "Karte der Landesgrenze zwischen der nassauischen Herrschaft Wiesbaden, Kurmainz und Hessen-Kassel bei Frauenstein",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v1777704",
+		"author": [
+			{
+				"literal": "o.A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1700"
+				]
+			],
+			"season": "um"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/K26QR7VT",
+		"type": "map",
+		"language": "de",
+		"title": "Karte der Grenze zwischen Kurmainz und der Grafschaft Hanau in den Gemarkungen Zellhausen und Babenhausen",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v2077876",
+		"author": [
+			{
+				"literal": "J[ustus] C[onrad] Lindt, Stückjunker"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1736",
+					3,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/66K5C3XN",
+		"type": "map",
+		"abstract": "Areal: Lippstadt, Fulda, Drusenheim, Aachen",
+		"language": "de",
+		"title": "Karte des Niederrheinischen bzw. Kurrheinischen Reichskreises mit Kurmainz, Kurköln, Kurtrier und Kurpfalz, den Grafschaften Beilstein, Neuenahr, [Nieder]-Isenburg und [Salm]-Reiferscheit",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v3914163",
+		"author": [
+			{
+				"literal": "Anon."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1712"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/KZ8YH5CS",
+		"type": "map",
+		"language": "de",
+		"title": "Karte über den Grenzstreit zwischen Hanau und Kurmainz wegen der Grenze beim neuen Wirtshaus zu Großauheim",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v5278958",
+		"author": [
+			{
+				"literal": "Johannes [Heinrich] Zincke"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1772"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/ASRQ3RKV",
+		"type": "map",
+		"language": "de",
+		"title": "Faustskizze der Grenzen der Dörfer Angenrod, Gleimenhain und Fischbach mit Hessen-Darmstadt, Hessen-Kassel und Kurmainz",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v1644928",
+		"author": [
+			{
+				"literal": "Daniel Ludwig Lüncker, Rentmeister zu Alsfeld"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1628"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/IIHZNWGP",
+		"type": "map",
+		"language": "de",
+		"title": "Karte der Landesgrenze zwischen Nassau-Idstein, Kurmainz und Hessen entlang der Walluf von Wambach bis Niederwalluf",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v621357",
+		"author": [
+			{
+				"literal": "gezeichnet von N. Person"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1682"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/G89A6GQG",
+		"type": "map",
+		"language": "de",
+		"title": "Karte der Gemarkung Schweighausen zur Klärung der Grenzstreitigkeiten zwischen Kurmainz und Nassau bzw. dem Freiherrn vom Stein",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v1371735",
+		"author": [
+			{
+				"literal": "gezeichnet von Ingenieur Leutenant de Bassecrode und Joseph Raab, Ehrenbreitstein"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1700"
+				]
+			],
+			"season": "1750"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/LD2XPGGY",
+		"type": "map",
+		"archive": "Hessisches Hauptstaatsarchiv, 3011/1, 582 H",
+		"language": "de",
+		"title": "Karte über die Streitigkeiten zwischen Kurmainz und Hessen-Darmstadt um den Grenzverlauf und die Geleitsrechte bei Diedenbergen",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v2963083",
+		"author": [
+			{
+				"literal": "o.A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1700"
+				]
+			],
+			"season": "1725"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/EHZ7ZYXB",
+		"type": "map",
+		"language": "de",
+		"title": "Karte der Landesgrenze zwischen der Vogtei Schönau in Nassau-Weilburg und den Orten Espenschied und Wollmerschied in Kurmainz",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v5417572",
+		"author": [
+			{
+				"literal": "D. Hoffmann"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1782"
+				]
+			],
+			"season": "1784"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/3MF8XL45",
+		"type": "map",
+		"language": "de",
+		"title": "Karte des 'Hirnswaldes' bei Lorch, gezeichnet anläßlich des Streitfalls zwischen Kurmainz und von Sickingen wegen einer dort erbauten Mühle",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v5245160",
+		"author": [
+			{
+				"literal": "o.A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1700"
+				]
+			],
+			"season": "1800"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/RQWKB43K",
+		"type": "map",
+		"language": "de",
+		"title": "Karte des Südteils des Fränkischen Reichskreises mit Kurmainz sowie den Grafschaften Wertheim, Rieneck, Erbach und Hohenlohe und dem Bistum Würzburg",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v3914165",
+		"author": [
+			{
+				"literal": "Johannes Covens"
+			},
+			{
+				"literal": "Pieter Mortier"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1720"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/H3SAVCPX",
+		"type": "map",
+		"language": "de",
+		"title": "Karte der Landesgrenze von Nassau-Usingen und Kurmainz zwischen Kastel und Kostheim sowie Mosbach und Erbenheim entlang der Mainzer Landwehr (Landgraben)",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v1143252",
+		"author": [
+			{
+				"literal": "o.A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1800"
+				]
+			],
+			"season": "1850"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/5CJGSBBT",
+		"type": "map",
+		"language": "de",
+		"title": "Karte des Grenzscheide-Baches zwischen dem Territorium von Hessen und Kurmainz entlang des Schlangenbader Baches von der 'Warmen Mühle' bis Schlangenbad",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v952276",
+		"author": [
+			{
+				"literal": "Andreas Trauttner"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1764"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/PWPCZ9MQ",
+		"type": "map",
+		"genre": "engraving",
+		"language": "de",
+		"publisher": "Nürnberg",
+		"title": "Karte eines Teils des Hunsrück und der benachbarten Territorien von Kurmainz und Kurtrier mit Darstellung der Märsche und Militärlager der kaiserlichen Reichsarmee nach Luxemburg",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v744528",
+		"author": [
+			{
+				"literal": "Hohmann'sche Erben"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1735"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/SZG8RK9X",
+		"type": "map",
+		"abstract": "rchivaliensignatur:\nHessisches Staatsarchiv Darmstadt, P 1, 2335\nKontext:\nAlte Karten und Pläne (bis 1918) >> Grenzen von Hessen-Darmstadt >> Andere Grenzen\nLaufzeit:\n1768\nMaße:\n20 x 132 cm\nArchivalientyp:\nKarte/Plan\nSonstige Erschließungsangaben:\nIdentifikation (Karte/Plan): Originaldatierung: [1768]\n\nIdentifikation (Karte/Plan): Originaltitel: Grund-Riß von denen zwischen Churpfälzischer Administrations Waldung und Churmainzischer hersch[aftlicher] Waldung befundene Gräntz-Steine\n\nWeitere Angaben (Karte/Plan): Maßstab: ohne Maßstab\n\nWeitere Angaben (Karte/Plan): Ausführung: Papier, kolorierte Handzeichnung\n\nWeitere Angaben (Karte/Plan): Blattzahl: 1\n\nWeitere Angaben (Karte/Plan): Korrespondierende Archivalien: E 1 K Nr. 221/16\nWeniger anzeigen\nBemerkungen:\nGrenzbeschreibung siehe E 1 K Nr. 221/16\nBestand:\nP 1 Alte Karten und Pläne (bis 1918)",
+		"language": "de",
+		"title": "Karte der Grenze zwischen Kurmainz und Kurpfalz bei Neckarsteinach und Schönau zu den Streitigkeiten mit Kurpfalz wegen Bestrafung des kurpfälzischen Hofbauern von Michelbach wegen Fällung eines Mahlbaums und Durchführung einer neuen Grenzbegehung durch kurmainzische Beamte zu Schönau",
+		"URL": "https://arcinsys.hessen.de/arcinsys/detailAction.action?detailid=v3216496",
+		"author": [
+			{
+				"literal": "Anon."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1768"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/2D4SCJKL",
+		"type": "map",
+		"abstract": "Die Karte Theatrum Belli Rhenani zeigt das Kriegsgebiet am Rhein zwischen Bodensee und Koblenz zur Zeit des Spanischen Erbfolgekrieges in den Jahren 1702-1713.;\nDas farbige Kartenwerk umfasst 20 Kartenblätter im Maßstab 1:110.000. Die Kartenblätter sind nach Westen ausgerichtet. Dieses \"Rheinische Kriegstheater\" wurde von dem in kaiserlichen Diensten stehenden Militärkartografen Cyriakus Blödner gefertigt.\nDie Darstellung von Reichstadt, Schloß, Flecken, Dorf, Weiler, Müller, Reichsposten., Kapellen, Kloster, Bistum, Weingebieten und vielem mehr, illustriert diese Epoche auf eine sehr anschauliche Art. Weiterhin wird der Kriegsverlauf des Feldzuges während des Jahres 1713 geschildert. Mit Nummern und Textzeilen werden in den Karten auf die Stellungen und Bewegungen der kaiserlich-deutschen und französischen Truppenteile verwiesen.",
+		"language": "lat",
+		"title": "Theatrum Belli Rhenani [Karte des Rheingebiets inkl. Mainz im Spanischen Erbfolgekrieg]",
+		"URL": "http://historische-karten.on-geo.de/is-bin/INTERSHOP.enfinity/WFS/port_oldmaps/de_DE/-/EUR/OG_ViewSearch-ViewProductMap;sid=JddB9tzh2dLahrzPDV0v9d3r_y9431QhM1mDhtLOtZ9gfpiLM8eQ_Puz56dP2Q==?ProductRef=old_PRRLP0046%40port_oldmaps&OG_MainIDs=946&PageableID=filteredCategories_JddB9tzh2dLahrzPDV0v9d3r_y9431QhM1mDhtLOtZ9gfpiLM8eQ_Puz56dP2Q%3d%3d&PageableName=&OldmapID=24239&ResultTemplate=og_product_details_map",
+		"author": [
+			{
+				"family": "Blödner",
+				"given": "Cyriakus"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1713"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/P8HQNNSA",
+		"type": "map",
+		"abstract": "Vorprovenienz: Reichskammergericht\nMaße:\n54 x 72,5 cm\nUrheber: Konrad Hotter, Landgeometer von Großostheim\nArchivalientyp: Karte/Plan\nSonstige Erschließungsangaben: Identifikation (Karte/Plan): Originaldatierung: 30. Oktober 1780 aufgenommen und in Riß gebracht",
+		"archive": "Hessisches Staatsarchiv Darmstadt, P 1, 151",
+		"language": "de",
+		"title": "Karte der Gemarkung Radheim",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/PEDSDHZDQB3QAO7SGPLRZM6HT3ZC6Q2A",
+		"author": [
+			{
+				"literal": "Konrad Hotter, Landgeometer von Großostheim"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1780"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/DB4X74H4",
+		"type": "map",
+		"language": "de",
+		"title": "Karte des Bürgerfelds um die Stadt Mainz",
+		"URL": "https://www.deutsche-digitale-bibliothek.de/item/7U55TQ5FU2N2NKTFMACV3NH3SKRB3NKE?query=Karte+des+Bürgerfelds+um+die+Stadt+Mainz&thumbnail-filter=on&isThumbnailFiltered=true&rows=20&offset=0&viewType=list&firstHit=7U55TQ5FU2N2NKTFMACV3NH3SKRB3NKE&lastHit=lasthit&hitNumber=1",
+		"author": [
+			{
+				"literal": "Anon."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1747"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/LVDH3YLB",
+		"type": "map",
+		"abstract": "Identifikation (Karte/Plan): \n\nWeitere Angaben (Karte/Plan): Maßstab: 1:1825\n\nWeitere Angaben (Karte/Plan): Ausführung: Papier, auf Leinwand aufgezogen; Federzeichnung, koloriert\n\nBestand:\nP 1 Alte Karten und Pläne (bis 1918)",
+		"genre": "colored hand-drawing",
+		"language": "de",
+		"title": "Grundriss von denen kurmainzischen im Oberamt Starkenburg zu Biblis liegenden Kameral Gütern (das Schlitterische Gut genannt), bestehet in einer Hofreit, Wiesen und Garten",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/XM6TCUQIXAWJ7MNHHMLWOGXOVLDZZ43J",
+		"author": [
+			{
+				"family": "Seifriedt",
+				"given": "Johannes"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1791"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/UBYE69ID",
+		"type": "map",
+		"abstract": "Identifikation (Karte/Plan): Originaltitel: Situation des Schlangenbades sowohl auf der hessischen als auf der Kurmainzer Seite samt einem Grundriß des fürstlich hessischen Badehauses.",
+		"language": "de",
+		"title": "Karte von Schlangenbad im Territorium von Kurmainz und Hessen, mit Grundriß des fürstlich-hessischen Badehauses",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/4OKXPGHYUGJPW3ST5F6BKJ3HZVY3CT4P",
+		"author": [
+			{
+				"literal": "[Birkenmeyer]"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1700"
+				]
+			],
+			"season": "1750"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/B4Y382Q8",
+		"type": "map",
+		"abstract": "Vorprovenienz: Kurmainz",
+		"archive": "Hessisches Staatsarchiv Darmstadt, P 1, C 2 Nr. 38/1",
+		"language": "de",
+		"title": "Karte der Gemarkung Wattenheim",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/GLFXH5HH7LMGDLC22S6YRMFM5TBLDUWX",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1668"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/QDII9TWR",
+		"type": "map",
+		"abstract": "Alt-/Vorsignatur:\nBestellsignatur: P 1, in C 2 Nr. 38/1 Bl. 22 R\nSonstige Behördensignaturen: P 1, Gefach XXII Fasc. XXXIII\nKontext:\nAlte Karten und Pläne (bis 1918) >> Hessen-Darmstadt >> Starkenburg (ehemalige Provinz) >> Rodau\nLaufzeit:\n1668\nVorprovenienz:\nKurmainz\nMaße:\n17 x 17,5 cm\nArchivalientyp:\nKarte/Plan\nSonstige Erschließungsangaben:\nIdentifikation (Karte/Plan): Originaldatierung: 1668\n\nIdentifikation (Karte/Plan): Originaltitel: Rodaw\n\nWeitere Angaben (Karte/Plan): Ausführung: Papier, kolorierte Federzeichnung",
+		"archive": "Hessisches Staatsarchiv Darmstadt, P 1, C 2 Nr. 38/1",
+		"genre": "colored hand-drawing",
+		"language": "de",
+		"title": "Karte der Gemarkung Rodau [Kreis Bergstraße]",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/EF76UADC5PERMEM5NFQOKSHWFWX3LJ3K",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1668"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/2EH9ET3W",
+		"type": "map",
+		"abstract": "Weitere Angaben (Karte/Plan): Maßstab: ca. 1:11.100\n\nWeitere Angaben (Karte/Plan): Ausführung: Papier, Federzeichnung, koloriert\n\nWeitere Angaben (Karte/Plan): Blattzahl: 1\n\nVermerke: Deskriptoren: Hessen (Teile) / Rheingau\n\nVermerke: Deskriptoren: Boltz\nBestand:\nP 1 Alte Karten und Pläne (bis 1918)",
+		"archive": "Hessisches Staatsarchiv Darmstadt, P 1, 698",
+		"genre": "colored hand-drawing",
+		"language": "de",
+		"title": "Karte des Rheins zwischen Geisenheim und Hattenheim [Originaltitel: Plan über die Lage des Rheinstroms zwischen Mainz und Bingen im sog. Rheingau, insoweit Kurpfalz einerseits, dann Kurmainz andererseits Rheinüber sich begrenzen]",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/G4SZGEREHAM365ZT4MRDZDYYIWGBZHRI",
+		"author": [
+			{
+				"literal": "Boltz"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1782"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/MIG2A9W6",
+		"type": "map",
+		"abstract": "Korrespondierende Archivalien: Abt. 303 XV 2 Nr. 27",
+		"genre": "colored hand-drawing",
+		"language": "de",
+		"title": "Karte des Grenzscheide-Baches zwischen dem Territorium von Hessen und Kurmainz entlang des Schlangenbader Baches von der 'Warmen Mühle' bis Schlangenbad [Originaltitel: Gründlicher Plan des Grenzscheidebaches zwischen dem kurmainzischen und dem hessischen Territorium entlang des Schlangenbader Baches von der 'Warmen Mühle' oberhalb Schlangenbads bis Schlangenbad]",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/V2J3OYGVBWYLDOVILL5G2APCCCI4HKYB",
+		"author": [
+			{
+				"literal": "Anon."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1764"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/9ZUUK69F",
+		"type": "map",
+		"abstract": "1752\nMaße:\n34 x 33 cm\nUrheber:\nVorlage Johann Heinrich Köhler, Geometer, und Johann Henrich Zincke, Hessen-Hanauischer Landkommissar und Geometer, kopiert von Johann Friedrich Zincke\n\nSonstige Erschließungsangaben:\nIdentifikation (Karte/Plan): Originaldatierung: Frankfurt, 15. Mai 1752 / kopiert Ober-Roden, 11. Juli 1775\n\nIdentifikation (Karte/Plan): Originaltitel: Grund- und Situationsriß über den zwischen Kurmainz und Hessen-Hanau strittigen Jagddistrikt bei Jügesheim und Hainhausen\n\nIdentifikation (Karte/Plan): Inhaltliche Beschreibung: mit Ortslagen von Jügesheim und Hainhausen",
+		"language": "de",
+		"scale": "1:8000",
+		"title": "Karte der Gemarkungen Jügesheim und Hainhausen",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/2NWKMOP2IJSAIQ44COTYLCKBDNXRW3NM",
+		"author": [
+			{
+				"family": "Zincke",
+				"given": "Johann Henrich"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1752"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/KYK4KQSB",
+		"type": "map",
+		"abstract": "Kontext: Kurmainzische Regierung zu Erfurt. Varia >> 01. Grenz- und Hoheitssachen\n\nEnthält u. a.: Farbige Pläne und Karten.\n\nDigitalisat im Angebot des Archivs:\nkein Digitalisat verfügbar",
+		"archive": "Landesarchiv Sachsen-Anhalt, A 43 V, Nr. 41 (Benutzungsort: Wernigerode)",
+		"language": "de",
+		"title": "Hoheitsrezess zwischen Kurmainz und Sachsen-Gotha",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/3CIPLVCHHNOLYHU47WLCPVIRPXQZJRQD",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1719"
+				]
+			],
+			"season": "1721"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/66IBGBUB",
+		"type": "map",
+		"language": "de",
+		"title": "Sachsen-Gothaische Ratifikation des mit Kurmainz am 16. Febr. 1719 in Erfurt geschlossenen Vertrags zur Beilegung von Streitigkeiten über Grenzen, Hut und Trift. Enthält u.a.: - Beilagen und 4 Karten",
+		"title-short": "Sachsen-Gothaische Ratifikation des mit Kurmainz am 16. Febr. 1719 in Erfurt geschlossenen Vertrags zur Beilegung von Streitigkeiten über Grenzen, Hut und Trift. Enthält u.a.",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/MHLELYKVLPSP6CB33CSKZM4AEECMPSPH",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1719"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/26IH4LXW",
+		"type": "map",
+		"abstract": "Vorprovenienz:\nKurmainz\nMaße:\n42,5 x 36 cm\nArchivalientyp:\nKarte/Plan\nSonstige Erschließungsangaben:\nIdentifikation (Karte/Plan): Originaldatierung: 1563\n\nIdentifikation (Karte/Plan): Originaltitel: Abriß des gantzen Ambts undt Stättlein Gernßheim\n\nIdentifikation (Karte/Plan): Inhaltliche Beschreibung: mit schematisierten farbigen Ansichten von Gernsheim [mit Maria Einsiedel], Rodau und Wattenheim; weitere Orte: Klein-Rohrheim, Biebesheim, Schwanheim, Langwaden, Nordheim\n\nWeitere Angaben (Karte/Plan): Ausführung: Papier, kolorierte Federzeichnung\n\nWeitere Angaben (Karte/Plan): Blattzahl: 1\nBestand:\nP 1 Alte Karten und Pläne (bis 1918)",
+		"genre": "colored hand-drawing",
+		"language": "de",
+		"title": "Karte des Gebietes um Gernsheim, Rodau und Wattenheim",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/7I5OJVCRXEEP4TFVFOBTQNUR747SQL35",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1563"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/E8DVZGY9",
+		"type": "map",
+		"abstract": "Laufzeit:\n1791\nMaße:\n24,5 x 90 cm\nUrheber:\naufgemessen [...] durch Henrich Felix Cadet\nArchivalientyp:\nKarte/Plan\nSonstige Erschließungsangaben:\nIdentifikation (Karte/Plan): Originaldatierung: im Jahr 1791\n\nIdentifikation (Karte/Plan): Originaltitel: General Plan über den Lahn-Fluss von Nieder-Lahnstein bis Oranienstein\n\nIdentifikation (Karte/Plan): Inhaltliche Beschreibung: mit an Lahn grenzenden Hoheitsgebieten 'Chaumburgische Hoheit', 'Abteylich Arnsteinisch', 'Oranien Dietzisch', 'Hessen Darmstaedtische Hoheit', 'Nassauische Hoheit', 'Graeflich Leysche Hoheit', 'Kurmaynzische', 'Kurtrierische'\n\nWeitere Angaben (Karte/Plan): Maßstab: 9,4 cm = 9000 Schuh [ca. 1:30.064]\n\nWeitere Angaben (Karte/Plan): Ausführung: Papier, auf Leinen gezogen, kolorierte Zeichnung\n\nWeitere Angaben (Karte/Plan): Blattzahl: 1\nDigitalisat im Angebot des Archivs:\nkein Digitalisat verfügbar",
+		"genre": "colored hand-drawing",
+		"language": "de",
+		"title": "Karte des Lahnlaufs zwischen Lahnstein und Oranienstein mit den angrenzenden Hoheitsgebieten von Schaumburg, Kloster Arnstein, Nassau, (Oranien-Diez), Hessen-Darmstadt, von der Leyen, Kurmainz und Kurtrier",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/7HP4UZO2TE3ODMB3POJH4RFXP56HKU7Q",
+		"author": [
+			{
+				"family": "Cadet",
+				"given": "Henrich Felix"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1791"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/KE5FVZ72",
+		"type": "map",
+		"abstract": "Enthält: 1. Amöneburg, St. Johann Bapt.:I. Allgemeine Verwaltung: Kapitel (Protokolle des 17. und 18. Jhdts.), Domherren; II. Pfründe; III. Fiskus; IV. Recht\n2. Fritzlar, St. Peter: I. Allgemeine Verwaltung: Kapitel (Protokolle des 16.-18. Jhdts.), Dekan, Domherren, Propstei, Offizialat, Altaristen; II. Pfründen: Präsenzgelder, Allodien, Präbenden; III. Fiskus: Rechnungen (Amtsbuchserien des 15.-19. Jhdts.), Darlehen und Schulden, Abgaben und Steuern, Güter und Lehen; IV. Recht: Jurisdiktion, Prozesse gegen Hessen, die Stadt Fritzlar u.a.\n3. Mainz, St. Peter: Unterlagen zu den Großkrotzenburger Waldungen und der Oberrodenbacher Mühle\n\nBestandsgeschichte: Bei der Erschließung anderer Bestände wurden einzelne Akten gemäß dem Provenienzprinzip ausgeschieden und in dem Bestand 105 c zusammengeführt.\n1. Amöneburg, St. Johann Bapt.: Die Unterlagen wurden 2006 aus dem Bestand 22 a 2 Kirchensachen - Klöster und Stifte herausgezogen und neu verzeichnet.\n2. Fritzlar, St. Peter: Um die Mitte des 18. Jhdts. wurde vom Scholaster Spreckmann eine Neuordnung der Unterlagen des Stifts vorgenommen. Das Archiv war damals in Räumen über dem Kreuzgang untergebracht, die nach der Säkularisation zu Amtsstuben und Arrestzellen umgebaut wurden. Dabei wurden die Unterlagen auf einem Haufen zusammengeworfen, so dass die Ordnung der Akten zerstört wurde und Teile des Archivs verloren gingen. Mitte des 19. Jahrhunderts ging der geschichtlich interessierte Landrat Weber daran, die verbliebenen Reste aus Dachböden und Kellergelassen zusammenzutragen. Was außerhalb der Behördenräume zu finden war, gelangte über den Besitz Webers ins Staatsarchiv Marburg und wurde dort bis zur Neuerschließung im Jahre 2006 als Bestand 105 II bzw. als Rechnungen II Fritzlar geführt. Was dagegen noch in den alten Amtsstuben vorhanden war, verblieb im Eigentum der Pfarrgemeinde Fritzlar. Wertvolle Inkunabeln und illuminierte Handschriften, ursprünglich ebenfalls Teil des Stiftsarchivs, gingen zunächst in die Bestände der kurfürstlichen Bibliothek, dann in die der Landesbibliothek Kassel über.\n3. Mainz, St. Peter: Die Unterlagen wurden aus dem Bestand XI Forstinspection Hanau herausgezogen.\n\nGeschichte des Bestandsbildners: 1. Amöneburg, St. Johann Bapt.: Das Stift wurde 1360 durch Erzbischof Gerlach von Mainz gegründet, nachdem bereits im Jahre 1286 eine Pfarrkirche St. Johann bestanden hatte. Als Festungsstadt war Amöneburg während des Dreißigjährigen Krieges heftig umkämpft, wurde mehrmals belagert, besetzt und schließlich weit gehend zerstört. Die längste Besatzung war die durch hessische Truppen zwischen 1632 und 1635. Nach 1648 begann eine Zeit des Wiederaufbaus. Der Stiftsbezirk wurde bis zum Ende des Jahrhunderts als geschlossener Komplex neu gestaltet und umfasste seit 1662 auch ein Gemeinschaftshaus für die Stiftsgeistlichen. 1748 erhielt das Stift durch Erzbischof Karl Joseph von Mainz neue Statuten, die die Pflege des Gottesdienstes, die Mitgliedschaft im Kapitel, die Leitung von Bibliothek und Archiv, das Siegelrecht, die innere Wirtschaftsführung und die Verwaltung des Grundbesitzes betrafen. Mit den Regelungen des Reichsdeputationshauptschlusses fiel das Stift Kurhessen zu, das es mit den umliegenden Besitzungen in eine Staatsdomäne umwandelte.\nAn der Spitze des Stifts stand ein Dekan, der in der Regel gleichzeitig der Pfarrer der Stadtgemeinde war. Daneben gab es einen Scholaster, der für die Ausbildung der Domizellare - der künftigen Stiftsherren - zuständig war, einen Kantor, die Altaristen und schließlich die Domherren selbst, die sich in erster Linie aus Amöneburger Bürgersöhnen rekrutierten. Als Laien gehörten der Kämmerer und der Schulmeister dem Stift an.\n2. Fritzlar, St. Peter: Das Stift geht zurück auf eine dem Apostel Petrus geweihte Holzkirche, die der hl. Bonifatius 723/724 als Missionsstützpunkt gegründet hatte. Die Kirche wurde 732/733 zunächst in ein Kloster, 1005 dann schließlich in ein Chorherrenstift umgewandelt. Im Laufe des 11. Jhdts. - der genaue Zeitpunkt ist unbekannt - ging das Sift an das Erzstift Mainz über, unter dessen Herrschaft es sich zum vornehmsten geistlichen Institut Nordhessens entwickelt. 1438 unterstellte sich das Stift der Schutz- und Schirmherrschaft des Landgrafen Ludwig I. Die Reformation drang aus den hessischen und waldeckschen Gebieten her in das Petersstifts ein und konnte erst nach 1560 durch die Jesuiten gestoppt werden. Zwischen 1552 und 1555 und dann noch einmal von 1631-1648 wurde das Stift von hessischen Truppen besetzt, musste aber beide Male restituiert werden. 1803 fiel es durch § 71 des Reichsdeputationshauptschlusses als neugebildetes Fürstentum mit den Ämtern Amöneburg, Fritzlar, Naumburg und Neustadt an Kurhessen und ging mit diesem 1807 im Königreich Westphalen auf. Bistumspläne, die der Hofbischof König Jérômes 1813/1814 hegte, wurden jedoch nicht umgesetzt. 1866 gelangte Fritzlar als Teil Kurhessens an Preußen.\nDer Dekan als Leiter des Stiftes wurde von den Domherren gewählt. Der Propst, seit dem 13. Jhdt. meist ein Mainzer Domherr, war zugleich Archidiakon des Archidiakonats Fritzlar, dem die Diakonate Braach, Ditmold, Fritzlar, Gensungen, Mardorf, Ottran, Schützeberg und Urf zugeordnet waren. Außerdem unterstand dem Propst das Offizialat als geistliches Gericht des Stifts. Die Domherren stammten aus dem Adel, aus patrizischen Geschlechtern sowie aus dem städtischen Honoratiorentum und bewohnte die in der Stiftsimmunität gelegenenen Domherrenkurien. 1453 gehörten dem Stift rund 120 Personen an, darunter 17 Domherren, neun Domizellare, sechs Pfarrer, 34 Altaristen und zahlreiche Bedienstete.\n3. Mainz, St. Peter: Die Kirche St. Petri extra muros wurde um 944 von Erzbischof Friedrich von Mainz gegründet. Die Umwandlung in ein Stift erfolgte vier Jahre später. Es wurde mit 21 Kanonikern besetzt und mit großzügigem Güterbesitz ausgestattet. So gelangte zwischen 977 und 986 der Ort Großkrotzendorf durch Schenkung an das Stift. 1220 stimmte Erzbischof Siegfried II. der Verlegung des Stifts in die Stadt zu. Eine dauerhafte Heimstätte sollte das Stift jedoch nicht finden. Nachdem die Stiftskirche während der Besatzung der Stadt Mainz im Dreißigjährigen Krieg durch schwedischen Truppen 1631 stark beschädigt worden war, fielen ihre Überreste 1658 dem Bau neuer Befestigungswerke zum Opfer. Zwischen 1749 und 1756 wurde durch den Hofarchitekten Johann Valentin Thoma und den Mainzer Baumeister Johannes Dillmann die neue Stiftskirche St. Peter im Barockstil errichtet. Am 4. Juli 1802 wurde das Petersstift aufgehoben.\n\nFindmittel: gedrucktes Findbuch (in Bearbeitung)\n\nFindmittel: HADIS-Datenbank\n\nReferent: Dr. Vahl",
+		"archive": "Hessisches Staatsarchiv Marburg, 105 a",
+		"genre": "colored hand-drawing",
+		"language": "de",
+		"title": "Kurmainz: Kurmainzische Stifter in Hessen (KARTENSAMMLUNG)",
+		"title-short": "Kurmainz",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/4REV4YR4QHPRF2VGQ4A3HWUZSR73IEPM",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1330"
+				]
+			],
+			"season": "1884"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/5ZUIJ6HT",
+		"type": "map",
+		"abstract": "Vorprovenienz: Kurmainz, Hofkammer\nIdentifikation (Karte/Plan): Inhaltliche Beschreibung: mit Bürstadter Feldruthe und Gewann-Namen\nWeitere Angaben (Karte/Plan): \nInselkarten",
+		"edition": "61 x 91 cm",
+		"genre": "kolorierte Federzeichnung auf Papier, auf Leinwand aufgezogen",
+		"language": "de",
+		"scale": "ca. 1:1830",
+		"title": "Karte der Flurstücke der sog. Kloster-Unterpfands-Güter zu Bürstadt [Originaltitel: Grundriss von denen Kurfürstlich Mainzischen Cameral- oder sogenannten Kloster-Unterpfands-Gütern zu Bürstadt, welche in Äcker und Wiesen bestehen und zur kurfürstlichen Kellerei Bensheim gehören]",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/SXLTZHPCTW6PXRP6TFB3KYQAYE54LNRS",
+		"author": [
+			{
+				"family": "Seifriedt",
+				"given": "Johannes"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1792"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/5TYP7M28",
+		"type": "map",
+		"abstract": "Vorprovenienz:\nKurmainz, Landesregierung\nMaße:\n46,5 x 72 cm\n\nSonstige Erschließungsangaben:\nIdentifikation (Karte/Plan): Originaltitel: Grund- und Situations-Riss über die gemeinschaftliche Huth-Waide, das Rieth genannt, zwischen Vilbel, Massenheim und Harheim",
+		"archive_location": "P 1 Alte Karten und Pläne (bis 1918)",
+		"genre": "kolorierte Federzeichnung auf Papier",
+		"language": "de",
+		"title": "Karte der gemeinschaftlichen Weide der Gemeinden Vilbel, Massenheim und Harheim im sog. Ried",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/5POREOU4ZNYNCG3IEDNA5QDVLXU5GZ5X",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1772"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/NR7S7TQE",
+		"type": "map",
+		"abstract": "Archivaliensignatur:\nHessisches Staatsarchiv Darmstadt, P 1, NACHWEIS\nAlt-/Vorsignatur:\nP 1, Kartenabteilung Nr. 230\nKontext:\nAlte Karten und Pläne (bis 1918) >> 1944 vernichtete Karten (alte Kartenabteilung) >> Hoheitsgrenzen\nLaufzeit:\n[1790]\nMaße:\nca. 78 x 58 cm\nArchivalientyp:\nKarte/Plan\nSonstige Erschließungsangaben:\nIdentifikation (Karte/Plan): Originaldatierung: etwa 1790\n\nIdentifikation (Karte/Plan): Inhaltliche Beschreibung: Nota A - L.) Das Hornet ist gleichfalls wegen des Territorii mit Kurmainz strittig. - Jahreszahl fehlt. - Chorographische Karte mit beigefügtem Maßstab\n\nWeitere Angaben (Karte/Plan): Ausführung: Auf weißer Leinwand aufgezogen\nBestand:\nP 1 Alte Karten und Pläne (bis 1918)",
+		"genre": "canvas",
+		"language": "de",
+		"title": "Karte von dem zwischen Kurpfalz und Hessen-Darmstadt gemeinschaftlichen Amt Umstadt und den Cent-Orten [Nota A - L. Das Hornet ist gleichfalls wegen des Territorii mit Kurmainz strittig]",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/O2E75EMPQRKRJYT3C2RLUNFN65PGXK6Y",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1790"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/UQD39KJX",
+		"type": "map",
+		"abstract": "Kontext: Das Corps des Guides war eine Sondereinheit von Offizieren im Herzogtum und späteren Königreich Württemberg. Sie kartierte in Kriegszeiten die Kriegsschauplätze und in Friedenszeiten württembergische Ämter und Fluren.\n\nBezug: Württembergische Geleitsstreitigkeiten mit Kurmainz wegen Neudenau und Herbolzheim, mit der Reichsstadt Wimpfen und dem Deutschen Orden wegen Kochertürn und der Familie von Greck wegen Kochendorf.\n\nDigitalisat im Angebot des Archivs:\nkein Digitalisat verfügbar",
+		"archive": "Landesarchiv Baden-Württemberg",
+		"archive_location": "Abt. Hauptstaatsarchiv Stuttgart, A 57 Geleit",
+		"language": "de",
+		"title": "Karte der herzoglich württembergischen Geleitstraßen von Neuenstadt, angefertigt vom Corps de Guides [Württembergische Geleitsstreitigkeiten mit Kurmainz wegen Neudenau und Herbolzheim, mit der Reichsstadt Wimpfen und dem Deutschen Orden wegen Kochertürn und der Familie von Greck wegen Kochendorf]",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/P7OXBZPRVLZEPCE5WDXP4DDG7VJRU7U4",
+		"author": [
+			{
+				"literal": "Corps de Guides Württemberg"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1762"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/SHN6RQLZ",
+		"type": "map",
+		"abstract": "Archivaliensignatur:\nLandesarchiv Baden-Württemberg, Abt. Generallandesarchiv Karlsruhe, 69 von Venningen-1 Nr. 810\nKontext:\nArchiv der Freiherren von Venningen - Burg Neidenstein: Akten, Bände, Karten und Pläne >> II. Herrschaft und Besitz >> 10. Jagd\nLaufzeit:\n1742-1822\nDigitalisat im Angebot des Archivs:\nkein Digitalisat verfügbar\nBestand:\nLandesarchiv Baden-Württemberg, Abt. Generallandesarchiv Karlsruhe, 69 von Venningen-1 Archiv der Freiherren von Venningen - Burg Neidenstein: Akten, Bände, Karten und Pläne",
+		"language": "de",
+		"title": "Von Kurmainz verliehene große und kleine Gnadenjagd zu Eschelbach [Kartensammlung]",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/H5CX6G6F4TRGPG6VR3B775QU2D2IH7MM",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1742"
+				]
+			],
+			"season": "1822"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/C7NXEMFC",
+		"type": "map",
+		"abstract": "Vorprovenienz: [Kurmainz]\nMaße:\n43 x 68 cm\n\nArchivalientyp:\nKarte/Plan\n\nWeitere Angaben (Karte/Plan): Ausführung: Papier, auf Leinwand aufgezogen; Federzeichnung, koloriert\n\nWeitere Angaben (Karte/Plan): Blattzahl: 2\n\nBestand:\nP 1 Alte Karten und Pläne (bis 1918)",
+		"genre": "colored hand-drawing",
+		"language": "de",
+		"scale": "1:6600",
+		"title": "Karte des Rheins bei Gernsheim mit Ansicht der Stadt und eines Teils von Klein-Rohrheim",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/LIOWBFBEUICGP64NIC2Z57MDYJLZKZG7",
+		"author": [
+			{
+				"family": "Hamann",
+				"given": "Peter"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1675"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/69GQ6CPF",
+		"type": "map",
+		"abstract": "Archivaliensignatur:\nHessisches Staatsarchiv Darmstadt, P 1, 1945\nAlt-/Vorsignatur:\nSonstige Behördensignaturen: P 1, E 1 N Nr. 13\nKontext:\nAlte Karten und Pläne (bis 1918) >> Hessen-Darmstadt >> Oberhessen (ehemalige Provinz) >> Teilgebiete Oberhessens ohne eindeutige Ortszugehörigkeit >> Weiden\nLaufzeit:\n1763\nVorprovenienz:\nKurmainz, Landesregierung\nMaße:\n17 x 38,5 cm\nUrheber:\nJ. P. Kirn\nArchivalientyp:\nKarte/Plan\nSonstige Erschließungsangaben:\nIdentifikation (Karte/Plan): Originaltitel: Abriss des denen drey Gemeynheiten Vilbel, Massenheim und Harheim zugehörigen Waidgangs, das Ried genannt\n\nIdentifikation (Karte/Plan): Inhaltliche Beschreibung: mit Ansichten von Massenheim, Vilbel, Harheim und Berkersheim\n\nWeitere Angaben (Karte/Plan): Ausführung: Papier, kolorierte Federzeichnung\n\nWeitere Angaben (Karte/Plan): Blattzahl: 1\n\nVermerke: Deskriptoren: Kirn, J. P.\nBestand:\nP 1 Alte Karten und Pläne (bis 1918)",
+		"language": "de",
+		"title": "Karte der gemeinschaftlichen Weide der Gemeinden Vilbel, Massenheim und Harheim im sog. Ried",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/42AWLFRP6OBGHXGRTFT3QJUNLB6P6HNC",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1763"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/PZ7FBFFL",
+		"type": "map",
+		"abstract": "Archivaliensignatur:\nHessisches Hauptstaatsarchiv, 106, 692\nKontext:\nKurmainz: Ämter Höchst und Hofheim >> 2 Akten und Rechnungen der Ämter Höchst und Hofheim >> 2.7 Landwirtschaft und Forsten >> 2.7.3 Vermessungswesen, Karten\nLaufzeit:\n1793\nVorprovenienz:\nOberamt Höchst\nArchivalientyp:\nSachakte\nSonstige Erschließungsangaben:\nVermerke: Deskriptoren: Mainz, Kurstaat:Kartenwesen\n\nVermerke: Deskriptoren: Höchst, Oberamt:Karten\n\nVermerke: Deskriptoren: Frankfurt\n\nVermerke: Deskriptoren: Stadion, Grafen von\nDigitalisat im Angebot des Archivs:\nkein Digitalisat verfügbar\nBestand:\n106 Kurmainz: Ämter Höchst und Hofheim",
+		"language": "de",
+		"title": "Sammlung der bei den Ämtern und Rezepturen vorhandenen Karten und deren Einsendung an den Domherrn Graf von Stadion in Frankfurt zur Herstellung eines Generalplans - Deutsche Digitale Bibliothek",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/GKDHAESU5SMHZZQWCKRSDH554QSU4TUH",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1793"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/39XR9SUL",
+		"type": "map",
+		"abstract": "Archivaliensignatur:\nHessisches Staatsarchiv Darmstadt, D 4, 396/2\nKontext:\nGroßherzoglich-Hessisches Hausarchiv: Großherzogliches Haus >> 21 Landgraf Ludwig VIII. (Darmstadt 5.4.1691 - Darmstadt 17.10.1768) >> 21.4 Jagdsachen >> 21.4.1 Einzelkarten aus dem Forst- und Jagdatlas (D 4 Nr. 396/2)\nLaufzeit:\n1728\nVorprovenienz:\nLandgraf Ludwig VIII., Forst- und Jagdatlas\nMaße:\n33 x 44 cm\nUrheber:\nJ[ohann] F[riedrich] Karge, Ing.-Leut.; J[ohann] J[akob] Hill, Geometer\nArchivalientyp:\nKarte/Plan\nSonstige Erschließungsangaben:\nIdentifikation (Karte/Plan): Originaldatierung: 1728 aufgenommen, 1768 kopiert\n\nIdentifikation (Karte/Plan): Originaltitel: Plan des Stauffens Märker Walds in der Herrschaft Epstein\n\nIdentifikation (Karte/Plan): Inhaltliche Beschreibung: enthält: Gemeinschaftliches Jagdrecht mit Kurmainz\n\nIdentifikation (Karte/Plan): Fundstelle (Blatt / Seite): Blatt 26\n\nWeitere Angaben (Karte/Plan): Maßstab: ca. 1:4000\n\nWeitere Angaben (Karte/Plan): Ausführung: Papier, auf Seide aufgezogen; handgezeichnet, koloriert\n\nWeitere Angaben (Karte/Plan): Blattzahl: 1\n\nVermerke: Deskriptoren: Karge, Johann Friedrich\n\nVermerke: Deskriptoren: Hill, Johann Jakob\nWeniger anzeigen\nBestand:\nD 4 Großherzoglich-Hessisches Hausarchiv: Großherzogliches Haus",
+		"language": "de",
+		"title": "Karte des zwischen Eppstein, Fischbach und Hofheim gelegenen Waldes Staufen (Blatt 26)",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/FPHNCCHS2UJYLHHVSEPUGY4GQWWRB227",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1768"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/RW6EANXV",
+		"type": "map",
+		"abstract": "Archivaliensignatur:\nHessisches Staatsarchiv Darmstadt, P 1, 992/1-2\nAlt-/Vorsignatur:\nSonstige Behördensignaturen: P 1, E 14 A Nr. 171/2\nKontext:\nAlte Karten und Pläne (bis 1918) >> Hessen-Darmstadt >> Starkenburg (ehemalige Provinz) >> Fürth\nLaufzeit:\n1789\nVorprovenienz:\nKurmainz, Hofkammer\nMaße:\n64,5 x 99 cm\nUrheber:\nJ[ohannes] Seifriedt, Geometer\nArchivalientyp:\nKarte/Plan\nSonstige Erschließungsangaben:\nIdentifikation (Karte/Plan): Originaltitel: 'Grund-Rissen deren Kur-Fürstlich Mainzischen zu Fürth gelegenen großen Boosen des beide Adam Keilen Erbbestands-Hof-Güther ...'\n\nWeitere Angaben (Karte/Plan): Maßstab: ca. 1:1350\n\nWeitere Angaben (Karte/Plan): Ausführung: Papier, auf Leinwand aufgezogen; Federzeichnung, koloriert\n\nWeitere Angaben (Karte/Plan): Blattzahl: 2\n\nVermerke: Deskriptoren: Keil, Adam\n\nVermerke: Deskriptoren: Keil, Johann Adam\n\nVermerke: Deskriptoren: Seifriedt, Johannes\nWeniger anzeigen\nBestand:\nP 1 Alte Karten und Pläne (bis 1918)",
+		"language": "de",
+		"title": "Karte der an Adam und Johann Adam Keil zu Erbbestand verliehenen kurmainzischen Hofgüter zu Fürth - Deutsche Digitale Bibliothek",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/GI4ZL7EZGJSGZZCU6MDKJUC7E7UELJ4Q",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1789"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/A4EHQ5AS",
+		"type": "map",
+		"abstract": "\"Der CHURRHEINISCHE oder NIEDERRHEINISCHE KREIS\"; Abschnitt Aachen - Würzburg, Lippstadt - Rastatt. F. L. Güssefeld (Verfasser). Homännische Erben (Verlag). Stich, handkoloriert (Grenzen mehrfarbig, Kurrhein flächig: Pfalz rosa, Trier gelb, Köln und Mainz grün). 1 : 750.000. Nürnberg. Kreuzfaltung, 48 x 55,5 cm (57,5 x 69 cm); thematische Karte mit Einzeichnungen der Territorial- und Kreisgrenzen; politische Karte (Kartensatz deutsche Territorien). Bem.: Maßstab in deutschen (geographischen), großen und französischen Meilen; Meridiangitternetz (Paris); Titel (rechte obere Ecke) mit Obstranken umrahmt; Anmerkung: Eichsfeld und Erfurt (Kurmainz) auf Karte Obersachsen und Thüringen.\nArchivaliensignatur:\nLandesarchiv Baden-Württemberg, Hohenlohe-Zentralarchiv Neuenstein, GA 105 Nr. 590\nAlt-/Vorsignatur:\nNr. 35\n298\nD 198\nKontext:\nGedruckte Karten >> 6. Territorien und Teile Deutschlands (mit Preußen und Österreich) >> 6.10 Rhein (mit angrenzenden Ländern)\nLaufzeit:\n1789\nMaße:\nFolio (Höhe x Breite)\nSonstige Erschließungsangaben:\nSchaden: Rand zerfleddert mit kleinen Einrissen; tiefer Einriß am linken Rand\nIndexbegriff Person:\nGüssefeld, F. L.\nHomännische Erben\nIndexbegriff Ort:\nAachen\nKöln\nKurrheinische Kreis\nLippstadt\nMainz\nNiederrheinische Kreis\nPfalz\nRastatt\nTrier\nWürzburg\nDigitalisat im Angebot des Archivs:\nkein Digitalisat verfügbar\nBestand:\nLandesarchiv Baden-Württemberg, Hohenlohe-Zentralarchiv Neuenstein, GA 105 Gedruckte Karten",
+		"language": "de",
+		"title": "Der CHURRHEINISCHE oder NIEDERRHEINISCHE KREIS [Abschnitt Aachen - Würzburg, Lippstadt - Rastatt. F. L. Güssefeld (Verfasser). Homännische Erben (Verlag). Stich, handkoloriert (Grenzen mehrfarbig, Kurrhein flächig: Pfalz rosa, Trier gelb, Köln und Mainz grün)]",
+		"title-short": "\"Der CHURRHEINISCHE oder NIEDERRHEINISCHE KREIS\"; Abschnitt Aachen - Würzburg, Lippstadt - Rastatt. F. L. Güssefeld (Verfasser). Homännische Erben (Verlag). Stich, handkoloriert (Grenzen mehrfarbig, Kurrhein flächig",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/NYNKEB22MNDHD2P3EPDPY6GY7HER7U2Y",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1789"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/P47NXUJZ",
+		"type": "map",
+		"abstract": "Archivaliensignatur:\nHessisches Hauptstaatsarchiv, 171, S 3008 a\nKontext:\nNassau-Oranien: Akten (Altes Dillenburger Archiv) >> 2 Beziehungen zum Reich und zu Auswärtigen >> 2.6 Reichsstände >> 2.6.53 Mainz, Kurfürstentum >> . Kurfürstentum Mainz ./. gemeinschaftliches Amt Nassau: Grenzstreitigkeiten in Oberlahnstein\nLaufzeit:\n[um 1718]\nMaße:\n27 x 61 cm\nArchivalientyp:\nKarte/Plan\nSonstige Erschließungsangaben:\nIdentifikation (Karte/Plan): Inhaltliche Beschreibung: mit den Ortschaften Doerstheck, Schweighausen, Buchholz, Sulzbach und Kirschheimersborn\n\nWeitere Angaben (Karte/Plan): Ausführung: Papier, kolorierte Zeichnung\n\nWeitere Angaben (Karte/Plan): Blattzahl: 1\nDigitalisat im Angebot des Archivs:\nkein Digitalisat verfügbar\nBestand:\n171 Nassau-Oranien: Akten (Altes Dillenburger Archiv)",
+		"language": "de",
+		"title": "Kurfürstentum Mainz / gemeinschaftliches Amt Nassau: Grenzstreitigkeiten in Oberlahnstein: Vogelschaukarte des Grenzverlaufs zwischen Kurmainz und Nassau - Deutsche Digitale Bibliothek",
+		"title-short": ". Kurfürstentum Mainz ./. gemeinschaftliches Amt Nassau",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/AGRQFXKAEDQA6YYKXRWUBG3LYYKD26PG",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1718"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/Y9ZRB8MJ",
+		"type": "map",
+		"abstract": "Archivaliensignatur:\nHessisches Staatsarchiv Darmstadt, P 1, 649\nKontext:\nAlte Karten und Pläne (bis 1918) >> Hessen-Darmstadt >> Rheinhessen (ehemalige Provinz) >> Teilgebiete Rheinhessens ohne eindeutige Ortszugehörigkeit >> Verschiedene Ortszugehörigkeiten\nLaufzeit:\n1743-09-23\nVorprovenienz:\n[Kurmainz]\nMaße:\n48 x 130 cm\nUrheber:\nAndreas Trauttner, geschworener Landmesser und Zeichner des Landes Rheingau\nArchivalientyp:\nKarte/Plan\nSonstige Erschließungsangaben:\nIdentifikation (Karte/Plan): Originaldatierung: Rüdesheim, 23. September 1743\n\nIdentifikation (Karte/Plan): Originaltitel: Gründlicher Plan deren Äcker, Wiesen und Weinberg, so zur Nohe-Mühl bei Bingen einem Domkapitel von Mainz zugehörig\n\nIdentifikation (Karte/Plan): Inhaltliche Beschreibung: mit Beglaubigung der Gerichte Sarmsheim und Münster\n\nWeitere Angaben (Karte/Plan): Maßstab: ca. 1:1280\n\nWeitere Angaben (Karte/Plan): Ausführung: Papier, auf Leinwand aufgezogen; Federzeichnung, koloriert\n\nWeitere Angaben (Karte/Plan): Blattzahl: 1\n\nVermerke: Deskriptoren: Trauttner, Andreas\nWeniger anzeigen\nBestand:\nP 1 Alte Karten und Pläne (bis 1918)",
+		"language": "de",
+		"title": "Karte des Gebietes um die Nahe-Mühle bei Bingen mit Ansicht von Sarmsheim, Münster und der Burg Trutz-Bingen - Deutsche Digitale Bibliothek",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/2PPVPBYHUVQGRGWWQ24QDH7X6KJWMDUP",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1743"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/BMKSW3I9",
+		"type": "map",
+		"abstract": "Archivaliensignatur:\nHessisches Staatsarchiv Darmstadt, P 1, 1002\nKontext:\nAlte Karten und Pläne (bis 1918) >> Hessen-Darmstadt >> Starkenburg (ehemalige Provinz) >> Teilgebiete Starkenburgs ohne eindeutige Ortszugehörigkeit >> Verschiedene Ortszugehörigkeiten >> Odenwald\nLaufzeit:\n1792\nVorprovenienz:\nKurmainz, Hofkammer\nMaße:\n58,5 x 85 cm\nUrheber:\nJ[ohannes] Seifriedt, Geometer\nArchivalientyp:\nKarte/Plan\nSonstige Erschließungsangaben:\nIdentifikation (Karte/Plan): Originaltitel: 'Grund-Riß von dem Kur-Fürstl.-Mainzischen im Ober-Amt Starkenburg in der Cent Steinbach liegenden ... Eichelberger Hof-Guts ...'\n\nWeitere Angaben (Karte/Plan): Maßstab: ca. 1:1760\n\nWeitere Angaben (Karte/Plan): Ausführung: Papier, auf Leinwand aufgezogen, Federzeichnung, koloriert\n\nWeitere Angaben (Karte/Plan): Blattzahl: 2\n\nVermerke: Deskriptoren: Eichelberger Hof\n\nVermerke: Deskriptoren: Schlag, Johann Adam\n\nVermerke: Deskriptoren: Joachim, Johann Georg\n\nVermerke: Deskriptoren: Seifriedt, Johannes\nMehr anzeigen\nBemerkungen:\n2 identische Exemplare",
+		"language": "de",
+		"title": "Karte der Erbbestandsgüter des Johann Adam Schlag und Johann Georg Joachim des Eichelberger Hofguts in der Zent (Ober-Abt)Steinach des kurmainzischen Oberamts Starkenburg",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/VZL6UAE5CQOLMNJ72AIZAASMS45YWROA",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1792"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/2WGULBM9",
+		"type": "map",
+		"abstract": "Vollständiger Titel:\nFRÄNKISCHER REICHSKREIS [Doppelkarte mit westlichem [Kurmainz] und östlichem [Brandenburg-Kulmbach und -Ansbach] Teil; Abschnitt [Idar-]Oberstein - Leuchtenberg, Marburg - Stuttgart]. Johann Baptist Homann (Verfasser, Herausgeber). Stich, handkoloriert (Territorialgrenzen mehrfarbig, Gebiete Wertheim, Erbach, Hohenlohe, Rothenburg und Nürnberg grün). 1 : 440.000. Nürnberg. Doppelkreuzfaltung, 97,5 x 59,5 cm; thematisch-topographische Karte mit Einzeichnungen von Wald, Bergen, der Heerstraßen (Bergstraße als Allee) und der Territorien mit Grenzen; Karte aus zwei Teilen zusammengeklebt (mit Separattiteln); politische Karte. Bem.: Maßstab in großen und gemeinen deutschen Meilen; Gradeinteilung am Rand (mit Himmelsrichtungsangaben, östlicher Teil mit Buchstabenkoordinaten); Titel mit allegorischer Umrahmung (Sockel von Mars und Dionysos flankiert; Vorhang mit Frankonia ?); Einzeichnungen der Farblegende, einiger Forstnamen, Reichsstädte mit Adler und nachträgliche Unterstreichung von Orten.\nArchivaliensignatur:\nLandesarchiv Baden-Württemberg, Hohenlohe-Zentralarchiv Neuenstein, GA 105 Nr. 420\nAlt-/Vorsignatur:\nHo/Ku 39\nKontext:\nGedruckte Karten >> 6. Territorien und Teile Deutschlands (mit Preußen und Österreich) >> 6.3 Fränkische Territorien\nLaufzeit:\n[um 1700]\nMaße:\nFolio (Höhe x Breite)\nSonstige Erschließungsangaben:\nSchaden: Karte stark nachgedunkelt mit Abspliffungen u. Einrissen (Brandschaden ?)\nIndexbegriff Person:\nHomann, Johann Baptist\nIndexbegriff Ort:\nBrandenburg-Kulmbach\nBrandenburg-Kulmbach-Ansbach\nErbach\nFranken, Reichstädte\nFränkische Reichskreis\nHohenlohe\nIdar-Oberstein\nLeuchtenberg\nMainz, Kurfürstentum\nMarburg\nNürnberg\nRothenburg\nStuttgart\nWertheim\nDigitalisat im Angebot des Archivs:\nkein Digitalisat verfügbar\nBestand:\nLandesarchiv Baden-Württemberg, Hohenlohe-Zentralarchiv Neuenstein, GA 105 Gedruckte Karten",
+		"language": "de",
+		"title": "FRÄNKISCHER REICHSKREIS [Doppelkarte mit westlichem [Kurmainz] und östlichem [Brandenburg-Kulmbach und -Ansbach] Teil; Abschnitt [Idar-]Oberstein - Leuchtenberg, Marburg - Stuttgart]. Johann Baptist Homann (Verfasser, Herausgeber). Stich, handkoloriert.",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/FWYQGMRD4FNC5VXJXW3XNNTYIVLIBUCR",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1700"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/WP5CLT2I",
+		"type": "map",
+		"abstract": "Archivaliensignatur:\nHessisches Hauptstaatsarchiv, 3011/1, 1685 Ü\nKontext:\nAllgemeine Kartenabteilung >> Ortskarten >> H >> Ha... >> Hattenheim (Eltville, RhT)\nLaufzeit:\n1754\nUrheber:\naufgenommen und gezeichnet von Andreas Trauttner, kurmainz. Landmesser zu Rüdesheim\nArchivalientyp:\nKarte/Plan\nSonstige Erschließungsangaben:\nIdentifikation (Karte/Plan): Ort (alt): Hattenheim\n\nIdentifikation (Karte/Plan): Ort: Eltville\n\nIdentifikation (Karte/Plan): Originaltitel: Plan der der Abtei Eberbach und dem Freiherrn Langwerth von Simmern gehörigen Aue zwischen der großen und der kleinen Gieß im Rhein bei Hattenheim und der darin gesetzten Grenzsteine\n\nIdentifikation (Karte/Plan): Inhaltliche Beschreibung: Die Karte trägt die Unterschriften des Georg Reinhard Langwerth von Simmern und seines Bruders Ludwig Christoph Langwerth von Simmern für sich und ihren Bruder Adolf Friedrich\n\nIdentifikation (Karte/Plan): Inhaltliche Beschreibung: Au-Häuser\n\nWeitere Angaben (Karte/Plan): Ausführung: farbige Zeichnung\n\nWeitere Angaben (Karte/Plan): Zugangsnummer: 15/1910\nBemerkungen:\nfür die Benutzung gesperrt\nDigitalisat im Angebot des Archivs:\nkein Digitalisat verfügbar\nBestand:\n3011/1 Allgemeine Kartenabteilung",
+		"language": "de",
+		"title": "Karte der Rheinaue (heutige Mariannenaue?) des Klosters Eberbach und des Freiherrn Langwerth von Simmern zwischen der großen und der kleinen Gieß bei Hattenheim mit Grenzsteinen [für die Benutzung gesperrt; Digitalisat vorhanden] - Deutsche Digitale Bibliothek",
+		"title-short": "Karte der Rheinaue (heutige Mariannenaue?",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/BX3FPINVXAH3OWBPFTCWONOJLVS5KWK5",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1754"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/ASLZSGQW",
+		"type": "map",
+		"abstract": "Vollständiger Titel:\n\"Carte particulière des pays qui sont situez entre le Rhein, la Saare, la Moselle et la Basse Alsace contenant partie du Palatinat, des eslectorats de Mayence et de Trèves, des éveschés de Spire et de Wormes avec les duchés de Deuxponts et de Simmeren\" [KURPFALZ, Kurmainz und Kurtrier mit Nordelsaß; Abschnitt Trier - Mannheim, Koblenz - Hagenau]. Jaillot (königlich französischer Geograph, Verfasser). Zwei Exemplare; Stiche, handkoloriert (Städte rot; Grenze Zweibrücken lila, Homburg blau, Frankreich blaßbraun). 1 : 145.000. Paris, aux deux globus. Gerollt, 103 x 140 cm; thematisch-topographische Karte mit Einzeichnungen von Bergen, Wald, Weinbergen, den Heerstraßen und der Territorialgrenzen; Karte auf Leinen aufgezogen; Militärkarte. Bem.: Maßstab in französischen, großen und gemeinen deutschen Meilen; ohne Gradeinteilung; Titel (rechte untere Ecke) mit allegorischer Umrahmung (Blattornament, liegende Germanin und Germane (?) mit zerbrochenem Ruder, Siegesgöttinnen mit Fanfare und französisches Königswappen im Titelkopf); Windrose.\nArchivaliensignatur:\nLandesarchiv Baden-Württemberg, Hohenlohe-Zentralarchiv Neuenstein, GA 105 Nr. 573\nAlt-/Vorsignatur:\n139\nKontext:\nGedruckte Karten >> 6. Territorien und Teile Deutschlands (mit Preußen und Österreich) >> 6.10 Rhein (mit angrenzenden Ländern)\nLaufzeit:\n1705\nUmfang:\n[gerollt]\nMaße:\nFolio (Höhe x Breite)\nSonstige Erschließungsangaben:\nSchaden: Einrisse (z. T. tief) am rechten Rand und Brüche in der Karte\nIndexbegriff Person:\nJaillot\nIndexbegriff Ort:\nElsaß\nFrankreich\nFrankreich, Königswappen\nHagenau\nHomburg\nKoblenz\nKurmainz\nKurpfalz\nKurtrier\nMannheim\nMosel\nPfalz-Simmern\nPfalz-Zweibrücken\nRhein\nSaar\nSpeyer, Bistum\nTrier\nWorms, Bistum\nZweibrücken\nWeniger anzeigen\nDigitalisat im Angebot des Archivs:\nkein Digitalisat verfügbar\nBestand:\nLandesarchiv Baden-Württemberg, Hohenlohe-Zentralarchiv Neuenstein, GA 105 Gedruckte Karten",
+		"language": "de",
+		"title": "\"Carte particulière des pays qui sont situez entre le Rhein, la Saare, la Moselle et la Basse Alsace contenant partie du Palatinat, des eslectorats de Mayence et de Trèves, des éveschés de Spire et de Wormes avec les duchés de Deuxponts et de Simmeren\" [KURPFALZ,... - Deutsche Digitale Bibliothek",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/LGG3AFYS3FMTNDU562ZKIZ4REPR7C6GV",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1705"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/9EHVCUL4",
+		"type": "map",
+		"abstract": "Vollständiger Titel:\nBeschwerde von Kurmainz gegen den Königsmark´schen Amtmann zu Wallau wegen Abgrabung der von Wiesbaden über den \"Casser (Kasser)\" und durch Hofheim nach Frankfurt führenden Landstraße auf der Markung von Marxheim, wegen Veränderung der Straße von Mainz durch Dietenbergen bei den Orten Delkenheim und Massenheim; Folioband, mit 1 Karte der Gegend zwischen Wiesbaden-Wicker im Westen und Hoechst-Ober- und Unterliederbach im Osten (60 cm Breite x 46 cm Höhe)\nArchivaliensignatur:\nStAWü, Mainzer Regierungsarchiv 15642\nAlt-/Vorsignatur:\nHessen-Darmstadt K 369/23\nKontext:\nMainzer Regierungsarchiv >> 32 Beziehungen zwischen dem Erzstift Mainz und: >> 32.11 Landgrafschaft Hessen-Darmstadt\nLaufzeit:\n1671 - 1672\nArchivalientyp:\nAkten\nSprache der Unterlagen:\ndeutsch\nDigitalisat im Angebot des Archivs:\nkein Digitalisat verfügbar\nBestand:\nMainzer Regierungsarchiv",
+		"language": "de",
+		"title": "Karte der Gegend zwischen Wiesbaden-Wicker im Westen und Hoechst-Ober- und Unterliederbach im Osten",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/YGPVD3GMTJZL3553JBHAD3MRVIC4DFOH",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1761"
+				]
+			],
+			"season": "1762"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/I67E63EA",
+		"type": "map",
+		"abstract": "Vollständiger Titel:\n\"Tractus Eichsfeldiae in suas Praefecturas divisae, nec non Territorii Muhlhusani Chorographia cum confiniis Hassiae & Principatus Calenbergici quoad partem Goettingensem\" [kurmainzisches Gebiet EICHSFELD mit Ämtern und Reichsstadt Mühlhausen; Abschnitt Witzenhausen - Sondershausen, [Kaltenburg-]Lindau - [Bad] Langensalza]. Homännische Erben (Verfasser, Herausgeber). Stich, handkoloriert (Gebiet Obereichsfeld grün, Untereichsfeld gelb, Grenze Reichsstadt Mühlhausen rot). 1 : 165.000. Nürnberg. Mehrfach gefaltet, 51,5 x 41,5 cm; thematische Karte mit Einzeichnungen von Wald, Bergen und den Ämtern mit Grenzen; Karte aus 8 Teilen zusammengesetzt und auf Leinen aufgezogen; politische Karte (Inselkarte). Bem.: Maßstab in deutschen Meilen; Meridiangitternetz; Titel und Legende mit Blattornament umrankt; Einzeichnung einer Landwehr zwischen dem Eichsfeld und Mühlhausen.\nArchivaliensignatur:\nLandesarchiv Baden-Württemberg, Hohenlohe-Zentralarchiv Neuenstein, GA 105 Nr. 726\nAlt-/Vorsignatur:\n95\nD 409\nKontext:\nGedruckte Karten >> 6. Territorien und Teile Deutschlands (mit Preußen und Österreich) >> 6.14 Thüringen\nLaufzeit:\n1759\nMaße:\nFolio (Höhe x Breite)\nIndexbegriff Person:\nHomännische Erben\nIndexbegriff Ort:\nBad Langensalza\nEichsfeld\nEichsfeld, Landwehr\nEichsfeld, Ober-\nEichsfeld, Unter-\nHannover, Amt Göttingen\nHessen\nKaltenburg-Lindau\nKurmainz, Gebiete\nMühlhausen (Frankreich)\nSondershausen\nWitzenhausen\nDigitalisat im Angebot des Archivs:\nkein Digitalisat verfügbar\nBestand:\nLandesarchiv Baden-Württemberg, Hohenlohe-Zentralarchiv Neuenstein, GA 105 Gedruckte Karten",
+		"language": "de",
+		"title": "\"Tractus Eichsfeldiae in suas Praefecturas divisae, nec non Territorii Muhlhusani Chorographia cum confiniis Hassiae & Principatus Calenbergici quoad partem Goettingensem\" [kurmainzisches Gebiet EICHSFELD mit Ämtern und Reichsstadt Mühlhausen; Abschnitt Witzenhausen -... - Deutsche Digitale Bibliothek",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/OPYOSOWD7HJSRYMJTTO2LNJ5BZUQPN5T",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1759"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/3WSGZMQV",
+		"type": "map",
+		"abstract": "Archivaliensignatur:\nHessisches Hauptstaatsarchiv, 102, 153\nKontext:\nKurmainz: Hofkammer >> 9 Zehntsachen\nLaufzeit:\n1744-1747\nEnthältvermerke:\nDarin auch: Kolor. Karte des Distrikte von dem Geometer Andreas Trauttner, mit dem Greiffenclau'schen Wappen, 1747\nArchivalientyp:\nSachakte\nDigitalisat im Angebot des Archivs:\nkein Digitalisat verfügbar\nBestand:\n102 Kurmainz: Hofkammer",
+		"language": "de",
+		"title": "Die Zehntfreiheit des dem Freiherrn Johann Erwin v. Greiffenclau zu Vollrads vom 1716 geschenkten Distrikts bei dem Mapperhof bei Obergladbach - Deutsche Digitale Bibliothek",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/LHHH63ADDBKTXOXPDWUZYLBLKCMS3UGX",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1747"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/5WY2WMK4",
+		"type": "map",
+		"abstract": "Dokumenttyp:\nAbschnitt\nErschienen:\n1786\nSprache:\nDeutsch\nMaterial:\nHandzeichnungen\nReihe:\nKarten\nDigitale Sammlungen — Karten und Pläne\nURN:\nurn:nbn:de:tuda-tudigit-80946\nStandort:\nUniversitäts- und Landesbibliothek Darmstadt -- Mappe155_13",
+		"language": "de",
+		"title": "Carte Von Dem Zwischen Churpfalz Und Hessen-Darmstadt gemeinschaftlichen Amt Umstatt Mit Den Centorten. [Mit] Erläuterung einiger Buchstaben ... verfertiget W[ilhelm] Th[eophil] Schmidt 1786. [Territorien von Kurmainz, Kurpfalz und Hessen-Darmstadt; Herrschaft Breuberg] - Deutsche Digitale Bibliothek",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/LQLS2VULYK4WGRX2JC2E7VY2KYUDKGFX",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1786"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/WHFD47SY",
+		"type": "map",
+		"abstract": "Archivaliensignatur:\nHessisches Hauptstaatsarchiv, 101, 171\nKontext:\nKurmainz: Landesregierung >> 1 Landeshoheit, allgemeine Verwaltung, Grenzen >> 1.2 Beziehungen zu den Nachbarstaaten Pfalz, Nassau und Hessen\nLaufzeit:\n1708\nEnthältvermerke:\nEnthält: Akten der Hofrats- bzw. Regierungskanzlei unter Bezugnahme auf die Karte der Rheinauen von 1706\nArchivalientyp:\nSachakte\nDigitalisat im Angebot des Archivs:\nkein Digitalisat verfügbar\nBestand:\n101 Kurmainz: Landesregierung",
+		"language": "de",
+		"title": "Ein vor wenigen Jahren gegenüber Winkel aufgeworfener Sand und Eingriffe von Kurpfalz zugunsten der Einwohner von Freiweinheim - Deutsche Digitale Bibliothek",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/NWBC3ZNVOTE2Z45I7R2TBHCAYBE7HN2R",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1708"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/867TDMFL",
+		"type": "map",
+		"abstract": "Archivaliensignatur:\nHessisches Hauptstaatsarchiv, 101, 32\nKontext:\nKurmainz: Landesregierung >> 7 Finanzverwaltung >> 7.3 Zoll\nLaufzeit:\n(1454) 1660-1678, 1732-1783\nEnthältvermerke:\nEnthält: Straße von Lorch bzw. Lorchhausen nach Limburg\n\nEnthält: Wegzoll der Stadt Kaub\n\nDarin auch: Karte von 1771\nArchivalientyp:\nSachakte\nDigitalisat im Angebot des Archivs:\nkein Digitalisat verfügbar\nBestand:\n101 Kurmainz: Landesregierung",
+		"language": "de",
+		"title": "Kurpfälzischer Zoll an der mainzischen Grenze bei Ransel, dem Hof Esrod und Schädigung mainzischer Untertanen - Deutsche Digitale Bibliothek",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/QUSQJ2FAFW5SKOYTHCT72B5Y7KSXYIQ3",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1771"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/8R45UKQL",
+		"type": "map",
+		"abstract": "Vollständiger Titel:\n\"Electoratus Moguntinus ut et Palatin[atus] infer[ioris], Hassiae ... pars exhibens simul Occid[entis] Circ[uli] Franconiae partes ...\" [KURERZSTIFT MAINZ mit westlichem Teil des Fränkischen Reichskreises (Kurpfalz, Hessen-Darmstadt, Würzburg, Wertheim, Reineck, Hohenlohe und Erbach); Abschnitt St. Wendel - [Lauda-]Königshofen, Marburg - Stuttgart. Johann Baptist Homann (Verfasser, Herausgeber). Zwei Exemplare; Stiche, handkoloriert (Kurmainz rosa, Grafschaft Erbach, Wertheim und Hohenlohe grün, Territorialgrenzen mehrfarbig). 1 : 440.000. Nürnberg. Vierfach gefaltet, 48 x 56,5 cm (2. Exemplar: 97,5 x 59,5 cm, mit östlichem Teil Frankens); thematische Karten mit Einzeichnungen von Wald, Bergen, von Heerstraßen, Territorial- und Ämtergrenzen; 1. Exemplar aus neun Teilen zusammengesetzt und auf Leinen aufgezogen; politische Karten (nicht maßstabsgetreu). Bem.: Maßstab in deutschen Meilen; Gradeinteilung (mit Himmelsrichtungen) am Rand; Titel (linke untere Ecke) mit allegorischer Umrahmung (Landschaft mit Podest von Mars und Dionysos flankiert); Einzeichnung der Bergstraße (Darmstadt-Heidelberg) als Allee.\nArchivaliensignatur:\nLandesarchiv Baden-Württemberg, Hohenlohe-Zentralarchiv Neuenstein, GA 105 Nr. 575\nAlt-/Vorsignatur:\n53\nHo/Ku 39 (2. Ex.)\nD 435\nKontext:\nGedruckte Karten >> 6. Territorien und Teile Deutschlands (mit Preußen und Österreich) >> 6.10 Rhein (mit angrenzenden Ländern)\nLaufzeit:\n[um 1710]\nUmfang:\n[2 Expl.]\nMaße:\nFolio (Höhe x Breite)\nSonstige Erschließungsangaben:\nSchaden: Signaturaufkleber auf Rückseite\nIndexbegriff Person:\nHomann, Johann Baptist\nIndexbegriff Ort:\nBergstraße\nDarmstadt\nErbach\nFränkische Reichskreis\nHeidelberg\nHessen-Darmstadt\nHohenlohe\nKurpfalz\nLauda-Königshofen\nMainz, Kurerzstift\nMarburg\nReineck\nSt. Wendel\nStuttgart\nWertheim\nWürzburg\nWeniger anzeigen\nDigitalisat im Angebot des Archivs:\nkein Digitalisat verfügbar",
+		"language": "de",
+		"title": "\"Electoratus Moguntinus ut et Palatin[atus] infer[ioris], Hassiae ... pars exhibens simul Occid[entis] Circ[uli] Franconiae partes ...\" [KURERZSTIFT MAINZ mit westlichem Teil des Fränkischen Reichskreises (Kurpfalz, Hessen-Darmstadt, Würzburg, Wertheim, Reineck, etc.",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/ROGYRRUQTHHZKG7NMUUUVBSBW2WFFE23",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1710"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/DN98QT5X",
+		"type": "map",
+		"abstract": "Teil der Akte:\nGraf v. Solms gegen Freiherrn von Bettendorf wegen des langen und kleinen Sees bei Kronberg als erzstiftisches Lehnsstück\n\nArchivaliensignatur:\nHessisches Hauptstaatsarchiv, 101, 616 b\nKontext:\nKurmainz: Landesregierung >> 2 Verhältnis zum Adel, Lehnssachen >> 2.2 Lehnsachen\nLaufzeit:\n1707\nEnthältvermerke:\nEnthält: Extrakte 1463-1705\n\nDarin auch: Kol. Karte von den sechs Weihern bei Kronberg, Rosenthal, Schönberg und Lindenstrut, 1707, 61,7 cm x 30,3 cm mm\nArchivalientyp:\nSachakte\nDigitalisat im Angebot des Archivs:\nkein Digitalisat verfügbar\nBestand:\n101 Kurmainz: Landesregierung",
+		"language": "de",
+		"title": "Kol. Karte von den sechs Weihern bei Kronberg, Rosenthal, Schönberg und Lindenstrut, 1707",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/GDFXICLZAP2XCOUSITXD4RHJYL3XVLPR",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1707"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/RLBJKFK6",
+		"type": "map",
+		"abstract": "Archivaliensignatur: Hessisches Staatsarchiv Darmstadt, P 1, 1944 Kontext: Alte Karten und Pläne (bis 1918) >> Hessen-Darmstadt >> Oberhessen (ehemalige Provinz) >> Ockstadt Laufzeit: 1791-04-02 Vorprovenienz: Kurmainz, Domkapitel Maße: 19 x 24 cm Archivalientyp: Karte/Plan Sonstige Erschließungsangaben: Identifikation (Karte/Plan): Originaldatierung: Ockstadt, 2. April 1791  Identifikation (Karte/Plan): Originaltitel: Ockstatter Pfarrackerbuch  Weitere Angaben (Karte/Plan): Ausführung: Papier, Buch, Federzeichnung  Weitere Angaben (Karte/Plan): Blattzahl: 15 Bestand: P 1 Alte Karten und Pläne (bis 1918)",
+		"language": "de",
+		"title": "Parzellenatlas des Pfarrackers zu Ockstadt - Deutsche Digitale Bibliothek",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/YQCJPS4BU3TW3MD72SZP25J5FDJN4Q4K",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1791"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/PULYRYEZ",
+		"type": "map",
+		"abstract": "Archivaliensignatur:\nHessisches Staatsarchiv Darmstadt, P 1, 1480\nAlt-/Vorsignatur:\nSonstige Behördensignaturen: P 1, E 14 A Nr. 96/3\nKontext:\nAlte Karten und Pläne (bis 1918) >> Hessen-Darmstadt >> Starkenburg (ehemalige Provinz) >> Bensheim\nLaufzeit:\n1681\nVorprovenienz:\nKurmainz, Hofkammer\nMaße:\n45,5 x 32,5 cm\nArchivalientyp:\nKarte/Plan\nSonstige Erschließungsangaben:\nWeitere Angaben (Karte/Plan): Ausführung: Papier, Federzeichnung\n\nWeitere Angaben (Karte/Plan): Blattzahl: 1\nBestand:\nP 1 Alte Karten und Pläne (bis 1918)",
+		"language": "de",
+		"title": "Plan des Marktplatzes der Stadt Bensheim",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/HHVGLNB3HUMYUM3BZQ45KJGJ3WNAOYEF",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1681"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/MI2HTLBQ",
+		"type": "map",
+		"abstract": "Heimgefallene v. Kronbergsche Lehen, die zum Schönberger Lehen des gräflichen Hauses Solms-Rödelheim gehörigen Wälder, insbesonder den Lindenstruther Wald, die Schäferei zu Schönberg, den Galgenacker, den langen See und kleinen Weiher bei Kronberg und die Schäferei zu Eschborn\nArchivaliensignatur:\nHessisches Hauptstaatsarchiv, 102, 566\nKontext:\nKurmainz: Hofkammer >> 2 Adel, Lehnsachen\nLaufzeit:\n(1320-1705) 1705-1707\nEnthältvermerke:\nEnthält: Abschriften und Auszüge älterer Urkunden, Lehnsreverse über den Berg Schönberg 1320-1705\n\nDarin auch: Gleichzeitige kolorierte Handzeichnung der Gegend zwischen dem Dorf Schönberg, Lindenstruther Wald und Wiesen, Schaf- und Frohnroder Hof und Kronberg, mit zwei Anlagen mit Erläuterungen der Karte\nArchivalientyp:\nSachakte\nDigitalisat im Angebot des Archivs:\nkein Digitalisat verfügbar\nBestand:\n102 Kurmainz: Hofkammer",
+		"language": "de",
+		"title": "Heimgefallene v. Kronbergsche Lehen, die zum Schönberger Lehen des gräflichen Hauses Solms-Rödelheim gehörigen Wälder, insbesonder den Lindenstruther Wald, die Schäferei zu Schönberg, den Galgenacker, den langen See und kleinen Weiher bei Kronberg und die Schäferei zu Eschborn - Deutsche Digitale Bibliothek",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/XOFPM2NXCGSEYIHZMNXGMOYVDXIZA7PO",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1705"
+				]
+			],
+			"season": "1707"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2289797/items/UVRWPDLX",
+		"type": "map",
+		"abstract": "Enthalten in:\n\nKurtrierische Prozeßakten in dem Rechtsstreit vor dem Reichskammergericht in Wetzlar zwischen Kurmainz und Kurtrier über die durch Kurtrier eingerissene Lahnwehr bei der Ahler Hütte und an der Weiser Mühle\n\n\nArchivaliensignatur:\nHessisches Hauptstaatsarchiv, 112, 136\nKontext:\nKurtrier: Amt Ehrenbreitstein >> 2 Akten, Amtsbücher, Rechnungen >> 2.15 Bauwesen >> 2.15.2 Ufer-, Wasser- und Brückenbau >> . Kurtrierische Prozeßakten in dem Rechtsstreit vor dem Reichskammergericht in Wetzlar zwischen Kurmainz und Kurtrier über die durch Kurtrier eingerissene Lahnwehr bei der Ahler Hütte und an der Weiser Mühle\nLaufzeit:\n(1686-1753) 1754-1755\nEnthältvermerke:\nDarin auch: Kolor. Karte der Lahn vom Mainzer Markstein bis zur Mündung in den Rhein, mit Ortslage von Niederlahnstein, 1754 (fol. 34)\n\nDarin auch: Kolor. Karte der Mühlen, Wehre, Eisenhämmer und Lücken an der Lahn vom Ahler Hammer bis an den Rhein, gez. von J.H. Kühn, kurmainzischer Leutnant, 1753 (fol. 35-36)\n\nDarin auch: Kolor. Karte des strittigen Lahnverlaufs, 1754 (fol. 495)\n\nDarin auch: Handskizze (Federzeichnung) des strittigen Lahnverlaufs, 1754 (fol. 498)\nArchivalientyp:\nSachakte\nDigitalisat im Angebot des Archivs:\nkein Digitalisat verfügbar\nBestand:\n112 Kurtrier: Amt Ehrenbreitstein",
+		"language": "de",
+		"title": "Kolor. Karte der Lahn vom Mainzer Markstein bis zur Mündung in den Rhein, mit Ortslage von Niederlahnstein, 1754 (fol. 34) Kolor. Karte der Mühlen, Wehre, Eisenhämmer und Lücken an der Lahn vom Ahler Hammer bis an den Rhein, gez. von J.H. Kühn, kurmainzischer Leutnant, 1753 (fol. 35-36) Darin auch: Kolor. Karte des strittigen Lahnverlaufs, 1754 (fol. 495) Darin auch: Handskizze (Federzeichnung) des strittigen Lahnverlaufs, 1754 (fol. 498)",
+		"URL": "http://www.deutsche-digitale-bibliothek.de/item/W5R3UTLVB3YDU3GWNH2M6QH72TMIUD3L",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1753"
+				]
+			],
+			"season": "1754"
+		}
+	}
+]
