@@ -4,12 +4,12 @@
 <ul>
 <li><a href="https://monikabarget.github.io/GeoHumTutorials/Tutorial_GeoJSON)">Tutorial for editing geodata with Geojson.io (German)</a></li>
 <li><a href="https://monikabarget.github.io/GeoHumTutorials/Tutorial_simpleQGISmaps">Tutorial for creating and printing simple maps in QIGS (German)</a></li>
-<li><a href="https://colab.research.google.com/drive/1TtMkbA2LFkC0Nuvsq0dZzQqGJIx1xQ7u">Google Colab tutorial for geocoding EXCEL spreadsheets with Python (English)</a>
+<li><a href="https://colab.research.google.com/drive/1TtMkbA2LFkC0Nuvsq0dZzQqGJIx1xQ7u">Google Colab tutorial for geocoding EXCEL spreadsheets with OpenCage in Python (English)</a>
 <br>
 <a href="https://github.com/MonikaBarget/GeoHumTutorials/tree/master/Colab_Geocoding">View input data, code and sample map</a></li>
 <br>
 <br>
-<li>Tutorial for geocoding EXCEL spreadsheets with Geonames in Python</li>
+<li><a href="https://github.com/MonikaBarget/GeoHumTutorials/tree/master/Tutorial_geocodingGeonames">Google Colab tutorial for geocoding EXCEL spreadsheets with Geonames in Python</li>
 <li><a href="https://github.com/MonikaBarget/GeoHumTutorials/blob/master/IEG_test_map.geojson">Example of GEOJSON file rendered as zoomable map on GITHUB, showing government-funded research institutes in Germany in 1949</a></li>
 <li><a href="https://monikabarget.github.io/GeoHumTutorials/qgis2web_IEG_jubilee_map/index.html">Interactive map of German research institutes receiving government funding in 1949, created for the IEG jubilee exhibition by Jannik Schulze-Selmig and Monika Barget with QGIS2web</a></li>
 </ul>
@@ -27,6 +27,8 @@
 <br>
 <a href="https://github.com/MonikaBarget/GeoHumTutorials/tree/master/Colab_Geocoding">Link zu Input-Daten, Code und Beispielkarte</a></li>
 <br>
+<br>
+<li><a href="https://github.com/MonikaBarget/GeoHumTutorials/tree/master/Tutorial_geocodingGeonames">Google Colab Tutorial zur Geokodierung von EXCEL-Tabellen mit Python (Englisch)</li>
 <li><a href="https://github.com/MonikaBarget/GeoHumTutorials/blob/master/IEG_test_map.geojson">Beispiel einer GEOJSON-Datei, die als zoombare Karte auf GITHUB gerendert wurde und staatlich geförderte Forschungsinstitute in Deutschland im Jahr 1949 zeigt</a></li>
 <li><a href="https://monikabarget.github.io/GeoHumTutorials/qgis2web_IEG_jubilee_map/index.html">Interaktive Karte der deutschen Forschungsinstitute, die 1949 staatliche Mittel erhielten; erstellt für die IEG-Jubiläumsausstellung von Jannik Schulze-Selmig und Monika Barget mit QGIS2web</a></li>
 </ul>
