@@ -6,7 +6,9 @@ This page presents simple geohumanities tutorials and maps created for teaching,
 
 2. [Tutorial for creating and printing simple maps in QIGS (German)](https://monikabarget.github.io/GeoHumTutorials/Tutorial2_simpleQGISmaps)
 
-3. [Google Colab tutorial for geocoding EXCEL spreadsheets with Python (English)](https://github.com/MonikaBarget/GeoHumTutorials/tree/master/Colab_Geocoding)
+3. [Google Colab tutorial for geocoding EXCEL spreadsheets with Python (English)](https://colab.research.google.com/drive/1TtMkbA2LFkC0Nuvsq0dZzQqGJIx1xQ7u)
+
+[Link to input data, code and sample map](https://github.com/MonikaBarget/GeoHumTutorials/tree/master/Colab_Geocoding)
 
 4. [Example of GEOJSON file rendered as zoomable map on GITHUB, showing government-funded research institutes in Germany in 1949](https://github.com/MonikaBarget/GeoHumTutorials/blob/master/IEG_test_map.geojson)
 
@@ -22,7 +24,9 @@ Diese Seite präsentiert einfache Tutorials aus dem Bereich der "Geohumanities" 
 
 2. [Tutorial für das Erstellen und Drucken einfacher Karten in QIGS (Deutsch)](https://monikabarget.github.io/GeoHumTutorials/Tutorial2_simpleQGISmaps)
 
-3. [Google Colab Tutorial zur Geokodierung von EXCEL-Tabellen mit Python (Englisch)](https://github.com/MonikaBarget/GeoHumTutorials/tree/master/Colab_Geocoding)
+3. [Google Colab Tutorial zur Geokodierung von EXCEL-Tabellen mit Python (Englisch)](https://colab.research.google.com/drive/1TtMkbA2LFkC0Nuvsq0dZzQqGJIx1xQ7u))
+
+[Link zu Input-Daten, Code und Beispielkarte](https://github.com/MonikaBarget/GeoHumTutorials/tree/master/Colab_Geocoding)
 
 4. [Beispiel einer GEOJSON-Datei, die als zoombare Karte auf GITHUB gerendert wurde und staatlich geförderte Forschungsinstitute in Deutschland im Jahr 1949 zeigt](https://github.com/MonikaBarget/GeoHumTutorials/blob/master/IEG_test_map.geojson)
 
