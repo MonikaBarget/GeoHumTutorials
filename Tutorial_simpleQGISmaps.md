@@ -8,7 +8,7 @@
 
 <p align="justify">Eine kostenfreie Basiskarte ist die Standardkarte von Open Street Map, die in QGIS über den "Web" Reiter geladen werden kann. Diese Karte ist allerdings für historische Anwendungen nur dann zu empfehlen, wenn du Orientierung der Nutzer*innen im Raum im Vordergrund stehen soll, da moderne Grenzen und Infrastrukturen sichtbar sind. Weitere kostenlose Basiskarten können über verschiedene QGIS Plug-Ins installiert und ebenfalls über "Web" geladen werden.</p>
 
-<img alt="Screenshot 1: Basiskarte öffnen" src="https://pad.gwdg.de/uploads/upload_d8ae223f5b2223b760c37f84731c2fe1.png">
+<img alt="Screenshot 1: Basiskarte öffnen" src="/QGIS_Screenshot1_Basiskarte öffnen.png">
 
 <img alt="Screenshot 2: Ansicht der OSM Basiskarte als Layer" src="https://pad.gwdg.de/uploads/upload_7480da65ed4d463006ef96df521de6c7.png">
 
