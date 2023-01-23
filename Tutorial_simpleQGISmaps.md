@@ -8,9 +8,9 @@ Die Nutzeroberfläche von QGIS erinnert an Bildbearbeitungsprogramme und ermögl
 
 Eine kostenfreie Basiskarte ist die Standardkarte von Open Street Map, die in QGIS über den "Web" Reiter geladen werden kann.
 
-![Screenshot 1: Basiskarte öffnen](https://pad.gwdg.de/uploads/upload_d8ae223f5b2223b760c37f84731c2fe1.png)
+<img alt="Screenshot 1: Basiskarte öffnen" src="https://pad.gwdg.de/uploads/upload_d8ae223f5b2223b760c37f84731c2fe1.png">
 
-![Screenshot 2: Ansicht der OSM Basiskarte als Layer](https://pad.gwdg.de/uploads/upload_7480da65ed4d463006ef96df521de6c7.png)
+<img alt="Screenshot 2: Ansicht der OSM Basiskarte als Layer" src="https://pad.gwdg.de/uploads/upload_7480da65ed4d463006ef96df521de6c7.png">
 
 Die zuvor vorbereiteten GeoJSON-Dateien werden über "Layer hinzufügen" als neue Vektorlayer integriert.
 
