@@ -8,6 +8,8 @@
 <br>
 <a href="https://github.com/MonikaBarget/GeoHumTutorials/tree/master/Colab_Geocoding">View input data, code and sample map</a></li>
 <br>
+<br>
+<li>Tutorial for geocoding EXCEL spreadsheets with Geonames in Python</li>
 <li><a href="https://github.com/MonikaBarget/GeoHumTutorials/blob/master/IEG_test_map.geojson">Example of GEOJSON file rendered as zoomable map on GITHUB, showing government-funded research institutes in Germany in 1949</a></li>
 <li><a href="https://monikabarget.github.io/GeoHumTutorials/qgis2web_IEG_jubilee_map/index.html">Interactive map of German research institutes receiving government funding in 1949, created for the IEG jubilee exhibition by Jannik Schulze-Selmig and Monika Barget with QGIS2web</a></li>
 </ul>
