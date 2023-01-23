@@ -42,7 +42,7 @@ import os
 ## geocode data from spreadsheet
 
 # define API and API key
-key = "419f33cee39647e38b83b3b3f2d74670" # Monika's AP key: please do not share outside project
+key = "###" # API key: please add your own
 geocoder = OpenCageGeocode(key) # OpenCage is one of many geocoding services
 
 # input addresses in EXCEL format and read
