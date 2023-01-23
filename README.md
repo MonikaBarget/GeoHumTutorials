@@ -1,6 +1,6 @@
 # Overview
 
-This page presents simple geohumanities tutorials and maps created for teaching, research and public relations at the Institute of European History in Mainz, Germany. Please visit our [blog](https://dhlab.hypotheses.org/) for more digital humanities reports and training opportunities.
+This page presents simple geohumanities tutorials and maps created for teaching, research and public relations at the Institute of European History in Mainz, Germany, and at Maastricht University, Netherlands. Please visit Monika Barget's [INSULAE blog](https://insulae.hypotheses.org/) and the [IEG DH Lab blog](https://dhlab.hypotheses.org/) for more coding samples, digital humanities reports and training opportunities.
 
 1. [Tutorial for editing geodata with Geojson.io (German)](https://monikabarget.github.io/GeoHumTutorials/Tutorial1_GeoJSON)
 
@@ -18,7 +18,7 @@ This page presents simple geohumanities tutorials and maps created for teaching,
 
 # Übersicht
 
-Diese Seite präsentiert einfache Tutorials aus dem Bereich der "Geohumanities" sowie digitale Karten, die für Lehre, Forschung und Öffentlichkeitsarbeit am Institut für Europäische Geschichte in Mainz, Deutschland, erstellt wurden. Bitte besuchen Sie unseren [blog](https://dhlab.hypotheses.org/) für weitere Berichte und Workshopangebote.
+Diese Seite präsentiert einfache Tutorials aus dem Bereich der "Geohumanities" sowie digitale Karten, die für Lehre, Forschung und Öffentlichkeitsarbeit am Institut für Europäische Geschichte in Mainz und an der Universität Maastricht erstellt wurden. Bitte besuchen Sie Monika Bargets [INSULAE Blog](https://insulae.hypotheses.org/) und den [Blog des IEG DH LABs](https://dhlab.hypotheses.org/) für weitere Coding Beispiele, Berichte und Workshopangebote.
 
 1. [Tutorial zur Bearbeitung von Geodaten mit Geojson.io (Deutsch)](https://monikabarget.github.io/GeoHumTutorials/Tutorial1_GeoJSON)
 
