@@ -42,7 +42,7 @@
 
 <p align="justify">Für einfache Karten ist meistens die Label-Funktion besonders revelant.</p>
 
-<img alt="Screenshot 5: Label in "Layereigenschaften" wählen" src="https://pad.gwdg.de/uploads/upload_a5e4b18108a2063eac99653fdac15b68.png">
+<img alt="Screenshot 5: Label in Layereigenschaften wählen" src="https://pad.gwdg.de/uploads/upload_a5e4b18108a2063eac99653fdac15b68.png">
 
 
 <p align="justify">Hier kann entweder eine einzelne Beschriftung pro Kartenelement basierend auf einem bestimmten Attribut (z.B. "Name") ausgewählt oder die Beschriftung bestimmten (mathematischen) Regeln unterworfen werden. Eine ausführliche Erklärung der verschiedenen Label-Funktionen bietet [Lektion 4.2 in der QGIS Dokumentation](https://docs.qgis.org/2.14/en/docs/training_manual/vector_classification/label_tool.html).</p>
