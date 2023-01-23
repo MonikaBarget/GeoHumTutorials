@@ -4,7 +4,7 @@ This page presents simple geohumanities tutorials and maps created for teaching,
 
 1. [Tutorial for editing geodata with Geojson.io (German)](https://monikabarget.github.io/GeoHumTutorials/Tutorial_GeoJSON)
 
-2. [Tutorial for creating and printing simple maps in QIGS (German)](https://monikabarget.github.io/GeoHumTutorials/Tutorial2_simpleQGISmaps)
+2. [Tutorial for creating and printing simple maps in QIGS (German)](https://monikabarget.github.io/GeoHumTutorials/Tutorial_simpleQGISmaps)
 
 3. [Google Colab tutorial for geocoding EXCEL spreadsheets with Python (English)](https://colab.research.google.com/drive/1TtMkbA2LFkC0Nuvsq0dZzQqGJIx1xQ7u)
 
@@ -22,7 +22,7 @@ Diese Seite präsentiert einfache Tutorials aus dem Bereich der "Geohumanities" 
 
 1. [Tutorial zur Bearbeitung von Geodaten mit Geojson.io (Deutsch)](https://monikabarget.github.io/GeoHumTutorials/Tutorial_GeoJSON)
 
-2. [Tutorial für das Erstellen und Drucken einfacher Karten in QIGS (Deutsch)](https://monikabarget.github.io/GeoHumTutorials/Tutorial2_simpleQGISmaps)
+2. [Tutorial für das Erstellen und Drucken einfacher Karten in QIGS (Deutsch)](https://monikabarget.github.io/GeoHumTutorials/Tutorial_simpleQGISmaps)
 
 3. [Google Colab Tutorial zur Geokodierung von EXCEL-Tabellen mit Python (Englisch)](https://colab.research.google.com/drive/1TtMkbA2LFkC0Nuvsq0dZzQqGJIx1xQ7u))
 
