@@ -1,12 +1,12 @@
 <h2>Gestaltung einfacher Karten mit QGIS</h2>
 
-<p align="justify">Als Ergänzung zur [Einführung in die Erstellung von GeoJSON-Dateien](https://monikabarget.github.io/GeoHumTutorials/Tutorial1_GeoJSON) beschäftigt sich der heutige Blogbeitrag mit der Visualisierung dieser Geodaten im Open Source Geoinformationssystem [QGIS](https://www.qgis.org/en/site/).</p>
+<p align="justify">Als Ergänzung zur <a href="https://monikabarget.github.io/GeoHumTutorials/Tutorial1_GeoJSON">Einführung in die Erstellung von GeoJSON-Dateien</a> beschäftigt sich der heutige Beitrag mit der Visualisierung dieser Geodaten im Open Source Geoinformationssystem <strong>QGIS</strong> (https://www.qgis.org/en/site/).</p>
 
-<p align="justify">QGIS erfordert eine Installation auf der Festplatte und ist daher nur für Nutzer/innen geeignet, die auf Ihren Computern Administratorenrechte haben. Andernfalls kann für die Erstellung von Karten, die sich auf für den Druck eignen, die browserbasierte Plattform [Mapbox](https://www.mapbox.com/) verwendet werden, die in der Anwendung allerdings weniger intuitiv ist.</p>
+<p align="justify">QGIS erfordert eine Installation auf der Festplatte und ist daher nur für Nutzer/innen geeignet, die auf Ihren Computern Administratorenrechte haben. Andernfalls kann für die Erstellung von Karten, die sich auf für den Druck eignen, die browserbasierte Plattform <strong>Mapbox</strong> (https://www.mapbox.com/) verwendet werden, die in der Anwendung allerdings weniger intuitiv ist.</p>
 
 <p align="justify">Die Nutzeroberfläche von QGIS erinnert an Bildbearbeitungsprogramme und ermöglicht sowohl den Import standardisierter geographischer Daten aus verschiedenen Quellen, als auch deren Darstellung auf unterschiedlichen Hintergrundkarten. Für die meisten Hintergrundkarten sind allerdings (gewerbliche) Nutzungrechte erforderlich.</p>
 
-<p align="justify">Eine kostenfreie Basiskarte ist die Standardkarte von Open Street Map, die in QGIS über den "Web" Reiter geladen werden kann.</p>
+<p align="justify">Eine kostenfreie Basiskarte ist die Standardkarte von Open Street Map, die in QGIS über den "Web" Reiter geladen werden kann. Diese Karte ist allerdings für historische Anwendungen nur dann zu empfehlen, wenn du Orientierung der Nutzer*innen im Raum im Vordergrund stehen soll, da moderne Grenzen und Infrastrukturen sichtbar sind. Weitere kostenlose Basiskarten können über verschiedene QGIS Plug-Ins installiert und ebenfalls über "Web" geladen werden.</p>
 
 <img alt="Screenshot 1: Basiskarte öffnen" src="https://pad.gwdg.de/uploads/upload_d8ae223f5b2223b760c37f84731c2fe1.png">
 
