@@ -12,4 +12,4 @@ and append all the new information to the existing table.</p>
 <p align="justify">In the last step, all places which could be geocoded will be plotted as small dots on a simple world map. This is not the ideal display to check the geocoding
 of individual cities, which is why I am hoping to include an interactive map display soon. Also, I would like to make the “magic table” features editable. </p>
 
-<img alt="sample map" src="/GeoHumTutorials/blob/master/Colab_Geocoding/TestMap.png">
+<img alt="sample map" src="../Colab_Geocoding/TestMap.png">
