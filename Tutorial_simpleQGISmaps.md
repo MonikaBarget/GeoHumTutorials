@@ -8,7 +8,7 @@
 
 <p align="justify">Eine kostenfreie Basiskarte ist die Standardkarte von Open Street Map, die in QGIS über den "Web" Reiter geladen werden kann. Diese Karte ist allerdings für historische Anwendungen nur dann zu empfehlen, wenn du Orientierung der Nutzer*innen im Raum im Vordergrund stehen soll, da moderne Grenzen und Infrastrukturen sichtbar sind. Weitere kostenlose Basiskarten können über verschiedene QGIS Plug-Ins installiert und ebenfalls über "Web" geladen werden.</p>
 
-<img alt="Screenshot 1: Basiskarte öffnen" src="./QGIS_Screenshot1_Basiskarte öffnen.png">
+<img alt="Screenshot 1: Basiskarte öffnen" src="./QGIS_Screenshot1_OSM Basiskarte öffnen.png">
 
 <img alt="Screenshot 2: Ansicht der OSM Basiskarte als Layer" src="./QGIS_Screenshot2_OSM Basiskarte.png">
 
@@ -42,7 +42,7 @@
 
 <p align="justify">Für einfache Karten ist meistens die Label-Funktion besonders revelant.</p>
 
-<img alt="Screenshot 5: Label in Layereigenschaften wählen" src="./QGIS_Screenshot5_Layereigenschaften.png">
+<img alt="Screenshot 5: Label in Layereigenschaften wählen" src="./QGIS_Screenshot5_Layereigenschaften_Label.png">
 
 
 <p align="justify">Hier kann entweder eine einzelne Beschriftung pro Kartenelement basierend auf einem bestimmten Attribut (z.B. "Name") ausgewählt oder die Beschriftung bestimmten (mathematischen) Regeln unterworfen werden. Eine ausführliche Erklärung der verschiedenen Label-Funktionen bietet [Lektion 4.2 in der QGIS Dokumentation](https://docs.qgis.org/2.14/en/docs/training_manual/vector_classification/label_tool.html).</p>
