@@ -8,17 +8,17 @@
 
 <p align="justify">Eine kostenfreie Basiskarte ist die Standardkarte von Open Street Map, die in QGIS über den "Web" Reiter geladen werden kann. Diese Karte ist allerdings für historische Anwendungen nur dann zu empfehlen, wenn du Orientierung der Nutzer*innen im Raum im Vordergrund stehen soll, da moderne Grenzen und Infrastrukturen sichtbar sind. Weitere kostenlose Basiskarten können über verschiedene QGIS Plug-Ins installiert und ebenfalls über "Web" geladen werden.</p>
 
-<img alt="Screenshot 1: Basiskarte öffnen" src="/QGIS_Screenshot1_Basiskarte öffnen.png">
+<img alt="Screenshot 1: Basiskarte öffnen" src="./QGIS_Screenshot1_Basiskarte öffnen.png">
 
-<img alt="Screenshot 2: Ansicht der OSM Basiskarte als Layer" src="https://pad.gwdg.de/uploads/upload_7480da65ed4d463006ef96df521de6c7.png">
+<img alt="Screenshot 2: Ansicht der OSM Basiskarte als Layer" src="./QGIS_Screenshot2_OSM Basiskarte.png">
 
 <p align="justify">Die zuvor vorbereiteten GeoJSON-Dateien werden über "Layer hinzufügen" als neue Vektorlayer integriert.</p>
 
-<img alt="Screenshot 3: Vektorlayer hinzufügen" src="https://pad.gwdg.de/uploads/upload_5629188d99e33c1fabfc347346f20bef.png">
+<img alt="Screenshot 3: Vektorlayer hinzufügen" src="./QGIS_Screenshot3_Vektorlayer.png">
 
 <p align="justify">Hier ist es wichtig, für die Hintergrundkarte und alle Datenebenen eine passende geographische Projektion ("KBS setzen") zu wählen, damit die Ortsdaten in der richtigen Relation zueinander abgebildet werden.</p>
 
-<img alt="Screenshot 4: KBS setzen" src="https://pad.gwdg.de/uploads/upload_f6c0991996fc2fce7e2aa548ede1d1d5.png">
+<img alt="Screenshot 4: KBS setzen" src="./QGIS_Screenshot3_KBS setzen.png">
 
 <p align="justify">Über "Eigenschaften" kann dann die Darstellung der Datenlayer verändert werden.</p>
 
