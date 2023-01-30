@@ -6,7 +6,7 @@ In diesem Tutorial möchte ich deshalb eine einfache Methode der Aufbereitung ge
 
 Anstatt Tabellen in Excel anzulegen, die dann mithilfe zusätzlicher Software geokodiert und exportiert werden müssen, kann man mit Geojson.io Ortsdaten direkt aus einer Karte auswählen, anreichern und in kompatiblen Formaten speichern. 
 
-<img alt="Screenshot1" src="https://github.com/MonikaBarget/GeoHumTutorials/blob/master/Screenshot1_points.png">
+<img alt="Screenshot1" src="./Screenshot1_points.png">
 
 ----
 
@@ -24,7 +24,7 @@ So wie in der „geometry“-Klammer der GeoJSON-Datei automatisch ```"type":"Po
 
 Wenn diese Information auf mehrere Attribute verteilt wird, ist es allerdings leichter, die Punkte auf der Karte später nach diesen Attributen kategorisiert zu kolorieren oder anderweitig hervorzuheben. So könnte die oben angegebene Information auf ein Anzeigelabel (```"label":"2020: IEG, Mainz"```) und die Selektionskriterien ```"date":"2020"``` und ```"place":"Mainz"``` aufgeteilt werden. Die Bezeichnung der "properties"-Schlüssel ist dabei frei wählbar. Leerzeichen nach den Doppelpunkten und Zeilenumbrüche dienen der besseren Lesbarkeit. 
 
-<img alt="Screenshot 3" src="https://github.com/MonikaBarget/GeoHumTutorials/blob/master/Screenshot3_Geometrie%20Punkte%20mit%20Attributen.png">
+<img alt="Screenshot 3" src="./Screenshot3_Geometrie%20Punkte%20mit%20Attributen.png">
 
 ----
 
@@ -32,21 +32,21 @@ Ein besonders nutzerfreundliches Attributmanagement erschließt sich durch einen
 
 Alle Eintragungen in der Code-Ansicht (</> im Bedienfeld oben) oder in den Attributboxen können abschließend in der Tabellenansicht von Geojson.io überprüft und ergänzt werden.
 
-<img alt="Screenshot 4" src="https://github.com/MonikaBarget/GeoHumTutorials/blob/master/Screenshot4_Codeview_properties%20added.png">
+<img alt="Screenshot 4" src="./Screenshot4_Codeview_properties%20added.png">
 
 ----
 
-<img alt="Screenshot 5" src="https://github.com/MonikaBarget/GeoHumTutorials/blob/master/Screenshot5_Tabellenansicht.png">
+<img alt="Screenshot 5" src="./Screenshot5_Tabellenansicht.png">
 
 ----
 
 Außerdem ist es möglich, anstatt der (modernen) politischen Karte als Hintergrund auch das Satellitenbild oder die (unbeschriftete) OSM Standardkarte zu wählen.
 
-<img alt="Screenshot 6" src="https://github.com/MonikaBarget/GeoHumTutorials/blob/master/Screenshot6_OSMAnsicht.png">
+<img alt="Screenshot 6" src="./Screenshot6_OSMAnsicht.png">
 
 ----
 
-<img alt="Screenshot 7" src="https://pad.gwdg.de/uploads/upload_be795980fe6bf6789b625c686754911c.png">
+<img alt="Screenshot 7" src="./Screenshot7.png">
 
 ----
 
