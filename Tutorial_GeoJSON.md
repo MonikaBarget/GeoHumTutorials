@@ -46,7 +46,7 @@ Außerdem ist es möglich, anstatt der (modernen) politischen Karte als Hintergr
 
 ----
 
-<img alt="Screenshot 7" src="./Screenshot7.png">
+<img alt="Screenshot 7" src="./Screenshot7_Satellitenansicht.png">
 
 ----
 
