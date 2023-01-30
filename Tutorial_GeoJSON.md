@@ -12,7 +12,7 @@ Anstatt Tabellen in Excel anzulegen, die dann mithilfe zusätzlicher Software ge
 
 Es wird dringend empfohlen, sich zu registrieren, da dann begonnene Projekte temporär im Profil gespeichert werden können. Außerdem stehen erweiterte Funktionen nur registrierten Nutzer/Innen zur Verfügung. Die Anmeldung kann z.B. über ein bereits vorhandenes Github-Profil erfolgen. Wenn man die Geojson.io-Seite öffnet, erscheint links eine auf Open Street Map beruhende Karte mit Suchfeld, in der man frei navigieren und Marker für verschiedene Geometrien (Punkte, Linien und Polygone) setzen kann. Rechts daneben erscheinen die gewählten Geometrien automatisch im GeoJSON-Format.
 
-<img alt="Screenshot2" src="https://github.com/MonikaBarget/GeoHumTutorials/blob/master/Screenshot2_codeview_raw.png">
+<img alt="Screenshot2" src="./Screenshot2_codeview_raw.png">
 
 ----
 
