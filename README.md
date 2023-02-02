@@ -26,6 +26,8 @@
 
 <p align="justify">Diese Seite präsentiert einfache Tutorials aus dem Bereich der "Geohumanities" sowie digitale Karten, die für Lehre, Forschung und Öffentlichkeitsarbeit am Institut für Europäische Geschichte in Mainz und an der Universität Maastricht erstellt wurden. Bitte besuchen Sie Monika Bargets <a href="https://insulae.hypotheses.org/">INSULAE</a> Blog und den Blog des <a href="https://dhlab.hypotheses.org/">IEG DH LABs</a> für weitere Coding Beispiele, Berichte und Workshopangebote.</p>
 
+<h3>Topics</h3>
+
 <strong>Geocodierung von Ortsnamen</strong>
 <ul>
 <li><a href="https://monikabarget.github.io/GeoHumTutorials/Tutorial_geocodingOPENCAGE">Google Colab Tutorial zur Geokodierung von EXCEL-Tabellen mit Python (Englisch)</a></li>
