@@ -14,6 +14,6 @@
   
 <img alt="how to connect Colab DE" src="./PNG_Geodata_DE/GeocodePythonDE.png">
   
-<p align="justify">Also, each section of code has to be run one after the other. A green arrow on the left hand side indicates if a section of code has been executed correctly. Please see the instructions in the screenshorts below.</p>
+<p align="justify">Also, each section of code has to be run one after the other. A green arrow on the left hand side indicates if a section of code has been executed correctly. Please see the instruction in the screenshot below.</p>
 
 <img alt="run COLAB" src="./PNG_Geodata_DE/RunCOLAB.png">
