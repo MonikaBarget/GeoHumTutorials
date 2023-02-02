@@ -4,9 +4,14 @@
 
 <p align="justify">Sample input data, my annotated code and a sample map can be viewed in my <a href="https://github.com/MonikaBarget/GeoHumTutorials/tree/master/Colab_Geocoding">Colab_Geocoding</a> directory. Access to the <a href="https://colab.research.google.com/drive/1TtMkbA2LFkC0Nuvsq0dZzQqGJIx1xQ7u">actual Colab notebook</a> is restricted is the script makes use of my personal API key.</p>
 
-<p align="justify">To run the code using your own files, you have to make sure to adjust the file path / directory. Also, each section of code has to be run one after the other. A green arrow on the left hand side indicates if a section of code has been executed correctly. Please see the instructions in the screenshorts below.</p>
-
+<p align="justify">To run the code using your own files, you can run the script on your own machine, on a Jupyter Notebook server, or on Google Colab. The advantage of Google Colab is that you can run the script as it is -- without installing Python packages first. In all cases, you have to make sure, however, to adjust the file path / directory. Whenever you upload files to your Google Drive on the top level, the standard path is "/content/drive/My Drive/". Any subfolders you create will have to be added as "/content/drive/My Drive/YourFolder/". Please make sure to change all instances of file paths in scripts you download from Github. Similarly, participants of my workshops who have direct access to one of my Google Drive Colabs should copy that folder to create their own instance also change file paths where necessary.</p>
+  
+<p align="justify">This German screenshot summarises the workflow for copying a shared Colab folder to your own Drive:</p>
+  
 <img alt="how to connect Colab DE" src="./PNG_Geodata_DE/GeocodePythonDE.png">
+  
+<p align="justify">Also, each section of code has to be run one after the other. A green arrow on the left hand side indicates if a section of code has been executed correctly. Please see the instructions in the screenshorts below.</p>
+
 <img alt="run COLAB" src="./PNG_Geodata_DE/RunCOLAB.png">
 
 <p align="justify">My test Colab notebook uses the proprietary <a href="https://opencagedata.com/api">OpenCage API</a> which only permits users with trial accounts a few thousand spatial queries per day. My test notebook lots the geocoded data directly to a static map just to help users double-check the locations. Potentially, geocoding with different APIs should be tested and compared especially when working with historical data.</p>
