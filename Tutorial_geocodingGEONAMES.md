@@ -1,4 +1,4 @@
-<h2>Geocoding with the Geonames API in Python (static map)</h2>
+<h2>Geocoding with the Geonames API in Python</h2>
 
 <p align="justify">This tutorial is an interactive tutorial that combines actual executable code with explanations in a Google Colab notebook. As the tutorial makes use of my own Geonames API key,
 I will only grant access to selected users.</p>
