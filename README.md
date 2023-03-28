@@ -12,6 +12,8 @@
 <strong>Enriching and editing spatial data</strong>
 <ul>
 <li><a href="https://monikabarget.github.io/GeoHumTutorials/Tutorial_GeoJSON">Tutorial for editing geodata with Geojson.io (German)</a></li>
+<li><a href="https://github.com/MonikaBarget/GeoHumTutorials/blob/master/Tutorial_Excel-to-GeoJSON">Converting an EXCEL file containing coordinates to GeoJSON (English)</a></li>
+
 </ul>
 <strong>Visualising spatial data</strong>
 <ul>
@@ -36,6 +38,7 @@
 <strong>Anreicherung und Bearbeitung von Ortsdaten (z.B. Ergänzung von Ortsattributen)</strong>
 <ul>
 <li><a href="https://monikabarget.github.io/GeoHumTutorials/Tutorial_GeoJSON">Tutorial zur Bearbeitung von Geodaten mit Geojson.io (Deutsch)</a></li>
+<li><a href="https://github.com/MonikaBarget/GeoHumTutorials/blob/master/Tutorial_Excel-to-GeoJSON">Erstellen einer GeoJSON Datei aus einer EXCEL Tabelle mit Ortsinformationen und Koordinaten (Englisch)</a></li>
 </ul>
 <strong>Visualisierung von Ortsdaten</strong>
 <ul>
