@@ -2,7 +2,7 @@
 
 <h3>Working with Google Colab, Geocoder for Python, and the Geonames API</h3>
 
-<p align="justify">This tutorial combines actual executable code with explanations in a <a href="https://colab.research.google.com/">Google Colab</a> notebook. The advantage of Google Colab is that you can run the script as it is -- without installing Python and individual packages on your machine. General instructions for using Colab are available <a href="LINK">here</a>. As the code requires a Geonames API key, please consider signing up on the <a href="http://www.geonames.org/login">Geonames website</a> first.</p>
+<p align="justify">This tutorial combines actual executable code with explanations in a <a href="https://colab.research.google.com/">Google Colab</a> notebook. The advantage of Google Colab is that you can run the script as it is -- without installing Python and individual packages on your machine. General instructions for using Colab are available <a href="https://github.com/MonikaBarget/GeoHumTutorials/blob/master/Tutorial_GoogleColab.md">here</a>. As the code requires a Geonames API key, please consider signing up on the <a href="http://www.geonames.org/login">Geonames website</a> first.</p>
 
 <p align="justify">API stands for "application programming interface". It is essentially a web "gateway" that you can use to access data or services. Each user ideally has their own unique API key. APIs come with legal obligations and, in many cases, request limits. That means that each API holder can only perform a fixed amount of queries per day to guarantee good performance for all users and to hinder illegal activities. In my scripts shared here, the API key has to be added where you now see a string of hashtags ("#####").</p>
 
