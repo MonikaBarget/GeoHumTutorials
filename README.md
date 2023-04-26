@@ -4,6 +4,11 @@
 
 <h3>Topics</h3>
 
+<strong>General introduction to working with spatial data</strong>
+<ul>
+<li><a href="https://zenodo.org/record/7868046#.ZEk0XnZBxPY">Working with spatial data (workshop slides)</a></li>
+</ul>
+
 <strong>Geocoding place names</strong>
 <ul>
 <li><a href="https://monikabarget.github.io/GeoHumTutorials/Tutorial_geocodingOPENCAGE">Google Colab tutorial for geocoding EXCEL spreadsheets with OpenCage in Python (English)</a></li>
@@ -29,6 +34,11 @@
 <p align="justify">Diese Seite präsentiert einfache Tutorials aus dem Bereich der "Geohumanities" sowie digitale Karten, die für Lehre, Forschung und Öffentlichkeitsarbeit am Institut für Europäische Geschichte in Mainz und an der Universität Maastricht erstellt wurden. Bitte besuchen Sie Monika Bargets <a href="https://insulae.hypotheses.org/">INSULAE</a> Blog und den Blog des <a href="https://dhlab.hypotheses.org/">IEG DH LABs</a> für weitere Coding Beispiele, Berichte und Workshopangebote.</p>
 
 <h3>Topics</h3>
+
+<strong>Allgemeines zur Arbeit mit Ortsdaten</strong>
+<ul>
+<li><a href="https://zenodo.org/record/7868046#.ZEk0XnZBxPY">Arbeiten mit Ortsdaten (Workshop Folien)</a></li>
+</ul>
 
 <strong>Geocodierung von Ortsnamen</strong>
 <ul>
