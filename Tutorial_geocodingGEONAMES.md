@@ -1,7 +1,20 @@
 <h2>Geocoding with the Geonames API in Python</h2>
 
-<p align="justify">This tutorial is an interactive tutorial that combines actual executable code with explanations in a Google Colab notebook. As the tutorial makes use of my own Geonames API key,
-I will only grant access to selected users.</p>
+<p align="justify">This tutorial combines actual executable code with explanations in a Google Colab notebook. As the code requires a Geonames API key,
+please consider signing up on the Geonames website first.</p>
+
+<p align="justify">API stands for "application programming interface". It is essentially a web "gateway" that you can use to access data or services. Each user ideally has their own unique API key, which allows the provider to limit requests per user or flag abuse.</p>
+
+<p>GeoNames as a geodata service is mainly using REST APIs and offers 40 different webservices. Geocoder for Python, which is used in the code shared here, supports the following:</p>
+
+<ul>
+  <li>(geocoding) retrieve GeoNames’s geocoded data from a query string, and various filters</li>
+    <li>(details) retrieve all geonames data for a given geonames_id</li>
+    <li>(children) retrieve the hierarchy of a given geonames_id</li>
+    <li>(hierarchy) retrieve all children for a given geonames_id</li>
+ </ul>
+
+<p>For the full Geocoder documentation, please visit: <a href="https://geocoder.readthedocs.io/providers/GeoNames.html">Geocoder Read the Docs</a>.</p>
 
 <p align="justify">The Python code (in Jupyter Notebooks format) with in-line comments is available in the <a href="https://github.com/MonikaBarget/GeoHumTutorials/blob/master/Colab_Geocoding/Geocode_Plot_Geonames.ipynb">Colab Geocoding</a> directory. Executing this code in a suitable environment should first show you the content of the input file, which only has a single column of twelve place names in my sample. Then the code should geocode your address column with Geonames, add the Geonames ids and official Geonames place descriptions,
 and append all the new information to the existing table.</p>
