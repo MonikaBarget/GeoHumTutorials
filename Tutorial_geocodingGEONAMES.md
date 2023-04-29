@@ -10,7 +10,7 @@
   
 <p align="justify>"In this tutorial, we are using the Geonames API. So, please, sign up for your personal key on the <a href="http://www.geonames.org/login">Geonames website</a> first. You will receive an activation link via link. Please make sure to tick the box for activating the web service. Your API key is (as of April 2023) identical with your user name.</p>
 
-<img src="./Screenshots Colab/Geonames_Sign-Up.png" width="50%" align="left"/>
+<img src="./Screenshots Colab/Geonames_Sign-Up.png" width="100%" align="left"/>
 
 <p>GeoNames as a geodata service is mainly using REST APIs and offers 40 different webservices. Geocoder for Python, which is used in the code shared here, supports the following:</p>
 
@@ -27,7 +27,7 @@
 
 <p align="justify">My first script making use of Python Geocoder and the Geonames API <a href="https://github.com/MonikaBarget/GeoHumTutorials/blob/master/Colab_Geocoding/Geocode_Plot_Geonames.ipynb">geocodes placenames from a table and plots a static map</a>. This Python code is provided in Jupyter Notebook format with in-line comments for execution in Google Colab (also check the Colab Geocoding directory for more examples). Running this code should first show you the content of the input file, which only has a single column of twelve place names in my own sample. Then the code should geocode your address column with Geonames, add the Geonames ids and official Geonames place descriptions, and append all the new information to the existing table. In the last step, all places which could be geocoded will be plotted as small dots on a simple world map:</p>
 
-<img alt="sample map" src="./Colab_Geocoding/TestMap.png">
+<img alt="sample map" src="./Colab_Geocoding/TestMap.png" width="100%">
 
 <h3>Geocoding data and plotting an interactive map</h3>
 
