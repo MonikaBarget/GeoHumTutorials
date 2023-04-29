@@ -42,6 +42,6 @@ of individual point geometries (e.g. cities), I have provided <a href="./Colab_G
 
 <h3>Step-by-step guide for running the code</h3>
 
-If you have never run code in Colab before, you might want to follow the step-by-step guide for running the script that creates an interactive map with labels.
+If you have never run code in Colab before, you might want to follow the step-by-step guide in my YouTube video. This video shows the script for geocoding with Geonames to create an interactive map with labels. The basic steps are the same for all scripts using the Geonames API.
 
 <a href="https://www.youtube.com/embed/56JKd1b0M7Q"><img src="./Screenshots Colab/Geocoding_Geonames_YouTube.png" alt="YouTube video player"></a>
