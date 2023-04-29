@@ -10,7 +10,7 @@
   
 <p align="justify>"In this tutorial, we are using the Geonames API. So, please, sign up for your personal key on the <a href="http://www.geonames.org/login">Geonames website</a> first. You will receive an activation link via link. Please make sure to tick the box for activating the web service. Your API key is (as of April 2023) identical with your user name.</p>
 
-<img src="./Screenshots Colab/Geonames_Sign-Up.png" style="width=50%; align=left"/>
+<img src="./Screenshots Colab/Geonames_Sign-Up.png" width="50%" align="left"/>
 
 <p>GeoNames as a geodata service is mainly using REST APIs and offers 40 different webservices. Geocoder for Python, which is used in the code shared here, supports the following:</p>
 
