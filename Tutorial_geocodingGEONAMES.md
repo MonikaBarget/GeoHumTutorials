@@ -44,4 +44,4 @@ of individual point geometries (e.g. cities), I have provided <a href="./Colab_G
 
 If you have never run code in Colab before, you might want to follow the step-by-step guide for running the script that creates an interactive map with labels.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/56JKd1b0M7Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<a href="https://www.youtube.com/embed/56JKd1b0M7Q"><img src="./Screenshots Colab/Geocoding_Geonames_YouTube.png" alt="YouTube video player"></a>
