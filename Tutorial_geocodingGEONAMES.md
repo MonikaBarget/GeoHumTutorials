@@ -8,7 +8,7 @@
 
 <p align="justify">Geocoding data via script requires a so-called API key from a geocoding service. API stands for "application programming interface". It is essentially a web "gateway" that you can use to access data or services. Each user ideally has their own unique API key. APIs come with legal obligations and, in many cases, request limits. That means that each API holder can only perform a fixed amount of queries per day to guarantee good performance for all users and to hinder illegal activities. In my scripts shared here, the API key has to be added where you now see a string of hashtags ("#####").</p>
   
-<p align="justify>"In this tutorial, we are using the Geonames API. So, please, sign up for your personal key on the <a href="http://www.geonames.org/login">Geonames website</a> first. You will receive an activation link via link. Please make sure to tick the box for activating the web service. Your API key is (as of April 2023) identical with your user name.</p>
+<p align="justify">In this tutorial, we are using the Geonames API. So, please, sign up for your personal key on the <a href="http://www.geonames.org/login">Geonames website</a> first. You will receive an activation link via link. Please make sure to tick the box for activating the web service. Your API key is (as of April 2023) identical with your user name.</p>
 
 <img src="./Screenshots Colab/Geonames_Sign-Up.png" width="100%" align="left"/>
 
@@ -35,6 +35,14 @@
 of individual point geometries (e.g. cities), I have provided <a href="./Colab_Geocoding/Geocode_Plot_Geonames_interactiveMAP-withLabels.ipynb">another script that plots the geocoded data to an interactive map with labels.</a> This map is generated with the <bold>ipyleaflet</bold> package for Python and permits different ZOOM levels. The labels with place names appear when clicking on an individual place marker. Also, the base map and colours used for markers can be adjusted.</p>
 
 <img src="./Screenshots Colab/Ipyleaflet_Map-with-Labels.png"/>
+
+<h3>Geocoding data from more than one column (e.g. "address" & "continent")</h3>
+
+<p algin="justify">In some cases, it may be necessary to refine your address information, e.g. by adding a country or continent in an additional column. That may especially be the case of places of the same name exist more than once. A frequent challenge are the "colonial twins" that many European cities have in America, in Asia or in Oceania. For geocoding data from more than one column, please use my script for <a href="./Colab_Geocoding/Geocode_Plot_Geonames_interactiveMAP_withLabels.ipynb">flexible geocoding</a>. In addition to a line of code that merges spatial information from two different columns, it also performs an initial check if data in your table have already been geocoded with Geonames.</p>
+
+<h3>Consecutive geocoding to respect the hourly API limit of 1000 queries</h3>
+
+<p algin="justify">The check if data already have a Geonames ID and coordinates in your table can be very helpful when geocoding longer tables with more than 1000 rows. To geocode such an amount of data, you either need to sign up for a paid Geonames account or geocode your data consecutively over time as the hourly limit of requests is 1000.</p>
 
 <h3>Generating a GeoJSON file for working with GIS tools</h3>
 
