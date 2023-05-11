@@ -38,11 +38,11 @@ of individual point geometries (e.g. cities), I have provided <a href="./Colab_G
 
 <h3>Geocoding data from more than one column (e.g. "address" & "continent")</h3>
 
-<p algin="justify">In some cases, it may be necessary to refine your address information, e.g. by adding a country or continent in an additional column. That may especially be the case of places of the same name exist more than once. A frequent challenge are the "colonial twins" that many European cities have in America, in Asia or in Oceania. For geocoding data from more than one column, please use my script for <a href="./Colab_Geocoding/Geocode_Plot_Geonames_interactiveMAP_withLabels.ipynb">flexible geocoding</a>. In addition to a line of code that merges spatial information from two different columns, it also performs an initial check if data in your table have already been geocoded with Geonames.</p>
+<p algin="justify">In some cases, it may be necessary to refine your address information, e.g. by adding a country or continent in an additional column. That may especially be the case of places of the same name exist more than once. A frequent challenge are the "colonial twins" that many European cities have in America, in Asia or in Oceania. For geocoding data from more than one column, please use my script for <a href="./Colab_Geocoding/Geocode_Plot_Geonames_interactiveMAP_withLabels_flexibleGeocoding_twoColumns.ipynb">flexible geocoding</a>. In addition to a line of code that merges spatial information from two different columns, it also performs an initial check if data in your table have already been geocoded with Geonames.</p>
 
 <h3>Consecutive geocoding to respect the hourly API limit of 1000 queries</h3>
 
-<p algin="justify">The check if data already have a Geonames ID and coordinates in your table can be very helpful when geocoding longer tables with more than 1000 rows. To geocode such an amount of data, you either need to sign up for a paid Geonames account or geocode your data consecutively over time as the hourly limit of requests is 1000.</p>
+<p algin="justify">A <a href="./Colab_Geocoding/Geocode_Plot_Geonames_interactiveMAP_withLabels_flexibleGeocoding_v2.ipynb">script that checks if data already have a Geonames ID and coordinates</a> in your table can be very helpful when geocoding longer tables with more than 1000 rows. To geocode such an amount of data, you either need to sign up for a paid Geonames account or geocode your data consecutively over time as the hourly limit of requests is 1000.</p>
 
 <h3>Generating a GeoJSON file for working with GIS tools</h3>
 
