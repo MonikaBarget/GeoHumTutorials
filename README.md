@@ -4,9 +4,10 @@
 
 <h3>Topics</h3>
 
-<strong>General introduction to working with spatial data</strong>
+<strong>General introductions</strong>
 <ul>
 <li><a href="https://zenodo.org/record/7868046#.ZEk0XnZBxPY">Working with spatial data (workshop slides)</a></li>
+  <li><a href="https://github.com/MonikaBarget/GeoHumTutorials/blob/master/Tutorial_GeoPackages.md">Geospatial analysis & visualisation in Python</a></li>
 </ul>
 
 <strong>Geocoding place names</strong>
