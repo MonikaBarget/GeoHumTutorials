@@ -7,7 +7,7 @@ This is why the GeoHumTutorials repository aims to provide more specific example
 
 <h3>Recommended packages for beginners (with links to tutorials)</h3>
 
-- <a href="https://python-visualization.github.io/folium/latest/">Folium</a> (see tutorial by <a href="https://python.plainenglish.io/crafting-compelling-interactive-visualizations-with-python-and-folium-99a95d41219b">Godwin Murithi</p>)
+- <a href="https://python-visualization.github.io/folium/latest/">Folium</a> (see tutorial by <a href="https://python.plainenglish.io/crafting-compelling-interactive-visualizations-with-python-and-folium-99a95d41219b">Godwin Murith</a></p>)
 <p>Folium is a Python wrapper for Leaflet.js, which is a popular JavaScript library for interactive maps. This pakcage permits the combination of several layers. 
   Folium provides a FeatureGroup class to group several layers together so that they can be displayed and edited as a single entity. Geoinformation from dataframes is read to lists. </p>
   
