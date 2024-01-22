@@ -1,3 +1,4 @@
+<h2>Geospatial analysis & visualisation in Python</h2>
 <h3>Finding the right geospatial package</h3>
 
 <p>In a MEDIUM article from July 2023, Neha Sharma described a total of 70 Python packages that can be used for the collection, analysis and visualisation of geospatial data:
