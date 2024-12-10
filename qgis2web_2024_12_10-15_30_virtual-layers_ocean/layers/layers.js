@@ -69,3 +69,7 @@ var lyr_RKG_virtuallayer_rat_3 = new ol.layer.Vector({
 
 lyr_ESRIOcean_0.setVisible(true);lyr_RKG_virtuallayer_assessor_presentatus_1.setVisible(true);lyr_RKG_virtuallayer_absolvent_student_2.setVisible(true);lyr_RKG_virtuallayer_rat_3.setVisible(true);
 var layersList = [lyr_ESRIOcean_0,lyr_RKG_virtuallayer_assessor_presentatus_1,lyr_RKG_virtuallayer_absolvent_student_2,lyr_RKG_virtuallayer_rat_3];
+
+var popup = document.querySelector('.ol-popup');
+popup.style.display = 'block';  // Show pop-up
+
