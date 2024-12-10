@@ -1,6 +1,6 @@
 html, body {
     height: 100%;
-    padding: 0;
+    padding: 10;
     margin: 0;
     font-family: sans-serif;
     font-size: small;
@@ -42,8 +42,9 @@ html, body {
 
 .ol-popup:after {
     border-top-color: white;
-    min-width: 400px;
-    max-width: 300px;
+    min-width: 300px;
+    max-width: 500px;
+    max-height: 250px;
     border-width: 10px;
     left: 50%;
     margin-left: -10px;
@@ -417,7 +418,6 @@ td video {
     position: absolute;
     top: 10px;
     left: 10px;
-padding: 10px;
     z-index: 1000; /* Ensures it stays on top of other map elements */
     background-color: rgba(255, 255, 255, 0.8); /* Transparent white background */
     color: black; /* Text color */
