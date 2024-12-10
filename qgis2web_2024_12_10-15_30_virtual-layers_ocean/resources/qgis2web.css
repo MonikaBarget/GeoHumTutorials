@@ -47,7 +47,7 @@ html, body {
     max-height: 250px;
     border-width: 10px;
     left: 50%;
-    margin-left: -10px;
+    transform: translateX(-50%);  /* Centers the popup horizontally */
 }
 
 .ol-popup:before {
