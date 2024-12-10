@@ -416,9 +416,11 @@ td video {
 
 .map-description {
     position: absolute;
-    top: 10px;
-    left: 10px;
-    z-index: 1000; /* Ensures it stays on top of other map elements */
+    left: 20px; /* Adjust as needed for horizontal spacing */
+    top: 50%; /* Centers the box vertically */
+    transform: translateY(-50%); /* Adjusts for the box height to perfectly center */
+    background-color: white; /* Optional: Set a background color if needed */
+    z-index: 1000; /* Ensures it appears above other elements */
     background-color: rgba(255, 255, 255, 0.8); /* Transparent white background */
     color: black; /* Text color */
     padding: 15px; /* Space around the text */
