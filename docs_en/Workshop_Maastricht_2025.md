@@ -51,8 +51,8 @@ Alsfeld, where the map was created, was a significant and often contested tradin
 
 <p>As you may never have heard about the places mentioned here before, I have also highlighted Alsfeld, Angenroth, Gleimenhain and Fischbach in a modern map created with MapBox and using an Open Street Map base map:</p>
 
-<a href="https://github.com/MonikaBarget/GeoHumTutorials/blob/master/screenshots/MapboxOSM_Alsfeld.png" target="_blank">
-  <img src="https://github.com/MonikaBarget/GeoHumTutorials/blob/master/screenshots/MapboxOSM_Alsfeld.png" alt="Mapbox OSM Alsfeld" style="width:50%; max-width:900px; display:block; margin:auto;">
+<a href="../screenshots/MapboxOSM_Alsfeld.png" target="_blank">
+  <img src="../screenshots/MapboxOSM_Alsfeld.png" alt="Mapbox OSM Alsfeld" style="width:50%; max-width:900px; display:block; margin:auto;">
 </a>
 
 <p>You will see that all are comparatively small villages / towns by modern standards in a rural area of Germany. For critical comparison, you may also want to look at a printed map of the same region produced in the later 17th-century:</p>
