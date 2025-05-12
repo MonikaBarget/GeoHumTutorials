@@ -2,7 +2,7 @@
 layout: default
 title: Overview
 lang: en
-permalink: /GeoHumTutorials/docs_en/
+permalink: /docs_en/
 ---
 
 <h2>Overview</h2>
