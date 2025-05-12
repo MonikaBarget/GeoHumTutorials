@@ -21,11 +21,7 @@ permalink: /docs_en/Workshop_Maastricht_2025
 </p>
 
 <p>
-  In archives, these maps are usually preserved in the context of more extensive legal records, which is why earlier scholarship assumed they were used as legal evidence. However, more recent research suggests that they were rather supportive illustrations of a legal dispute, comprehensible only in conjunction with the textual documents, and that they were also used outside of court contexts.
-</p>
-
-<p>
-  A particularly large number of inspection maps from the early modern period survive from regions along the Rhine, as the Rhine was an important trade route and financial resource through toll and staple rights, making it attractive to all neighboring principalities. Many of the maps created here were artistically ambitious and featured detailed naturalistic elements. (Kümper, p. 57)
+  In archives, these maps are usually preserved in the context of more extensive legal records, which is why earlier scholarship assumed they were used as legal evidence. However, more recent research suggests that they were rather supportive illustrations of a legal dispute, comprehensible only in conjunction with the textual documents, and that they were also used outside of court contexts. A particularly large number of inspection maps from the early modern period survive from regions along the Rhine, as the Rhine was an important trade route and financial resource through toll and staple rights, making it attractive to all neighboring principalities. Many of the maps created here were artistically ambitious and featured detailed naturalistic elements. (Kümper, p. 57)
 </p>
 
 <p>
@@ -53,7 +49,13 @@ permalink: /docs_en/Workshop_Maastricht_2025
 Alsfeld, where the map was created, was a significant and often contested trading hub from the Middle Ages into the early modern period. The town adopted the Reformation and, like many surrounding villages, belonged to various principalities in the 16th and 17th centuries. From 1567, Alsfeld was part of Hesse-Marburg and from 1604 of the Landgraviate of Hesse-Darmstadt. The Thirty Years’ War caused severe damage, and the town was occupied by various armies, including Brunswick-Wolfenbüttel in 1622 and Swedish troops in 1640. During the Hessian War (1645–1648), Alsfeld lay on the border between the warring factions of Hesse-Darmstadt and Hesse-Kassel. This conflict, part of a long series of diplomatic and military struggles between the branches of the Hessian princely house, originated in the division of the inheritance after the death of the last united Landgrave of Hesse, Philip I, in 1567.
 </p>
 
-<p>To more easily identify place names and for a critical comparison, you may also want to look at a printed map of the region around Alsfeld produced in the later 17th-century:</p>
+<p>As you may never have heard about the places mentioned here before, I have also highlighted Alsfeld, Angenroth, Gleimenhain and Fischbach in a modern map created with MapBox and using an Open Street Map base map:</p>
+
+<a href="https://github.com/MonikaBarget/GeoHumTutorials/blob/master/screenshots/MapboxOSM_Alsfeld.png" target="_blank">
+  <img src="https://github.com/MonikaBarget/GeoHumTutorials/blob/master/screenshots/MapboxOSM_Alsfeld.png" alt="Map HStAD P 1, 2522" style="width:50%; max-width:900px; display:block; margin:auto;">
+</a>
+
+<p>You will see that all are comparatively small villages / towns by modern standards in a rural area of Germany. For critical comparison, you may also want to look at a printed map of the same region produced in the later 17th-century:</p>
 
 <a href="https://www.bierl-antiquariat.de/media/catalog/product/cache/fb3672239af29012103a84801b59e41e/1/2/12235cg.jpg" target="_blank">
   <img src="https://www.bierl-antiquariat.de/media/catalog/product/cache/fb3672239af29012103a84801b59e41e/1/2/12235cg.jpg" alt="Map HStAD P 1, 2522" style="width:50%; max-width:900px; display:block; margin:auto;">
