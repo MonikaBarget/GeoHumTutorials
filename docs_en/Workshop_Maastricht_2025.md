@@ -17,19 +17,15 @@ permalink: /docs_en/Workshop_Maastricht_2025
  <h3>Case study 1: observational cartography in early modern Germany</h3> 
 
 <p>
-  An interesting cartographic tradition closely tied to legal disputes over borders and territories is the so-called <em>"Augenscheinkarte"</em> (inspection map). In the German-speaking world, where they have been common since the early 16th century, these maps are also referred to as <em>"Streitkarten"</em> (dispute maps). The term refers to a hand-drawn map that depicts topographical circumstances only vaguely after an inspection of the terrain, without a formal land survey.
+An interesting cartographic tradition closely tied to legal disputes over borders and territories is the so-called <em>"Augenscheinkarte"</em> (inspection map). In the German-speaking world, where they have been common since the early 16th century, these maps are also referred to as <em>"Streitkarten"</em> (dispute maps). The term refers to a hand-drawn map that depicts topographical circumstances only vaguely after an inspection of the terrain, without a formal land survey.
 </p>
 
 <p>
-  In archives, these maps are usually preserved in the context of more extensive legal records, which is why earlier scholarship assumed they were used as legal evidence. However, more recent research suggests that they were rather supportive illustrations of a legal dispute, comprehensible only in conjunction with the textual documents, and that they were also used outside of court contexts. A particularly large number of inspection maps from the early modern period survive from regions along the Rhine, as the Rhine was an important trade route and financial resource through toll and staple rights, making it attractive to all neighboring principalities. Many of the maps created here were artistically ambitious and featured detailed naturalistic elements. (Kümper, p. 57)
+  In archives, these maps are usually preserved in the context of more extensive legal records, which is why earlier scholarship assumed they were used as legal evidence. However, more recent research suggests that they were rather supportive illustrations of a legal dispute, comprehensible only in conjunction with the textual documents, and that they were also used outside of court contexts. (Timpener, 2022) A particularly large number of inspection maps from the early modern period survive from regions along the Rhine, as the Rhine was an important trade route and financial resource through toll and staple rights. This made it attractive to all adjacent principalities. Many of the maps created here were artistically ambitious and featured detailed naturalistic elements. (Kümper, 2022, p. 57)
 </p>
 
 <p>
-  Other inspection maps are highly abstract and focus on just a few key features, such as boundary stones.
-</p>
-
-<p>
-  The embedded map from the holdings of the Hessian State Archive in Darmstadt (reference HStAD, P 1, 2522) is a relatively abstract sketch from the year 1628. It shows the approximate borders of the three villages of Angenroth, Gleimenhain, and Fischbach, as well as their proximity to the territories of Hesse-Darmstadt, Hesse-Kassel, and Electoral Mainz:
+Other inspection maps are highly abstract and focus on just a few key features, such as boundary stones. The embedded map from the holdings of the Hessian State Archive in Darmstadt (reference HStAD, P 1, 2522) is a relatively abstract sketch from the year 1628. It shows the approximate borders of the three villages of Angenroth, Gleimenhain, and Fischbach, as well as their proximity to the territories of Hesse-Darmstadt, Hesse-Kassel, and Electoral Mainz:
 </p>
 
 <a href="https://digitalisate-he.arcinsys.de/hstad/p_1/2522/p_1%232522.jpg" target="_blank">
@@ -37,49 +33,61 @@ permalink: /docs_en/Workshop_Maastricht_2025
 </a>
 
 <p>
-  It was created by the rentmaster Daniel Ludwig Lüncker in Alsfeld, presumably on behalf of the landgravial government of Hesse-Darmstadt under Landgrave Georg II. The map measures 33 x 42 cm, is drawn on paper, and consists of a single sheet.
+This map was created by Rentmaster Daniel Ludwig Lüncker in Alsfeld, the only larger town in the area, presumably on behalf of the landgravial government of Hesse-Darmstadt under Landgrave Georg II. The map measures 33 x 42 cm, is drawn on paper, and consists of a single sheet.
 </p>
 
 <p><strong>The original title reads:</strong></p>
 <blockquote>
-  "Ungefehrer Abriß dardurch nurentgezeiget würd, wie die drei Dorff Angenroht, Gleymenhain sowie Fischbach ... Landgraf Georgen zu Hessen etc. Land und an Kurmainz und einesteils an Hessen-Kassel stoßen."
+"Ungefehrer Abriß dardurch nurentgezeiget würd, wie die drei Dorff Angenroht, Gleymenhain sowie Fischbach ... Landgraf Georgen zu Hessen etc. Land und an Kurmainz und einesteils an Hessen-Kassel stoßen."
 </blockquote>
 
 <p>
 Alsfeld, where the map was created, was a significant and often contested trading hub from the Middle Ages into the early modern period. The town adopted the Reformation and, like many surrounding villages, belonged to various principalities in the 16th and 17th centuries. From 1567, Alsfeld was part of Hesse-Marburg and from 1604 of the Landgraviate of Hesse-Darmstadt. The Thirty Years’ War caused severe damage, and the town was occupied by various armies, including Brunswick-Wolfenbüttel in 1622 and Swedish troops in 1640. During the Hessian War (1645–1648), Alsfeld lay on the border between the warring factions of Hesse-Darmstadt and Hesse-Kassel. This conflict, part of a long series of diplomatic and military struggles between the branches of the Hessian princely house, originated in the division of the inheritance after the death of the last united Landgrave of Hesse, Philip I, in 1567.
 </p>
 
-<p>As you may never have heard about the places mentioned here before, I have also highlighted Alsfeld, Angenroth, Gleimenhain and Fischbach in a modern map created with MapBox and using an Open Street Map base map:</p>
+<p>Alsfeld is now a comparatively small town by modern standards, and the surrounding villages have all been integrated into larger administrative units. The map below highlights Alsfeld, Angenroth, Gleimenhain and Fischbach in a considerably rural area of present-day Germany:</p>
 
 <a href="../screenshots/MapboxOSM_Alsfeld.png" target="_blank">
   <img src="../screenshots/MapboxOSM_Alsfeld.png" alt="Mapbox OSM Alsfeld" style="width:50%; max-width:900px; display:block; margin:auto;">
 </a>
 
-<p>You will see that all are comparatively small villages / towns by modern standards in a rural area of Germany. For critical comparison, you may also want to look at a printed map of the same region produced in the later 17th-century:</p>
+<p>For critical comparison, you may also want to look at a printed map of the same region produced in the later 17th-century:</p>
 
 <a href="https://www.bierl-antiquariat.de/media/catalog/product/cache/fb3672239af29012103a84801b59e41e/1/2/12235cg.jpg" target="_blank">
   <img src="https://www.bierl-antiquariat.de/media/catalog/product/cache/fb3672239af29012103a84801b59e41e/1/2/12235cg.jpg" alt="Map HStAD P 1, 2522" style="width:50%; max-width:900px; display:block; margin:auto;">
 </a>
 
-<p>This map is titled "Umgebungskarte zwischen Willingshausen, Neukirchen und Ulrichstein," which translates to "Map of the surroundings between Willingshausen, Neukirchen, and Ulrichstein." It is a copper engraving created by G.C. Jung in Nuremberg in the year 1692. The dimensions of the map are 14 by 19.5 centimeters. It is part of a larger, 64-part map series called "Franconiae mappa locupletissima."</p>
+<p>This map is titled "Umgebungskarte zwischen Willingshausen, Neukirchen und Ulrichstein," which translates to "Map of the surroundings between Willingshausen, Neukirchen, and Ulrichstein." It is a copper engraving created by G.C. Jung in Nuremberg in the year 1692. The dimensions of the map are 14 by 19.5 centimeters. It is part of a larger, 64-part map series called "Franconiae mappa locupletissima." Unfortunately, both historical maps depicted above have no surviving key that would explain the symbols and abbreviations used. Where early modern keys have come down to us, however, we get a sense of how map-makers of the period structured space and assigned hierarchies to individual places.</p>
+
+<p>
+One detailed early modern map key accompanies the hand-coloured copperplate map <em>Quangsi, Sinarum Imperii Provincia Decimatertia</em> from Martino Martini’s <em>Novus atlas Sinensis</em> (Amsterdam: Blaeu, 1655):
+</p>
+
+<img src="https://static-prod.lib.princeton.edu/visual_materials/maps/websites/thematic-maps/introduction/martini-map-key.jpg" alt="Map key from Martini’s Novus Atlas Sinensis (1655)" style="width:50%; max-width:900px; display:block; margin:auto;">
+
+<p>
+Here we see, for instance, that inhabited places are differentiated by size and importance. Similar keys, with slightly different attributions, were used in a late seventeenth-century copy of the so-called English "Anonymous" map originally produced in 1603. The key of this map explains the symbolism in both Latin and English (see close-up on the <a href="https://www.revolutionaryplayers.org.uk/keys-and-explanations/" target="_blank">Revolutionary Players website</a>).
+</p>
 
 <h3>Group tasks:</h3>
 <ul>
-  <li>Examine the digitised versions of the two map together. What elements does each of them include and what is "missing"? What does this suggest about the purpose of each map?</li>
-  <li>Both maps include text (mostly place and region names) and symbols. What do the symbols represent and why are they important?</li>
+  <li>Examine the digitised versions of the two historical maps. What cartographic elements does each of them include and what is "missing"? What does this suggest about the purpose of each map?</li>
+  <li>Both maps include text (mostly place and region names) as well as symbols. What do the symbols represent and why are they important?</li>
   <li>What do the maps reveal more generally about spatial understanding and territorial belonging at the time of their creation? Which aspects are still relevant today, and what may have changed?</li>
 </ul>
 
-<h3>Literature:</h3>
+<h3>Works cited:</h3>
+<ul>
+  <li>
+    Kümper, Hiram. "Streit um den Rhein: von Zöllen, Sand und ganz viel Ärger." <em>Mannheimer historische Schriften</em>, No. 3, University of Mannheim, 2022, pp. X–Y. 
+    <a href="https://majournals.bib.uni-mannheim.de/download" target="_blank">https://majournals.bib.uni-mannheim.de/download</a>
+  </li>
+  <li>
+    Timpener, Evelien. "3 From Inspection to Map: The Relationship between Text and Image." In <em>Augenschein genommen: Hessische Lokal- und Regionalkartographie in Text und Bild (1500–1575)</em>, Berlin, Boston: De Gruyter Oldenbourg, 2022, pp. 68–124. 
+    <a href="https://doi.org/10.1515/9783110777598-004" target="_blank">https://doi.org/10.1515/9783110777598-004</a>
+  </li>
+</ul>
 
-<p>
-  Kümper, Hiram. "Streit um den Rhein: von Zöllen, Sand und ganz viel Ärger." <em>Mannheimer historische Schriften</em>, No. 3, University of Mannheim, 2022, pp. X–Y. 
-  <a href="https://majournals.bib.uni-mannheim.de/download" target="_blank">https://majournals.bib.uni-mannheim.de/download</a>
-</p>
-<p>
-  Timpener, Evelien. "3 From Inspection to Map: The Relationship between Text and Image." In <em>Augenschein genommen: Hessische Lokal- und Regionalkartographie in Text und Bild (1500–1575)</em>, Berlin, Boston: De Gruyter Oldenbourg, 2022, pp. 68–124. 
-  <a href="https://doi.org/10.1515/9783110777598-004" target="_blank">https://doi.org/10.1515/9783110777598-004</a>
-</p>
 
   <h2>Case study 2: Indigenous cartography versus European conventions</h2>
 
