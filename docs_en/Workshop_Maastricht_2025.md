@@ -57,8 +57,7 @@ Alsfeld, where the map was created, was a significant and often contested tradin
   <img src="https://www.bierl-antiquariat.de/media/catalog/product/cache/fb3672239af29012103a84801b59e41e/1/2/12235cg.jpg" alt="Map HStAD P 1, 2522" style="width:25%; float:right; margin: 0 20px 20px 0;">
 </a>
 
-<p>This map is a copper engraving created by G. C. Jung from Nuremberg in the year 1692. The dimensions of the map are 14 by 19.5 cm. It is part of a larger, 64-part map series called <em>Franconiae mappa locupletissima</em> (a most richly illustrated map of Franconia). Unfortunately, both historical maps depicted above have no surviving key that would explain the symbols and abbreviations used. Where early modern keys have come down to us, however, we get a sense of how map-makers of the period structured space and assigned hierarchies to individual places. One detailed early modern map key accompanies the hand-coloured copperplate map <em>Quangsi, Sinarum Imperii Provincia Decimatertia</em> from Martino Martini’s 1655 <em>Novus atlas Sinensis</em> (<strong>fig. 1.4</strong>):
-</p>
+<p>This map is a copper engraving created by G. C. Jung from Nuremberg in the year 1692. The dimensions of the map are 14 by 19.5 cm. It is part of a larger, 64-part map series called <em>Franconiae mappa locupletissima</em> (a most richly illustrated map of Franconia). Unfortunately, both historical maps depicted above have no surviving key that would explain the symbols and abbreviations used. Where early modern keys have come down to us, however, we get a sense of how map-makers of the period structured space and assigned hierarchies to individual places. One detailed early modern map key accompanies the hand-coloured copperplate map <em>Quangsi, Sinarum Imperii Provincia Decimatertia</em> from Martino Martini’s 1655 <em>Novus atlas Sinensis</em> (<strong>fig. 1.4</strong>):</p>
 
 <img src="https://static-prod.lib.princeton.edu/visual_materials/maps/websites/thematic-maps/introduction/martini-map-key.jpg" alt="Map key from Martini’s Novus Atlas Sinensis (1655)" style="width:10%; float:left; margin: 0 20px 20px 0;">
 
@@ -87,7 +86,7 @@ Here we see, for instance, that inhabited places are differentiated by size and 
 
 <hr>
 
-<h2>Case study 2: Indigenous cartography versus European conventions</h2>
+<h2>Case study 2: Indigenous cartography and European conventions</h2>
 
 <p>The creation of maps is closely linked to the territorialisation of power that marked the early modern period in Europe (Barget, 2023), but this does not mean that visualisations of space were absent from other cultures before the age of colonialism. Indigenous peoples across the world have named and visually recorded places in their own ways, and contact with European culture often meant that traditional concepts of space and colonial demarcations of territory influenced each other.</p>
 
@@ -133,7 +132,7 @@ Here we see, for instance, that inhabited places are differentiated by size and 
 
 <h2>Case study 3: Maps as weapons? The 2023 Chinese "standard map" controversy</h2>
 
-<p>In 2023, China released an updated map during their annual “National Mapping Awareness Publicity Week.” This map, hosted on the Ministry of Natural Resources’ cartographic service website, extends territorial claims along China’s western border with India, the South China Sea, and Taiwan. The inclusion of a “ten-dash line” around the South China Sea and Taiwan further complicates maritime disputes. The Philippines, Malaysia, Taiwan, India, and Vietnam have rejected the map, and international news services as well as NGOs have discussed the geopolitical strategy behind it.</p>
+<p>In 2023, China released an updated map during their annual “National Mapping Awareness Publicity Week.” This map, hosted on the Ministry of Natural Resources’ cartographic service website, extends territorial claims along China’s western border with India, the South China Sea, and Taiwan. The inclusion of a purple dashed line around the South China Sea and Taiwan further complicates maritime disputes. The Philippines, Malaysia, Taiwan, India, and Vietnam have rejected the map, and international news services as well as NGOs have discussed the geopolitical strategy behind it.</p>
 
 <p>Simone McCarthy (2023), writing for CNN, discussed controversies about Chinese maps more generally and mentioned that a recent digital map used by Chinese web-services missed the country name Israel while the Gaza conflict is ongoing. In general, China is known to pay careful attention to their map production but also monitor how their territories are depicted abroad. M. Respinti (Bitter Winter) pointed out that manipulations of geography have real-life implications for human beings and should not be taken lightly:</p>
 
@@ -141,7 +140,7 @@ Here we see, for instance, that inhabited places are differentiated by size and 
 "The distortions and the far-reaching implications that those maps carry within the broader geopolitical and human landscapes make the topic extremely sensitive." (Respinti, 2024)
 </blockquote>
 
-<p>Similar concerns were voiced by B. Sebastian (Modern Diplomacy) and the editing team behind <em>Investigative Journalism Reportika</em>.</p>Meanwhile, Oiwan Lam, a regional editor at <em>Global Voices</em> for Northeast Asia and media activist based in Hong Kong, pointed out that the 2023 standard map of China contained "nothing new":</p>
+<p>Similar concerns were voiced by B. Sebastian (Modern Diplomacy) and the editing team behind <em>Investigative Journalism Reportika</em>. Meanwhile, Oiwan Lam, a regional editor at <em>Global Voices</em> for Northeast Asia and media activist based in Hong Kong, pointed out that the 2023 standard map of China contained "nothing new":</p>
 
 <blockquote>
 "The map is consistent with China's previous claims, which have extended its jurisdiction over disputed areas along India and Russia's borders and in the South China Sea." (Lam, 2023)
