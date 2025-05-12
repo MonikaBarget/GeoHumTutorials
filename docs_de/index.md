@@ -2,7 +2,7 @@
 layout: default
 title: Startseite
 lang: de
-permalink: /docs_DE/
+permalink: /docs_de/
 ---
 
 <h2>Übersicht</h2>
