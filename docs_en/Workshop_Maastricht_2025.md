@@ -54,7 +54,7 @@ Alsfeld, where the map was created, was a significant and often contested tradin
 <p>For critical comparison, you may also want to look at a printed map of the same region produced in the later 17th-century (<strong>fig. 1.3</strong>).</p>
 
 <a href="https://www.bierl-antiquariat.de/media/catalog/product/cache/fb3672239af29012103a84801b59e41e/1/2/12235cg.jpg" target="_blank">
-  <img src="https://www.bierl-antiquariat.de/media/catalog/product/cache/fb3672239af29012103a84801b59e41e/1/2/12235cg.jpg" alt="Map HStAD P 1, 2522" style="width:25%; float:left; margin: 0 20px 20px 0;">
+  <img src="https://www.bierl-antiquariat.de/media/catalog/product/cache/fb3672239af29012103a84801b59e41e/1/2/12235cg.jpg" alt="Map HStAD P 1, 2522" style="width:25%; float:right; margin: 0 20px 20px 0;">
 </a>
 
 <p>This map is a copper engraving created by G. C. Jung from Nuremberg in the year 1692. The dimensions of the map are 14 by 19.5 cm. It is part of a larger, 64-part map series called <em>Franconiae mappa locupletissima</em> (a most richly illustrated map of Franconia). Unfortunately, both historical maps depicted above have no surviving key that would explain the symbols and abbreviations used. Where early modern keys have come down to us, however, we get a sense of how map-makers of the period structured space and assigned hierarchies to individual places. One detailed early modern map key accompanies the hand-coloured copperplate map <em>Quangsi, Sinarum Imperii Provincia Decimatertia</em> from Martino Martini’s 1655 <em>Novus atlas Sinensis</em> (<strong>fig. 1.4</strong>):
@@ -66,7 +66,7 @@ Alsfeld, where the map was created, was a significant and often contested tradin
 Here we see, for instance, that inhabited places are differentiated by size and importance. Similar keys, with slightly different attributions, were used in a late seventeenth-century copy of the so-called English <em>Anonymous</em> map originally produced in 1603. The key of this map explains the symbolism in both Latin and English (see close-up on the <a href="https://www.revolutionaryplayers.org.uk/keys-and-explanations/" target="_blank">Revolutionary Players website</a>).
 </p>
 
-<h3>Group tasks:</h3>
+<h3>Questions for discussion:</h3>
 <ul>
   <li>Examine the digitised versions of the two historical maps. What cartographic elements does each of them include and what is "missing"? What does this suggest about the purpose of each map?</li>
   <li>Both maps include text (mostly place and region names) as well as symbols. What do the symbols represent and why are they important?</li>
@@ -97,16 +97,16 @@ Here we see, for instance, that inhabited places are differentiated by size and 
 "In Indigenous sciences, the world is often understood in terms of flows of energies (and sometimes entities) across a permeable boundary between manifest and unmanifest realities. Working relationships with forces deemed 'superstitious' or 'irrational' in modern science are significant aspects of social processes and healing practices. Maintaining these worldviews and practices is an uphill battle against the hegemony of modern scientific thought and the legacy of missionaries and educators who tried so hard to dismantle Indigenous knowledge systems." (Herman, 2008, p. 75)
 </blockquote>
 
-<p>Today, Indigenous communities are actively remapping and renaming their homelands to assert their presence on the land, and preserve their languages and stories. In this process, maps play an important role, but many of the modern maps dedicated to Indigenous cultures still follow modern Western conventions of map-making. The <em>Indigenous Peoples Atlas of Canada</em>, for example, shows new perspectives on the history and geography of Canada in maps produced with standard Geoinformation Systems, including common spatial projections and keys.</p>
+<p>Today, Indigenous communities are actively remapping and renaming their homelands to assert their presence on the land, and preserve their languages and stories. In this process, maps play an important role, but many of the modern maps dedicated to Indigenous cultures still follow modern Western conventions of map-making. The <em>Indigenous Peoples Atlas of Canada</em>, for example, shows new perspectives on the history and geography of Canada in maps produced with standard Geoinformation Systems, including common spatial projections and keys (<strong>fig. 2.1</strong>).</p>
 
 <a href="https://indigenouspeoplesatlasofcanada.ca/wp-content/uploads/2018/06/Inuit-Owned-Lands-in-Nunavut-2016.gif" target="_blank">
   <img src="https://indigenouspeoplesatlasofcanada.ca/wp-content/uploads/2018/06/Inuit-Owned-Lands-in-Nunavut-2016.gif" alt="Inuit Owned Lands in Nunavut" style="width:25%; max-width:900px; float:left; margin: 0 20px 20px 0;">
 </a>
 
-<p>Older maps created by Indigenous artists, by contrast, were more visibly inspired by traditional iconography and unique experiences of space (Hidalgo, 2019). The map below is one example. It was created by an unknown artist from Tetliztaca, Mexico, in around 1581. It is held by the Benson Latin American Collection at the University of Texas, Austin:</p>
+<p>Older maps created by Indigenous artists, by contrast, were more visibly inspired by traditional iconography and unique experiences of space (Hidalgo, 2019). The map in <strong>fig. 2.2</strong> is one example. It was created by an unknown artist from Tetliztaca, Mexico, in around 1581. It is held by the Benson Latin American Collection at the University of Texas, Austin:</p>
 
 <a href="https://d7hftxdivxxvm.cloudfront.net/?height=2880&quality=80&resize_to=fit&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2FHeVNkRocI-Kh-NeFfWcT3w%252F5.Tetliztaca.jpg&width=2880" target="_blank">
-  <img src="https://d7hftxdivxxvm.cloudfront.net/?height=2880&quality=80&resize_to=fit&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2FHeVNkRocI-Kh-NeFfWcT3w%252F5.Tetliztaca.jpg&width=2880" alt="Tetliztaca Map" style="width:25%; max-width:900px; float:left; margin: 0 20px 20px 0;">
+  <img src="https://d7hftxdivxxvm.cloudfront.net/?height=2880&quality=80&resize_to=fit&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2FHeVNkRocI-Kh-NeFfWcT3w%252F5.Tetliztaca.jpg&width=2880" alt="Tetliztaca Map" style="width:25%; max-width:900px; float:right; margin: 0 20px 20px 0;">
 </a>
 
 <p>In 2019, the Blanton Museum of Art at the University of Texas exhibited this map alongside eighteen other hand-painted Indigenous maps, collectively known as the "Mapas de las Relaciones Geográficas", in their exhibition “Mapping Memory: Space and History in 16th-century Mexico”.</p>
@@ -135,25 +135,25 @@ Here we see, for instance, that inhabited places are differentiated by size and 
 
 <p>In 2023, China released an updated map during their annual “National Mapping Awareness Publicity Week.” This map, hosted on the Ministry of Natural Resources’ cartographic service website, extends territorial claims along China’s western border with India, the South China Sea, and Taiwan. The inclusion of a “ten-dash line” around the South China Sea and Taiwan further complicates maritime disputes. The Philippines, Malaysia, Taiwan, India, and Vietnam have rejected the map, and international news services as well as NGOs have discussed the geopolitical strategy behind it.</p>
 
-<p>Simone McCarthy (2023), writing for CNN, discussed controversies about Chinese maps more generally and mentioned that a recent digital map used by Chinese web-services missed the country name Israel while the Gaza conflict is ongoing. In general, China is known to pay careful attention to their own maps but also monitors how their territories are depicted abroad.</p>
-
-<p>M. Respinti (Bitter Winter) pointed out that manipulations of geography have real-life implications for human beings and should not be taken lightly:</p>
+<p>Simone McCarthy (2023), writing for CNN, discussed controversies about Chinese maps more generally and mentioned that a recent digital map used by Chinese web-services missed the country name Israel while the Gaza conflict is ongoing. In general, China is known to pay careful attention to their map production but also monitor how their territories are depicted abroad. M. Respinti (Bitter Winter) pointed out that manipulations of geography have real-life implications for human beings and should not be taken lightly:</p>
 
 <blockquote>
 "The distortions and the far-reaching implications that those maps carry within the broader geopolitical and human landscapes make the topic extremely sensitive." (Respinti, 2024)
 </blockquote>
 
-<p>Similar concerns were voiced by B. Sebastian (Modern Diplomacy) and the editing team behind Investigative Journalism Reportika.</p>Meanwhile, Oiwan Lam, a regional editor at Global Voices for Northeast Asia and media activist based in Hong Kong, pointed out that the 2023 standard map of China had "nothing new":</p>
+<p>Similar concerns were voiced by B. Sebastian (Modern Diplomacy) and the editing team behind <em>Investigative Journalism Reportika</em>.</p>Meanwhile, Oiwan Lam, a regional editor at <em>Global Voices</em> for Northeast Asia and media activist based in Hong Kong, pointed out that the 2023 standard map of China contained "nothing new":</p>
 
 <blockquote>
 "The map is consistent with China's previous claims, which have extended its jurisdiction over disputed areas along India and Russia's borders and in the South China Sea." (Lam, 2023)
 </blockquote>
 
-<p>According to Lam, what has changed is not the map, but its context:</p>
+<p>So why did so many countries protest more vocally then ever before? According to Lam, what has changed is not the map, but its context:</p>
 
 <blockquote>
 "China has become more aggressive in establishing its military presence around the Paracel Islands near Vietnam’s exclusive economic zone (EEZ), Scarborough Shoal and Spratly Islands near the Philippines EEZ through military drills, the construction of artificial islands and permanent facilities and deployment of large vessels to patrol in the disputed area in the past two decades. The aim is to control fishing operations, oil and gas exploration activities, and seabed internet cable-laying operations."
 </blockquote>
+
+The map displayed here (<strong>fig. 3.1</strong>) is a screenshot of the new Chinese map shared by Oiwan Lam in her blog post. The screenshot focuses of the lines in the South China Seas that demonstrate China's claims over the entire region. The screenshot was taken from the Chinese government standard map service website, which is not accessible from all IP addresses.
 
 <a href="https://globalvoices.org/wp-content/uploads/2023/09/Screenshot-2023-09-02-12.44.12-PM-1200x675.png" target="_blank">
   <img src="https://globalvoices.org/wp-content/uploads/2023/09/Screenshot-2023-09-02-12.44.12-PM-1200x675.png" alt="Chinese Standard Map 2023" style="width:50%; max-width:900px; float:left; margin: 0 20px 20px 0;">
@@ -163,7 +163,7 @@ Here we see, for instance, that inhabited places are differentiated by size and 
 
 <h3>Questions for discussion:</h3>
 <ul>
-  <li>Look at Oiwan Lam's English-language screenshot of the 2023 map and discuss the different types of borders shown in the legend. What roles do these different boundaries most likely play in China's administration and international relations?</li>
+  <li>Look at Oiwan Lam's English-language screenshot of the 2023 map and discuss the different types of borders shown in the legend. Apart from a national boundary, we see boundaries for provinces, regions or municipalities under control of the central government, as well as so-called <a href="https://en.wikipedia.org/wiki/Banners_of_Inner_Mongolia">"banner"</a> boundaries (内蒙古自治区旗界, translated to "regional" in the screenshot) exclusive to the Inner Mongolia Autonomous Region. The legend also includes a dotted "military demarcation line". What roles do these different boundaries most likely play in China's administration and international relations? </li>
   <li>Why is it necessary for the Chinese government to regularly issue a new "standard map"? Which other countries do this and why? Can you name other conflicts that have recently arisen from this practice?</li>
   <li>In what contexts do you consult official government-issued maps for specific countries rather than Google maps or similar (US-based) web-mapping services? What are the (dis)advantages?</li>
   <li>Oiwan Lam points that all maps have context. What can be done to raise awareness for the contextuality and, therefore, lack in neutrality in the general public?</li>
