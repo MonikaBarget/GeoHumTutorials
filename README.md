@@ -1,35 +1,15 @@
-<h2>Overview</h2>
+<h2>Welcome to Geohumanities Tutorials!</h2>
 
-<p align="justify">This page presents simple geohumanities tutorials and maps created for teaching, research and public relations at the Institute of European History in Mainz, Germany, and at Maastricht University, Netherlands. Please visit Monika Barget's <a href="https://insulae.hypotheses.org/">INSULAE</a> blog and the <a href="https://dhlab.hypotheses.org/">IEG DH LAB</a> blog for more coding samples, digital humanities reports and training opportunities.</p>
+<p align="justify">This site provides accessible geohumanities tutorials and mapping examples developed for teaching, research, and outreach at the Institute of European History in Mainz and Maastricht University. The materials support students, researchers, and heritage professionals interested in spatial data, digital history, and geocoding workflows.</p>
 
-<h3>Topics</h3>
-
-<strong>General introductions</strong>
+<strong>Topics include:</strong>
 <ul>
-<li><a href="https://zenodo.org/record/7868046#.ZEk0XnZBxPY">Working with spatial data (workshop slides)</a></li>
-  <li><a href="https://github.com/MonikaBarget/GeoHumTutorials/blob/master/Tutorial_GeoPackages.md">Geospatial analysis & visualisation in Python</a></li>
+<li>Introductory guides to spatial data and Python-based geovisualisation</li>
+<li>Step-by-step geocoding tutorials using OpenCage and Geonames</li>
+<li>Resources for editing and enriching spatial data (e.g., GeoJSON)</li>
+<li>Examples of QGIS-based mapping and interactive digital exhibitions</li>
 </ul>
 
-<strong>Geocoding place names</strong>
-<ul>
-<li><a href="https://monikabarget.github.io/GeoHumTutorials/Tutorial_geocodingOPENCAGE">Google Colab tutorial for geocoding EXCEL spreadsheets with OpenCage in Python (English)</a></li>
-<li><a href="https://monikabarget.github.io/GeoHumTutorials/Tutorial_geocodingGEONAMES">Google Colab tutorial for geocoding EXCEL spreadsheets with Geonames in Python (English)</a></li>
-</ul>
-<strong>Enriching and editing spatial data</strong>
-<ul>
-<li><a href="https://monikabarget.github.io/GeoHumTutorials/Tutorial_GeoJSON">Tutorial for editing geodata with Geojson.io (German)</a></li>
-<li><a href="https://github.com/MonikaBarget/GeoHumTutorials/blob/master/Tutorial_Excel-to-GeoJSON">Converting an EXCEL file containing coordinates to GeoJSON (English)</a></li>
-
-</ul>
-<strong>Visualising spatial data</strong>
-<ul>
-<li><a href="https://monikabarget.github.io/GeoHumTutorials/Tutorial_simpleQGISmaps">Tutorial for creating and printing simple maps in QIGS (German)</a></li>
-<li><a href="https://github.com/MonikaBarget/GeoHumTutorials/blob/master/IEG_test_map.geojson">Example of GEOJSON file rendered as zoomable map on GITHUB, showing government-funded research institutes in Germany in 1949</a></li>
-<li><a href="https://monikabarget.github.io/GeoHumTutorials/qgis2web_IEG_jubilee_map/index.html">Interactive map of German research institutes receiving government funding in 1949, created for the IEG jubilee exhibition by Jannik Schulze-Selmig and Monika Barget with QGIS2web</a></li>
-<li><a href="https://monikabarget.github.io/GeoHumTutorials/qgis2web_2024_12_10-15_30_virtual-layers_ocean/index.html">Testkarte zur Visualisierung verschiedener Funktionsausübungen im Datensatz "Reichskammergericht" des DigiKAR Projekts</a></li>
-<li><a href="https://monikabarget.github.io/GeoHumTutorials/qgis2web_2024_12_10-21_event-before-RKG/index.html">Testkarte zur Visualisierung der Lebensstationen vor der RKG-Tätigkeit von Personen im Datensatz "Reichskammergericht" des DigiKAR Projekts</a></li>
-</ul>
+<p align="justify">For further insights and resources, visit the INSULAE blog and the IEG DH Lab blog. Translations into German and Dutch are currently in progress. Please note that not all pages will be available in every language at once.</p>
 
 <hr>
-
-
