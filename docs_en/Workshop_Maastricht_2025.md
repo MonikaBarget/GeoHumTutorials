@@ -21,7 +21,7 @@ An interesting cartographic tradition closely tied to legal disputes over border
 </p>
 
 <p>
-  In archives, these maps are usually preserved in the context of more extensive legal records, which is why earlier scholarship assumed they were used as legal evidence in their own right. However, more recent research suggests that they were rather supportive illustrations, comprehensible only in conjunction with the textual documents. Moreoever, they were also used outside of court contexts. (Timpener, 2022) A particularly large number of inspection maps from the early modern period survive from regions along the river Rhine, as the Rhine was an important trade route and financial resource. Those controlling certain sections of the Rhine could profit from toll and staple rights. This made claiming Rhine access attractive to all adjacent principalities. Many of the maps created here were artistically ambitious and featured detailed naturalistic elements. (Kümper, 2022, p. 57)
+  In archives, these maps are usually preserved in the context of more extensive legal records, which is why earlier scholarship assumed they were used as legal evidence in their own right. However, more recent research suggests that they were rather supportive illustrations, comprehensible only in conjunction with the textual documents. Moreoever, they were also used outside of court contexts. (Timpener, 2022) A particularly large number of inspection maps from the early modern period survive from regions along the river Rhine, as the Rhine was an important trade route and financial resource. Those controlling certain sections of the Rhine could profit from toll and staple rights. This made claiming Rhine access attractive to all adjacent principalities. Many of the maps created here were artistically ambitious and featured detailed naturalistic elements. (Kümper, 2023, p. 57)
 </p>
 
 <p>
@@ -77,11 +77,11 @@ Here we see, for instance, that inhabited places are differentiated by size and 
 <h3>Works cited:</h3>
 <ul>
   <li>
-    Kümper, Hiram. "Streit um den Rhein: von Zöllen, Sand und ganz viel Ärger." <em>Mannheimer historische Schriften</em>, No. 3, University of Mannheim, 2022, pp. X–Y. 
-    <a href="https://majournals.bib.uni-mannheim.de/download" target="_blank">https://majournals.bib.uni-mannheim.de/download</a>
+Kümper, H. (2023). Streit um den Rhein: von Zöllen, Sand und ganz viel Ärger. Gedächtnis der Rheinschifffahrt, 1(1), 51–70. 
+    <a href="[https://majournals.bib.uni-mannheim.de/download](https://majournals.bib.uni-mannheim.de/index.php/gdr/article/view/222 )" target="_blank">https://majournals.bib.uni-mannheim.de/index.php/gdr/article/view/222</a>
   </li>
   <li>
-    Timpener, Evelien. "3 From Inspection to Map: The Relationship between Text and Image." In <em>Augenschein genommen: Hessische Lokal- und Regionalkartographie in Text und Bild (1500–1575)</em>, Berlin, Boston: De Gruyter Oldenbourg, 2022, pp. 68–124. 
+    Timpener, E. (2022) From Inspection to Map: The Relationship between Text and Image. In: <em>Augenschein genommen: Hessische Lokal- und Regionalkartographie in Text und Bild (1500–1575)</em>, Berlin, Boston: De Gruyter Oldenbourg, 68–124. 
     <a href="https://doi.org/10.1515/9783110777598-004" target="_blank">https://doi.org/10.1515/9783110777598-004</a>
   </li>
 </ul>
