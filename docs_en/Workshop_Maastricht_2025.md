@@ -21,11 +21,11 @@ An interesting cartographic tradition closely tied to legal disputes over border
 </p>
 
 <p>
-  In archives, these maps are usually preserved in the context of more extensive legal records, which is why earlier scholarship assumed they were used as legal evidence. However, more recent research suggests that they were rather supportive illustrations of a legal dispute, comprehensible only in conjunction with the textual documents, and that they were also used outside of court contexts. (Timpener, 2022) A particularly large number of inspection maps from the early modern period survive from regions along the Rhine, as the Rhine was an important trade route and financial resource through toll and staple rights. This made it attractive to all adjacent principalities. Many of the maps created here were artistically ambitious and featured detailed naturalistic elements. (Kümper, 2022, p. 57)
+  In archives, these maps are usually preserved in the context of more extensive legal records, which is why earlier scholarship assumed they were used as legal evidence in their own right. However, more recent research suggests that they were rather supportive illustrations, comprehensible only in conjunction with the textual documents. Moreoever, they were also used outside of court contexts. (Timpener, 2022) A particularly large number of inspection maps from the early modern period survive from regions along the river Rhine, as the Rhine was an important trade route and financial resource. Those controlling certain sections of the Rhine could profit from toll and staple rights. This made claiming Rhine access attractive to all adjacent principalities. Many of the maps created here were artistically ambitious and featured detailed naturalistic elements. (Kümper, 2022, p. 57)
 </p>
 
 <p>
-Other inspection maps are highly abstract and focus on just a few key features, such as boundary stones. The embedded map from the holdings of the Hessian State Archive in Darmstadt (reference HStAD, P 1, 2522) is a relatively abstract sketch from the year 1628. It shows the approximate borders of the three villages of Angenroth, Gleimenhain, and Fischbach, as well as their proximity to the territories of Hesse-Darmstadt, Hesse-Kassel, and Electoral Mainz:
+Other inspection maps are highly abstract and focus on just a few key features, such as boundary stones. The map embedded below comes from the holdings of the Hessian State Archive in Darmstadt (reference HStAD, P 1, 2522) and is a minimalist sketch from the year 1628. It shows the approximate borders of the three villages of Angenroth, Gleimenhain, and Fischbach, as well as their proximity to the territories of Hesse-Darmstadt, Hesse-Kassel, and Electoral Mainz:
 </p>
 
 <a href="https://digitalisate-he.arcinsys.de/hstad/p_1/2522/p_1%232522.jpg" target="_blank">
@@ -33,7 +33,7 @@ Other inspection maps are highly abstract and focus on just a few key features, 
 </a>
 
 <p>
-This map was created by Rentmaster Daniel Ludwig Lüncker in Alsfeld, the only larger town in the area, presumably on behalf of the landgravial government of Hesse-Darmstadt under Landgrave Georg II. The map measures 33 x 42 cm, is drawn on paper, and consists of a single sheet.
+This map was created by Rentmaster Daniel Ludwig Lüncker in Alsfeld, the only larger town in the area, presumably on behalf of the landgravial government of Hesse-Darmstadt. The map measures 33 by 42 cm and is drawn on paper.
 </p>
 
 <p><strong>The original title reads:</strong></p>
@@ -42,10 +42,10 @@ This map was created by Rentmaster Daniel Ludwig Lüncker in Alsfeld, the only l
 </blockquote>
 
 <p>
-Alsfeld, where the map was created, was a significant and often contested trading hub from the Middle Ages into the early modern period. The town adopted the Reformation and, like many surrounding villages, belonged to various principalities in the 16th and 17th centuries. From 1567, Alsfeld was part of Hesse-Marburg and from 1604 of the Landgraviate of Hesse-Darmstadt. The Thirty Years’ War caused severe damage, and the town was occupied by various armies, including Brunswick-Wolfenbüttel in 1622 and Swedish troops in 1640. During the Hessian War (1645–1648), Alsfeld lay on the border between the warring factions of Hesse-Darmstadt and Hesse-Kassel. This conflict, part of a long series of diplomatic and military struggles between the branches of the Hessian princely house, originated in the division of the inheritance after the death of the last united Landgrave of Hesse, Philip I, in 1567.
+Alsfeld, where the map was created, was a significant and often contested trading hub from the Middle Ages into the early modern period. The town embraced the Reformation and, like many surrounding villages, belonged to various principalities in the 16th and 17th centuries. From 1567, Alsfeld was part of Hesse-Marburg and from 1604 of the Landgraviate of Hesse-Darmstadt. The Thirty Years’ War caused severe damage, and the town was occupied by various armies. During the Hessian War (1645–1648), Alsfeld lay on the border between the warring factions of Hesse-Darmstadt and Hesse-Kassel. This conflict, part of a long series of diplomatic and military struggles between the branches of the Hessian princely house, originated in the division of the inheritance after the death of the last united Landgrave of Hesse, Philip I, in 1567.
 </p>
 
-<p>Alsfeld is now a comparatively small town by modern standards, and the surrounding villages have all been integrated into larger administrative units. The map below highlights Alsfeld, Angenroth, Gleimenhain and Fischbach in a considerably rural area of present-day Germany:</p>
+<p>By modern standards, Alsfeld is a comparatively small town, and the surrounding villages have all been integrated into larger administrative units. The map below highlights Alsfeld, Angenroth, Gleimenhain and Fischbach in a considerably rural area of present-day Germany:</p>
 
 <a href="../screenshots/MapboxOSM_Alsfeld.png" target="_blank">
   <img src="../screenshots/MapboxOSM_Alsfeld.png" alt="Mapbox OSM Alsfeld" style="width:50%; max-width:900px; display:block; margin:auto;">
@@ -57,16 +57,13 @@ Alsfeld, where the map was created, was a significant and often contested tradin
   <img src="https://www.bierl-antiquariat.de/media/catalog/product/cache/fb3672239af29012103a84801b59e41e/1/2/12235cg.jpg" alt="Map HStAD P 1, 2522" style="width:50%; max-width:900px; display:block; margin:auto;">
 </a>
 
-<p>This map is titled "Umgebungskarte zwischen Willingshausen, Neukirchen und Ulrichstein," which translates to "Map of the surroundings between Willingshausen, Neukirchen, and Ulrichstein." It is a copper engraving created by G.C. Jung in Nuremberg in the year 1692. The dimensions of the map are 14 by 19.5 centimeters. It is part of a larger, 64-part map series called "Franconiae mappa locupletissima." Unfortunately, both historical maps depicted above have no surviving key that would explain the symbols and abbreviations used. Where early modern keys have come down to us, however, we get a sense of how map-makers of the period structured space and assigned hierarchies to individual places.</p>
-
-<p>
-One detailed early modern map key accompanies the hand-coloured copperplate map <em>Quangsi, Sinarum Imperii Provincia Decimatertia</em> from Martino Martini’s <em>Novus atlas Sinensis</em> (Amsterdam: Blaeu, 1655):
+<p>This map is a copper engraving created by G. C. Jung from Nuremberg in the year 1692. The dimensions of the map are 14 by 19.5 cm. It is part of a larger, 64-part map series called <em>Franconiae mappa locupletissima</em> (a most richly illustrated map of Franconia). Unfortunately, both historical maps depicted above have no surviving key that would explain the symbols and abbreviations used. Where early modern keys have come down to us, however, we get a sense of how map-makers of the period structured space and assigned hierarchies to individual places. One detailed early modern map key accompanies the hand-coloured copperplate map <em>Quangsi, Sinarum Imperii Provincia Decimatertia</em> from Martino Martini’s <em>Novus atlas Sinensis</em> (Amsterdam: Blaeu, 1655):
 </p>
 
 <img src="https://static-prod.lib.princeton.edu/visual_materials/maps/websites/thematic-maps/introduction/martini-map-key.jpg" alt="Map key from Martini’s Novus Atlas Sinensis (1655)" style="width:50%; max-width:900px; display:block; margin:auto;">
 
 <p>
-Here we see, for instance, that inhabited places are differentiated by size and importance. Similar keys, with slightly different attributions, were used in a late seventeenth-century copy of the so-called English "Anonymous" map originally produced in 1603. The key of this map explains the symbolism in both Latin and English (see close-up on the <a href="https://www.revolutionaryplayers.org.uk/keys-and-explanations/" target="_blank">Revolutionary Players website</a>).
+Here we see, for instance, that inhabited places are differentiated by size and importance. Similar keys, with slightly different attributions, were used in a late seventeenth-century copy of the so-called English <em>Anonymous</em> map originally produced in 1603. The key of this map explains the symbolism in both Latin and English (see close-up on the <a href="https://www.revolutionaryplayers.org.uk/keys-and-explanations/" target="_blank">Revolutionary Players website</a>).
 </p>
 
 <h3>Group tasks:</h3>
@@ -88,10 +85,11 @@ Here we see, for instance, that inhabited places are differentiated by size and 
   </li>
 </ul>
 
+<hr>
 
-  <h2>Case study 2: Indigenous cartography versus European conventions</h2>
+<h2>Case study 2: Indigenous cartography versus European conventions</h2>
 
-<p>The creation of maps is closely linked to the territorialisation of power that marked the early modern period in Europe (Barget, 2023), but this does not mean that visualisations of space were absent from other cultures before the age of colonialism. Indigenous peoples across the world have named and visually recorded places in their own ways, and contact with European culture often meant that traditional concepts of space and colonial demarcations of territory inspired each other.</p>
+<p>The creation of maps is closely linked to the territorialisation of power that marked the early modern period in Europe (Barget, 2023), but this does not mean that visualisations of space were absent from other cultures before the age of colonialism. Indigenous peoples across the world have named and visually recorded places in their own ways, and contact with European culture often meant that traditional concepts of space and colonial demarcations of territory influenced each other.</p>
 
 <p>It takes training and deliberate distancing from our modern cartographic conventions, however, to understand and appreciate Indigenous geovisualisations:</p>
 
@@ -99,13 +97,13 @@ Here we see, for instance, that inhabited places are differentiated by size and 
 "In Indigenous sciences, the world is often understood in terms of flows of energies (and sometimes entities) across a permeable boundary between manifest and unmanifest realities. Working relationships with forces deemed 'superstitious' or 'irrational' in modern science are significant aspects of social processes and healing practices. Maintaining these worldviews and practices is an uphill battle against the hegemony of modern scientific thought and the legacy of missionaries and educators who tried so hard to dismantle Indigenous knowledge systems." (Herman, 2008, p. 75)
 </blockquote>
 
-<p>Today, Indigenous communities are actively remapping and renaming their homelands to assert their presence on the land, and preserve their languages, stories and knowledge. In this process, maps play an important role, but many of the modern maps dedicated to Indigenous cultures still follow modern Western conventions of map-making. The Indigenous Peoples Atlas of Canada, for example, shows new perspectives on the history and geography of Canada in maps produced with standard Geoinformation Systems, including common spatial projections and legends.</p>
+<p>Today, Indigenous communities are actively remapping and renaming their homelands to assert their presence on the land, and preserve their languages and stories. In this process, maps play an important role, but many of the modern maps dedicated to Indigenous cultures still follow modern Western conventions of map-making. The <em>Indigenous Peoples Atlas of Canada</em>, for example, shows new perspectives on the history and geography of Canada in maps produced with standard Geoinformation Systems, including common spatial projections and keys.</p>
 
 <a href="https://indigenouspeoplesatlasofcanada.ca/wp-content/uploads/2018/06/Inuit-Owned-Lands-in-Nunavut-2016.gif" target="_blank">
   <img src="https://indigenouspeoplesatlasofcanada.ca/wp-content/uploads/2018/06/Inuit-Owned-Lands-in-Nunavut-2016.gif" alt="Inuit Owned Lands in Nunavut" style="width:50%; max-width:900px; display:block; margin:auto;">
 </a>
 
-<p>Older maps created by Indigenous artists, by contrast, were often more visibly inspired by traditional iconography and genuine experiences of space (Hidalgo, 2019). The map below is one example. It was created by an unknown artist from Tetliztaca, Mexico, around 1581. It is held by the Benson Latin American Collection at the University of Texas, Austin:</p>
+<p>Older maps created by Indigenous artists, by contrast, were more visibly inspired by traditional iconography and unique experiences of space (Hidalgo, 2019). The map below is one example. It was created by an unknown artist from Tetliztaca, Mexico, in around 1581. It is held by the Benson Latin American Collection at the University of Texas, Austin:</p>
 
 <a href="https://d7hftxdivxxvm.cloudfront.net/?height=2880&quality=80&resize_to=fit&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2FHeVNkRocI-Kh-NeFfWcT3w%252F5.Tetliztaca.jpg&width=2880" target="_blank">
   <img src="https://d7hftxdivxxvm.cloudfront.net/?height=2880&quality=80&resize_to=fit&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2FHeVNkRocI-Kh-NeFfWcT3w%252F5.Tetliztaca.jpg&width=2880" alt="Tetliztaca Map" style="width:50%; max-width:900px; display:block; margin:auto;">
@@ -123,12 +121,15 @@ Here we see, for instance, that inhabited places are differentiated by size and 
 
 <h2>Works cited:</h2>
 <ul>
+<li>Barget, M. (2023). Raumwissen konstruieren, konservieren und kommunizieren. Geographie und Kartographie im Europa der Frühen Neuzeit. In Wissen ordnen und entgrenzen? Vom analogen zum digitalen Europa? Vol. Band 141 (pp. 67–86). Vandenhoeck & Ruprecht. https://doi.org/10.13109/9783666302312.67</li>
   <li>Herman, R. (2008). Reflections on the importance of Indigenous geography. <em>American Indian Culture and Research Journal, 32</em>(3), 73–88. https://doi.org/10.17953/aicr.32.3.n301616057133485</li>
   <li>Hidalgo, A. (2019). <em>Trail of footprints: A history of Indigenous maps from Viceregal Mexico</em>. University of Texas Press.</li>
   <li>Indigenous Peoples Atlas of Canada. (2025). https://indigenouspeoplesatlasofcanada.ca/. Accessed 12 May 2025.</li>
   <li>loprespub. (2021). Putting Indigenous perspectives on the map: Indigenous mapping and place names. <em>HillNotes</em>. https://hillnotes.ca/2021/06/21/putting-indigenous-perspectives-on-the-map-indigenous-mapping-and-place-names/</li>
   <li>Uszerowicz, M. (2019). Indigenous artists used maps as tools of resistance in colonial Mexico. <em>Artsy</em>. https://www.artsy.net/article/artsy-editorial-indigenous-artists-maps-tools-resistance-colonial-mexico</li>
 </ul>
+
+<hr>
 
 <h2>Case study 3: Maps as weapons? The 2023 Chinese "standard map" controversy</h2>
 
@@ -142,9 +143,7 @@ Here we see, for instance, that inhabited places are differentiated by size and 
 "The distortions and the far-reaching implications that those maps carry within the broader geopolitical and human landscapes make the topic extremely sensitive." (Respinti, 2024)
 </blockquote>
 
-<p>Similar concerns were voiced by B. Sebastian (Modern Diplomacy) and the editing team behind Investigative Journalism Reportika.</p>
-
-<p>Meanwhile, Oiwan Lam, a regional editor at Global Voices for Northeast Asia and media activist based in Hong Kong, pointed out that the 2023 standard map of China had "nothing new":</p>
+<p>Similar concerns were voiced by B. Sebastian (Modern Diplomacy) and the editing team behind Investigative Journalism Reportika.</p>Meanwhile, Oiwan Lam, a regional editor at Global Voices for Northeast Asia and media activist based in Hong Kong, pointed out that the 2023 standard map of China had "nothing new":</p>
 
 <blockquote>
 "The map is consistent with China's previous claims, which have extended its jurisdiction over disputed areas along India and Russia's borders and in the South China Sea." (Lam, 2023)
@@ -160,7 +159,7 @@ Here we see, for instance, that inhabited places are differentiated by size and 
   <img src="https://globalvoices.org/wp-content/uploads/2023/09/Screenshot-2023-09-02-12.44.12-PM-1200x675.png" alt="Chinese Standard Map 2023" style="width:50%; max-width:900px; display:block; margin:auto;">
 </a>
 
-<p>Official English-language information by the Chinese government on this map including a larger Chinese-language screenshot is shared <a href="https://www.chinadaily.com.cn/a/202308/28/WS64ec91c2a31035260b81ea5b.html" target="_blank">here</a>, but the screenshot provided is not zoomable and too small to read.</p>
+<p>Official English-language information by the Chinese government on this map, including a Chinese-language screenshot, is shared <a href="https://www.chinadaily.com.cn/a/202308/28/WS64ec91c2a31035260b81ea5b.html" target="_blank">here</a>, but the screenshot provided is not zoomable and too small to read.</p>
 
 <h3>Questions for discussion:</h3>
 <ul>
@@ -184,6 +183,8 @@ Here we see, for instance, that inhabited places are differentiated by size and 
 
 If you would like to learn more about "maps that made history" and the people behind them, Martijn Storms' <em>Kaarten die geschiedenis schreven: 1000 jaar wereldgeschiedenis in 100 oude kaarten<em> is a well-illustrated starting point. Spanning a millennium, this 432-page hardcover volume presents 100 selected historical maps from a 12th-century Persian world atlas to a 2013 Chinese government map. The maps, sourced from the collections of Leiden University Libraries, are reproduced in high quality.
 
-<img src="https://geschiedenis-winkel.nl/wp-content/uploads/2022/03/9789401485296-600x729.jpg.webp" alt="Cover of 'Kaarten die geschiedenis schreven' by Martijn Storms" style="width:15%; max-width: 300px; height: auto; display: block; margin: 20px 0;">
+<img src="https://geschiedenis-winkel.nl/wp-content/uploads/2022/03/9789401485296-600x729.jpg.webp" 
+     alt="Cover of 'Kaarten die geschiedenis schreven' by Martijn Storms" 
+     style="width:15%; max-width:300px; height:auto; float:left; margin: 0 20px 20px 0;">
 
 Storms, M. (2022). Kaarten die geschiedenis schreven: 1000 jaar wereldgeschiedenis in 100 oude kaarten. Lannoo. ISBN 9789401485296.
