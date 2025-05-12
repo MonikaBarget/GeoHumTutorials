@@ -1,7 +1,7 @@
 ---
 layout: default
 lang: en
-permalink: /GeoHumTutorials/docs_en/Tutorial_advanced-layer-styles
+permalink: /docs_en/Tutorial_advanced-layer-styles
 ---
 
 **Advanced geometry styles, rule-based labelling, legends etc.**
