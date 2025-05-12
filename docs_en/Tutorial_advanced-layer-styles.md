@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+permalink: /docs_en/Tutorial_advanced-layer-styles
 ---
 
 **Advanced geometry styles, rule-based labelling, legends etc.**

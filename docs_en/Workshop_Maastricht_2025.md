@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+permalink: /docs_en/Workshop_Maastricht_2025
 ---
 
 <style>

@@ -2,7 +2,7 @@
 layout: default
 title: Overview
 lang: en
-permalink: /docs_EN/
+permalink: /docs_en/
 ---
 
 <h2>Overview</h2>

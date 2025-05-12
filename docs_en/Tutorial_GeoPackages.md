@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+permalink: /docs_en/Tutorial_GeoPackages
 ---
 
 <h2>Geospatial analysis & visualisation in Python</h2>
