@@ -1,7 +1,7 @@
 ---
 layout: default
 lang: en
-permalink: /GeoHumTutorials/docs_en/Tutorial_Excel-to-GeoJSON
+permalink: /docs_en/Tutorial_Excel-to-GeoJSON
 ---
 
 This script transform an EXCEL spreadsheet that contains geocoded spatial information (coordinates) into a GeoJSON file. This file format is compatible with most standard GIS software including QGIS. A GeoJSON file can thus be used to create a static or interactive map.

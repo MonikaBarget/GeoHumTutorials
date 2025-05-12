@@ -1,7 +1,7 @@
 ---
 layout: default
 lang: en
-permalink: /docs_en/Tutorial_geocodingGEONAMES.md
+permalink: /docs_en/Tutorial_geocodingGEONAMES
 ---
 
 <h2>Geocoding with the Geonames API in Python</h2>
