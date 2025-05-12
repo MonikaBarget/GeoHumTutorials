@@ -53,7 +53,7 @@ permalink: /docs_en/Workshop_Maastricht_2025
 Alsfeld, where the map was created, was a significant and often contested trading hub from the Middle Ages into the early modern period. The town adopted the Reformation and, like many surrounding villages, belonged to various principalities in the 16th and 17th centuries. From 1567, Alsfeld was part of Hesse-Marburg and from 1604 of the Landgraviate of Hesse-Darmstadt. The Thirty Years’ War caused severe damage, and the town was occupied by various armies, including Brunswick-Wolfenbüttel in 1622 and Swedish troops in 1640. During the Hessian War (1645–1648), Alsfeld lay on the border between the warring factions of Hesse-Darmstadt and Hesse-Kassel. This conflict, part of a long series of diplomatic and military struggles between the branches of the Hessian princely house, originated in the division of the inheritance after the death of the last united Landgrave of Hesse, Philip I, in 1567.
 </p>
 
-<p>Not all maps circulated in the period, however, focus on administrative boundaries. A printed map of the region around Angenroth, Gleimenhain, and Fischbach, produced in the later 17th-century, contains no border lines at all.</p>
+<p>To more easily identify place names and for a critical comparison, you may also want to look at a printed map of the region around Alsfeld produced in the later 17th-century:</p>
 
 <a href="https://www.bierl-antiquariat.de/media/catalog/product/cache/fb3672239af29012103a84801b59e41e/1/2/12235cg.jpg" target="_blank">
   <img src="https://www.bierl-antiquariat.de/media/catalog/product/cache/fb3672239af29012103a84801b59e41e/1/2/12235cg.jpg" alt="Map HStAD P 1, 2522" style="width:50%; max-width:900px; display:block; margin:auto;">
@@ -63,9 +63,9 @@ Alsfeld, where the map was created, was a significant and often contested tradin
 
 <h3>Group tasks:</h3>
 <ul>
-  <li>Examine the digital version of the map together. What elements does it include and what is missing? What does this suggest about the possible purpose of the map?</li>
-  <li>The map includes text (mostly place and region names) and symbols. What do the symbols represent and why are they important?</li>
-  <li>What does the map reveal in general about spatial understanding and territorial affiliation at the time of its creation? Which aspects are still relevant today, and what may have changed?</li>
+  <li>Examine the digitised versions of the two map together. What elements does each of them include and what is "missing"? What does this suggest about the purpose of each map?</li>
+  <li>Both maps include text (mostly place and region names) and symbols. What do the symbols represent and why are they important?</li>
+  <li>What do the maps reveal more generally about spatial understanding and territorial belonging at the time of their creation? Which aspects are still relevant today, and what may have changed?</li>
 </ul>
 
 <h3>Literature:</h3>
