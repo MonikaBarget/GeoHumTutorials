@@ -81,7 +81,7 @@ permalink: /docs_en/Workshop_Maastricht_2025
 
 <p>Today, Indigenous communities are actively remapping and renaming their homelands to assert their presence on the land, and preserve their languages, stories and knowledge. In this process, maps play an important role, but many of the modern maps dedicated to Indigenous cultures still follow modern Western conventions of map-making. The Indigenous Peoples Atlas of Canada, for example, shows new perspectives on the history and geography of Canada in maps produced with standard Geoinformation Systems, including common spatial projections and legends.</p>
 
-<img src="https://indigenouspeoplesatlasofcanada.ca/wp-content/uploads/2018/06/Inuit-Owned-Lands-in-Nunavut-2016.gif" alt="Inuit Owned Lands in Nunavut">
+<img src="https://indigenouspeoplesatlasofcanada.ca/wp-content/uploads/2018/06/Inuit-Owned-Lands-in-Nunavut-2016.gif" alt="Inuit Owned Lands in Nunavut" style="align:center; width:75%; max-width:900px; display:block; margin:auto;">
 
 <p>Older maps created by Indigenous artists, by contrast, tend to be more visibly inspired by traditional iconography and genuine experiences of space (Hidalgo, 2019). The map below is one example. It was created by an unknown artist from Tetliztaca, Mexico, around 1581. It is held by the Benson Latin American Collection at the University of Texas, Austin:</p>
 
