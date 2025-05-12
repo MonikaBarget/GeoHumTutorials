@@ -1,3 +1,10 @@
+---
+layout: default
+title: Startseite
+lang: de
+permalink: /docs_DE/
+---
+
 <h2>Übersicht</h2>
 
 <p align="justify">Diese Seite präsentiert einfache Tutorials aus dem Bereich der "Geohumanities" sowie digitale Karten, die für Lehre, Forschung und Öffentlichkeitsarbeit am Institut für Europäische Geschichte in Mainz und an der Universität Maastricht erstellt wurden. Bitte besuchen Sie Monika Bargets <a href="https://insulae.hypotheses.org/">INSULAE</a> Blog und den Blog des <a href="https://dhlab.hypotheses.org/">IEG DH LABs</a> für weitere Coding Beispiele, Berichte und Workshopangebote.</p>

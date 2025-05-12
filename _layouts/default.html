@@ -48,12 +48,14 @@
     <li><a href="{{ '/contact' | relative_url }}">Contact</a></li>
     <li>
       Language:
-      <a href="/docs_EN/">EN</a> |
-      <a href="/docs_DE/">DE</a> |
-      <a href="/docs_NL/">NL</a>
+      {% assign current_lang = page.lang %}
+      <a href="{{ '/docs_EN/' | relative_url }}"{% if current_lang == 'en' %} style="font-weight:bold"{% endif %}>EN</a> |
+      <a href="{{ '/docs_DE/' | relative_url }}"{% if current_lang == 'de' %} style="font-weight:bold"{% endif %}>DE</a> |
+      <a href="{{ '/docs_NL/' | relative_url }}"{% if current_lang == 'nl' %} style="font-weight:bold"{% endif %}>NL</a>
     </li>
   </ul>
 </nav>
+
 
 
       {{ content }}

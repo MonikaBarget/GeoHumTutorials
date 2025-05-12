@@ -1,3 +1,10 @@
+---
+layout: default
+title: Overzicht
+lang: nl
+permalink: /docs_NL/
+---
+
 <h2>Overzicht</h2>
 
 <p align="justify">Deze pagina presenteert eenvoudige tutorials uit het domein van de "Geohumanities" en digitale kaarten die zijn gemaakt voor onderwijs, onderzoek en publiekswerking aan het Instituut voor Europese Geschiedenis in Mainz en aan de Universiteit Maastricht. Bezoek ook de <a href="https://insulae.hypotheses.org/">INSULAE</a> blog van Monika Barget en de blog van het <a href="https://dhlab.hypotheses.org/">IEG DH LAB</a> voor meer voorbeelden van code, verslagen en workshopaanbiedingen.</p>
