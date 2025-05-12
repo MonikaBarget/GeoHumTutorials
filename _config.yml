@@ -1,1 +1,15 @@
 theme: jekyll-theme-minimal
+
+defaults:
+  - scope:
+      path: "docs_EN"
+    values:
+      lang: "en"
+  - scope:
+      path: "docs_DE"
+    values:
+      lang: "de"
+  - scope:
+      path: "docs_NL"
+    values:
+      lang: "nl"
