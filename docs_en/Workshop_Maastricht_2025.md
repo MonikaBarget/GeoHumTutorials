@@ -33,7 +33,7 @@ Other inspection maps are highly abstract and focus on just a few key features, 
 </a>
 
 <p>
-This map was created by Rentmaster Daniel Ludwig Lüncker in Alsfeld, the only larger town in the area, presumably on behalf of the landgravial government of Hesse-Darmstadt. The map measures 33 by 42 cm and is drawn on paper.
+This map was created by Rentmaster Daniel Ludwig Lüncker in Alsfeld, the largest town in the area, presumably on behalf of the landgravial government of Hesse-Darmstadt. The map measures 33 by 42 cm and is drawn on paper.
 </p>
 
 <p><strong>The original title reads:</strong></p>
