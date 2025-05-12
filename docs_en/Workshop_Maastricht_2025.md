@@ -36,7 +36,7 @@ permalink: /docs_en/Workshop_Maastricht_2025
   The embedded map from the holdings of the Hessian State Archive in Darmstadt (reference HStAD, P 1, 2522) is a relatively abstract sketch from the year 1628. It shows the approximate borders of the three villages of Angenroth, Gleimenhain, and Fischbach, as well as their proximity to the territories of Hesse-Darmstadt, Hesse-Kassel, and Electoral Mainz:
 </p>
 
-<img src="https://digitalisate-he.arcinsys.de/hstad/p_1/2522/p_1%232522.jpg" alt="Map HStAD P 1, 2522" style="width:100%; max-width:900px; display:block; margin:auto;">
+<img src="https://digitalisate-he.arcinsys.de/hstad/p_1/2522/p_1%232522.jpg" alt="Map HStAD P 1, 2522" style="align:center; width:75%; max-width:900px; display:block; margin:auto;">
 
 <p>
   It was created by the rentmaster Daniel Ludwig Lüncker in Alsfeld, presumably on behalf of the landgravial government of Hesse-Darmstadt under Landgrave Georg II. The map measures 33 x 42 cm, is drawn on paper, and consists of a single sheet.
@@ -85,7 +85,7 @@ permalink: /docs_en/Workshop_Maastricht_2025
 
 <p>Older maps created by Indigenous artists, by contrast, tend to be more visibly inspired by traditional iconography and genuine experiences of space (Hidalgo, 2019). The map below is one example. It was created by an unknown artist from Tetliztaca, Mexico, around 1581. It is held by the Benson Latin American Collection at the University of Texas, Austin:</p>
 
-<img src="https://d7hftxdivxxvm.cloudfront.net/?height=2880&quality=80&resize_to=fit&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2FHeVNkRocI-Kh-NeFfWcT3w%252F5.Tetliztaca.jpg&width=2880" alt="Tetliztaca Map">
+<img src="https://d7hftxdivxxvm.cloudfront.net/?height=2880&quality=80&resize_to=fit&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2FHeVNkRocI-Kh-NeFfWcT3w%252F5.Tetliztaca.jpg&width=2880" alt="Tetliztaca Map" style="align:center; width:75%; max-width:900px; display:block; margin:auto;">
 
 <p>In 2019, the Blanton Museum of Art at the University of Texas exhibited this map alongside eighteen other hand-painted Indigenous maps, collectively known as the "Mapas de las Relaciones Geográficas", in their exhibition “Mapping Memory: Space and History in 16th-century Mexico”.</p>
 
@@ -132,7 +132,7 @@ permalink: /docs_en/Workshop_Maastricht_2025
 "China has become more aggressive in establishing its military presence around the Paracel Islands near Vietnam’s exclusive economic zone (EEZ), Scarborough Shoal and Spratly Islands near the Philippines EEZ through military drills, the construction of artificial islands and permanent facilities and deployment of large vessels to patrol in the disputed area in the past two decades. The aim is to control fishing operations, oil and gas exploration activities, and seabed internet cable-laying operations."
 </blockquote>
 
-<img src="https://globalvoices.org/wp-content/uploads/2023/09/Screenshot-2023-09-02-12.44.12-PM-1200x675.png" alt="Chinese Standard Map 2023">
+<img src="https://globalvoices.org/wp-content/uploads/2023/09/Screenshot-2023-09-02-12.44.12-PM-1200x675.png" alt="Chinese Standard Map 2023" style="align:center; width:75%; max-width:900px; display:block; margin:auto;">
 
 <p>Official English-language information by the Chinese government on this map including a larger Chinese-language screenshot is shared <a href="https://www.chinadaily.com.cn/a/202308/28/WS64ec91c2a31035260b81ea5b.html" target="_blank">here</a>, but the screenshot provided is not zoomable and too small to read.</p>
 
