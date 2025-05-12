@@ -36,6 +36,23 @@
   {% include nav_en.html %}
 {% endif %}
       </nav>
+
+<style>
+  nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  nav li {
+    margin-right: 15px;
+  }
+  nav summary {
+    cursor: pointer;
+  }
+  nav details ul {
+    padding-left: 20px;
+  }
+</style>
+
       {{ content }}
     </main>
   </div>
