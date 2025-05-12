@@ -160,6 +160,6 @@ permalink: /docs_en/Workshop_Maastricht_2025
 
 If you would like to learn more about "maps that made history" and the people behind them, Martijn Storms' <em>Kaarten die geschiedenis schreven: 1000 jaar wereldgeschiedenis in 100 oude kaarten<em> is a well-illustrated starting point. Spanning a millennium, this 432-page hardcover volume presents 100 selected historical maps from a 12th-century Persian world atlas to a 2013 Chinese government map. The maps, sourced from the collections of Leiden University Libraries, are reproduced in high quality.
 
-<img src="https://geschiedenis-winkel.nl/wp-content/uploads/2022/03/9789401485296-600x729.jpg.webp" alt="Cover of 'Kaarten die geschiedenis schreven' by Martijn Storms" style="width:50%; max-width: 300px; height: auto; display: block; margin: 20px 0;">
+<img src="https://geschiedenis-winkel.nl/wp-content/uploads/2022/03/9789401485296-600x729.jpg.webp" alt="Cover of 'Kaarten die geschiedenis schreven' by Martijn Storms" style="width:15%; max-width: 300px; height: auto; display: block; margin: 20px 0;">
 
 Storms, M. (2022). Kaarten die geschiedenis schreven: 1000 jaar wereldgeschiedenis in 100 oude kaarten. Lannoo. ISBN 9789401485296.
