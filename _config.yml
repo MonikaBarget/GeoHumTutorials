@@ -2,14 +2,14 @@ theme: jekyll-theme-minimal
 
 defaults:
   - scope:
-      path: "docs_EN"
+      path: "docs_en"
     values:
       lang: "en"
   - scope:
-      path: "docs_DE"
+      path: "docs_de"
     values:
       lang: "de"
   - scope:
-      path: "docs_NL"
+      path: "docs_nl"
     values:
       lang: "nl"
