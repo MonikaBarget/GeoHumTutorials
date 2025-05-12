@@ -25,7 +25,7 @@ An interesting cartographic tradition closely tied to legal disputes over border
 </p>
 
 <p>
-Other inspection maps are highly abstract and focus on just a few key features, such as boundary stones. The map embedded below comes from the holdings of the Hessian State Archive in Darmstadt (reference HStAD, P 1, 2522) and is a minimalist sketch from the year 1628. It shows the approximate borders of the three villages of Angenroth, Gleimenhain, and Fischbach, as well as their proximity to the territories of Hesse-Darmstadt, Hesse-Kassel, and Electoral Mainz:
+Other inspection maps are highly abstract and focus on just a few key features, such as boundary stones. The map embedded below (<strong>fig. 1.1</strong>) comes from the holdings of the Hessian State Archive in Darmstadt (reference HStAD, P 1, 2522) and is a minimalist sketch from the year 1628. It shows the approximate borders of the three villages of Angenroth, Gleimenhain, and Fischbach, as well as their proximity to the territories of Hesse-Darmstadt, Hesse-Kassel, and Electoral Mainz:
 </p>
 
 <a href="https://digitalisate-he.arcinsys.de/hstad/p_1/2522/p_1%232522.jpg" target="_blank">
@@ -33,7 +33,7 @@ Other inspection maps are highly abstract and focus on just a few key features, 
 </a>
 
 <p>
-This map was created by Rentmaster Daniel Ludwig Lüncker in Alsfeld, the largest town in the area, presumably on behalf of the landgravial government of Hesse-Darmstadt. The map measures 33 by 42 cm and is drawn on paper.
+This map was created by Rentmaster Daniel Ludwig Lüncker in Alsfeld, the nearby town, presumably on behalf of the landgravial government of Hesse-Darmstadt. The map measures 33 by 42 cm and is drawn on paper.
 </p>
 
 <p><strong>The original title reads:</strong></p>
@@ -45,22 +45,22 @@ This map was created by Rentmaster Daniel Ludwig Lüncker in Alsfeld, the larges
 Alsfeld, where the map was created, was a significant and often contested trading hub from the Middle Ages into the early modern period. From 1567, Alsfeld was part of Hesse-Marburg and from 1604 of the Landgraviate of Hesse-Darmstadt. During the Hessian War (1645–1648), Alsfeld lay on the border between the warring factions of Hesse-Darmstadt and Hesse-Kassel. This conflict, part of a long series of diplomatic and military struggles between the branches of the Hessian princely house, originated in the division of inheritance after the death of the last united Landgrave of Hesse, Philip I, in 1567.
 </p>
 
-<p>By modern standards, Alsfeld is a comparatively small town, and the surrounding villages have all been integrated into larger administrative units. The map below highlights Alsfeld, Angenroth, Gleimenhain and Fischbach in a considerably rural area of present-day Germany:</p>
+<p>By modern standards, Alsfeld is a comparatively small town, and the surrounding villages have all been integrated into larger administrative units. The map in <strong>fig. 1.2</strong> highlights Alsfeld, Angenroth, Gleimenhain and Fischbach in a considerably rural area of present-day Germany:</p>
 
 <a href="../screenshots/MapboxOSM_Alsfeld.png" target="_blank">
   <img src="../screenshots/MapboxOSM_Alsfeld.png" alt="Mapbox OSM Alsfeld" style="width:25%; float:left; margin: 0 20px 20px 0;;">
 </a>
 
-<p>For critical comparison, you may also want to look at a printed map of the same region produced in the later 17th-century.</p>
+<p>For critical comparison, you may also want to look at a printed map of the same region produced in the later 17th-century (<strong>fig. 1.3</strong>).</p>
 
 <a href="https://www.bierl-antiquariat.de/media/catalog/product/cache/fb3672239af29012103a84801b59e41e/1/2/12235cg.jpg" target="_blank">
-  <img src="https://www.bierl-antiquariat.de/media/catalog/product/cache/fb3672239af29012103a84801b59e41e/1/2/12235cg.jpg" alt="Map HStAD P 1, 2522" style="width:25%; max-width:900px; float:left; margin: 0 20px 20px 0;">
+  <img src="https://www.bierl-antiquariat.de/media/catalog/product/cache/fb3672239af29012103a84801b59e41e/1/2/12235cg.jpg" alt="Map HStAD P 1, 2522" style="width:25%; float:left; margin: 0 20px 20px 0;">
 </a>
 
-<p>This map is a copper engraving created by G. C. Jung from Nuremberg in the year 1692. The dimensions of the map are 14 by 19.5 cm. It is part of a larger, 64-part map series called <em>Franconiae mappa locupletissima</em> (a most richly illustrated map of Franconia). Unfortunately, both historical maps depicted above have no surviving key that would explain the symbols and abbreviations used. Where early modern keys have come down to us, however, we get a sense of how map-makers of the period structured space and assigned hierarchies to individual places. One detailed early modern map key accompanies the hand-coloured copperplate map <em>Quangsi, Sinarum Imperii Provincia Decimatertia</em> from Martino Martini’s <em>Novus atlas Sinensis</em> (Amsterdam: Blaeu, 1655):
+<p>This map is a copper engraving created by G. C. Jung from Nuremberg in the year 1692. The dimensions of the map are 14 by 19.5 cm. It is part of a larger, 64-part map series called <em>Franconiae mappa locupletissima</em> (a most richly illustrated map of Franconia). Unfortunately, both historical maps depicted above have no surviving key that would explain the symbols and abbreviations used. Where early modern keys have come down to us, however, we get a sense of how map-makers of the period structured space and assigned hierarchies to individual places. One detailed early modern map key accompanies the hand-coloured copperplate map <em>Quangsi, Sinarum Imperii Provincia Decimatertia</em> from Martino Martini’s 1655 <em>Novus atlas Sinensis</em> (<strong>fig. 1.4</strong>):
 </p>
 
-<img src="https://static-prod.lib.princeton.edu/visual_materials/maps/websites/thematic-maps/introduction/martini-map-key.jpg" alt="Map key from Martini’s Novus Atlas Sinensis (1655)" style="width:25%; max-width:900px; float:left; margin: 0 20px 20px 0;">
+<img src="https://static-prod.lib.princeton.edu/visual_materials/maps/websites/thematic-maps/introduction/martini-map-key.jpg" alt="Map key from Martini’s Novus Atlas Sinensis (1655)" style="width:10%; float:left; margin: 0 20px 20px 0;">
 
 <p>
 Here we see, for instance, that inhabited places are differentiated by size and importance. Similar keys, with slightly different attributions, were used in a late seventeenth-century copy of the so-called English <em>Anonymous</em> map originally produced in 1603. The key of this map explains the symbolism in both Latin and English (see close-up on the <a href="https://www.revolutionaryplayers.org.uk/keys-and-explanations/" target="_blank">Revolutionary Players website</a>).
