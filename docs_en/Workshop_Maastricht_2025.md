@@ -146,8 +146,6 @@ permalink: /docs_en/Workshop_Maastricht_2025
 
 <h2>Works cited:</h2>
 <ul>
-  <li>Indigenous Peoples Atlas of Canada. (2025). https://indigenouspeoplesatlasofcanada.ca/. Accessed 12 May 2025.</li>
-  <li>Investigative Journalism Reportika. (2024). The geopolitical weaponization of maps by China. https://ij-reportika.com/weaponization-of-maps-by-china-throughout-history/</li>
   <li>Lam, O. (2023). The Chinese 2023 map has nothing new. But why are China’s neighbours mad about it? <em>Global Voices</em>. https://globalvoices.org/2023/09/05/the-chinese-2023-map-has-nothing-new-but-why-are-chinas-neighbours-mad-about-it/</li>
   <li>McCarthy, S. (2023). As Gaza conflict rages, online maps from Chinese companies are missing Israel’s name. <em>CNN</em>. https://edition.cnn.com/2023/11/02/china/china-maps-baidu-amap-israel-intl-hnk</li>
   <li>Respinti, M. (2024). The CCP’s weaponization of geographical maps. <em>Bitter Winter</em>. https://bitterwinter.org/the-ccps-weaponization-of-geographical-maps/</li>
