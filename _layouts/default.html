@@ -28,6 +28,13 @@
           <a href="{{ '/docs_DE/' | relative_url }}">DE</a> |
           <a href="{{ '/docs_NL/' | relative_url }}">NL</a>
         </span>
+{% if page.lang == "de" %}
+  {% include nav_de.html %}
+{% elsif page.lang == "nl" %}
+  {% include nav_nl.html %}
+{% else %}
+  {% include nav_en.html %}
+{% endif %}
       </nav>
       {{ content }}
     </main>

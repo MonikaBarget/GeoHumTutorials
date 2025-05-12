@@ -1,8 +1,3 @@
----
-layout: default
-lang: en
----
-
 # Working with spatial data – a beginners’ workshop
 ## Instructor: Monika Barget, Assistant Professor in History
 ## Date: 26 April 2023

@@ -1,8 +1,3 @@
----
-layout: default
-lang: en
----
-
 <h2>How to execute Python code in Google Colab</h2>
 
 Google Colab is a browser-based application for writing and executing code. It does not require you to install Python or individual packages on your local machine.

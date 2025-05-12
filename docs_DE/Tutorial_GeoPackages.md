@@ -1,6 +1,6 @@
 ---
 layout: default
-lang: en
+lang: de
 ---
 
 <h2>Geospatial analysis & visualisation in Python</h2>

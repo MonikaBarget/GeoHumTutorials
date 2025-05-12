@@ -1,6 +1,6 @@
 ---
 layout: default
-lang: en
+lang: de
 ---
 
 **Geocoding and analysing historic maps**

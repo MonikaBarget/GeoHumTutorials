@@ -1,6 +1,6 @@
 ---
 layout: default
-lang: en
+lang: de
 ---
 
 <h2>Gestaltung einfacher Karten mit QGIS</h2>

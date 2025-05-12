@@ -1,8 +1,3 @@
----
-layout: default
-lang: en
----
-
 <h2>Google Colab tutorial for geocoding EXCEL spreadsheets with OpenCage in Python</h2>
 
 <p align="justify">This Google Colab tutorial was written for a workshop with colleagues in early modern history and demonstrates script-based geocoding of place names. <a href="https://colab.research.google.com/">Google Colab</a> is a cloud service that permits the hosting of <a href="https://jupyter.org/">Jupyter notebooks</a> for running <a href="https://www.python.org/">Python</a> code even when users do not have Python installed on their own machines. Also, it is possible to execute different sections of code separately and to add free text instructions for less experienced users. One advantage of Google Colab in research and teaching is that teams can interactively and iteratively process and review data. In my case, the input data come from EXCEL spreadsheets, which are still commonly used in smaller projects as databases are difficult to maintain.</p>

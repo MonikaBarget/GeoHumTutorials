@@ -1,3 +1,8 @@
+---
+layout: default
+lang: de
+---
+
 <h3>Anleitung für die Arbeit mit Google Colab<\h3>
   
   <h4>Ordner auf Google Drive erstellen</h4>

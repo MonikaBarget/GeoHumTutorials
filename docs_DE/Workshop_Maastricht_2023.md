@@ -1,6 +1,6 @@
 ---
 layout: default
-lang: en
+lang: de
 ---
 
 # Working with spatial data – a beginners’ workshop

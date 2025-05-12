@@ -1,8 +1,3 @@
----
-layout: default
-lang: en
----
-
 <h2>Gestaltung einfacher Karten mit QGIS</h2>
 
 <p align="justify">Als Ergänzung zur <a href="https://monikabarget.github.io/GeoHumTutorials/Tutorial1_GeoJSON">Einführung in die Erstellung von GeoJSON-Dateien</a> beschäftigt sich der heutige Beitrag mit der Visualisierung dieser Geodaten im Open Source Geoinformationssystem <strong>QGIS</strong> (https://www.qgis.org/en/site/).</p>

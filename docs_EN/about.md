@@ -1,1 +1,6 @@
+---
+layout: default
+lang: en
+---
+
 This page presents simple geohumanities tutorials and maps created for teaching, research and public relations at the Institute of European History in Mainz, Germany, and at Maastricht University, Netherlands. The repository is maintained by Dr. Monika Barget, Assistant Professor at Maastricht University. Please visit Monika Barget's INSULAE blog and the IEG DH LAB blog for more coding samples, digital humanities reports and training opportunities.

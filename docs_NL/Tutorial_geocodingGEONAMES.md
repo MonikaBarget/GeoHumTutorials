@@ -1,8 +1,3 @@
----
-layout: default
-lang: en
----
-
 <h2>Geocoding with the Geonames API in Python</h2>
 
 <h3>Working with Google Colab</h3>

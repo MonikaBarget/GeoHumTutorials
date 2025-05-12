@@ -1,8 +1,3 @@
----
-layout: default
-lang: en
----
-
 <h2>Geospatial analysis & visualisation in Python</h2>
 <h3>Finding the right geospatial package</h3>
 
