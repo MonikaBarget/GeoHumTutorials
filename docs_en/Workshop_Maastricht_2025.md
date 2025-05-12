@@ -152,7 +152,7 @@ Here we see, for instance, that inhabited places are differentiated by size and 
 "China has become more aggressive in establishing its military presence around the Paracel Islands near Vietnam’s exclusive economic zone (EEZ), Scarborough Shoal and Spratly Islands near the Philippines EEZ through military drills, the construction of artificial islands and permanent facilities and deployment of large vessels to patrol in the disputed area in the past two decades. The aim is to control fishing operations, oil and gas exploration activities, and seabed internet cable-laying operations."
 </blockquote>
 
-The map displayed here (<strong>fig. 3.1</strong>) is a screenshot of the new Chinese map shared by Oiwan Lam in her blog post. The screenshot focuses of the lines in the South China Seas that demonstrate China's claims over the entire region. The screenshot was taken from the Chinese government standard map service website, which is not accessible from all IP addresses.
+The map displayed here (<strong>fig. 3.1</strong>) is a screenshot of the new Chinese map shared by Oiwan Lam in her blog post. The screenshot focuses on the above-mentioned lines in the South China Sea that demonstrate China's claims over the entire region. The screenshot was taken from the Chinese government standard map service website, which is, unfortunately, not accessible from all IP addresses.
 
 <a href="https://globalvoices.org/wp-content/uploads/2023/09/Screenshot-2023-09-02-12.44.12-PM-1200x675.png" target="_blank">
   <img src="https://globalvoices.org/wp-content/uploads/2023/09/Screenshot-2023-09-02-12.44.12-PM-1200x675.png" alt="Chinese Standard Map 2023" style="width:50%; max-width:900px; float:left; margin: 0 20px 20px 0;">
