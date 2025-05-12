@@ -29,7 +29,7 @@ Other inspection maps are highly abstract and focus on just a few key features, 
 </p>
 
 <a href="https://digitalisate-he.arcinsys.de/hstad/p_1/2522/p_1%232522.jpg" target="_blank">
-  <img src="https://digitalisate-he.arcinsys.de/hstad/p_1/2522/p_1%232522.jpg" alt="Map HStAD P 1, 2522" style="width:50%; max-width:900px; float:left; margin: 0 20px 20px 0;">
+  <img src="https://digitalisate-he.arcinsys.de/hstad/p_1/2522/p_1%232522.jpg" alt="Map HStAD P 1, 2522" style="width:25%; float:left; margin: 0 20px 20px 0;">
 </a>
 
 <p>
@@ -48,19 +48,19 @@ Alsfeld, where the map was created, was a significant and often contested tradin
 <p>By modern standards, Alsfeld is a comparatively small town, and the surrounding villages have all been integrated into larger administrative units. The map below highlights Alsfeld, Angenroth, Gleimenhain and Fischbach in a considerably rural area of present-day Germany:</p>
 
 <a href="../screenshots/MapboxOSM_Alsfeld.png" target="_blank">
-  <img src="../screenshots/MapboxOSM_Alsfeld.png" alt="Mapbox OSM Alsfeld" style="width:50%; max-width:900px; float:left; margin: 0 20px 20px 0;;">
+  <img src="../screenshots/MapboxOSM_Alsfeld.png" alt="Mapbox OSM Alsfeld" style="width:25%; float:left; margin: 0 20px 20px 0;;">
 </a>
 
 <p>For critical comparison, you may also want to look at a printed map of the same region produced in the later 17th-century.</p>
 
 <a href="https://www.bierl-antiquariat.de/media/catalog/product/cache/fb3672239af29012103a84801b59e41e/1/2/12235cg.jpg" target="_blank">
-  <img src="https://www.bierl-antiquariat.de/media/catalog/product/cache/fb3672239af29012103a84801b59e41e/1/2/12235cg.jpg" alt="Map HStAD P 1, 2522" style="width:50%; max-width:900px; float:left; margin: 0 20px 20px 0;">
+  <img src="https://www.bierl-antiquariat.de/media/catalog/product/cache/fb3672239af29012103a84801b59e41e/1/2/12235cg.jpg" alt="Map HStAD P 1, 2522" style="width:25%; max-width:900px; float:left; margin: 0 20px 20px 0;">
 </a>
 
 <p>This map is a copper engraving created by G. C. Jung from Nuremberg in the year 1692. The dimensions of the map are 14 by 19.5 cm. It is part of a larger, 64-part map series called <em>Franconiae mappa locupletissima</em> (a most richly illustrated map of Franconia). Unfortunately, both historical maps depicted above have no surviving key that would explain the symbols and abbreviations used. Where early modern keys have come down to us, however, we get a sense of how map-makers of the period structured space and assigned hierarchies to individual places. One detailed early modern map key accompanies the hand-coloured copperplate map <em>Quangsi, Sinarum Imperii Provincia Decimatertia</em> from Martino Martini’s <em>Novus atlas Sinensis</em> (Amsterdam: Blaeu, 1655):
 </p>
 
-<img src="https://static-prod.lib.princeton.edu/visual_materials/maps/websites/thematic-maps/introduction/martini-map-key.jpg" alt="Map key from Martini’s Novus Atlas Sinensis (1655)" style="width:50%; max-width:900px; float:left; margin: 0 20px 20px 0;">
+<img src="https://static-prod.lib.princeton.edu/visual_materials/maps/websites/thematic-maps/introduction/martini-map-key.jpg" alt="Map key from Martini’s Novus Atlas Sinensis (1655)" style="width:25%; max-width:900px; float:left; margin: 0 20px 20px 0;">
 
 <p>
 Here we see, for instance, that inhabited places are differentiated by size and importance. Similar keys, with slightly different attributions, were used in a late seventeenth-century copy of the so-called English <em>Anonymous</em> map originally produced in 1603. The key of this map explains the symbolism in both Latin and English (see close-up on the <a href="https://www.revolutionaryplayers.org.uk/keys-and-explanations/" target="_blank">Revolutionary Players website</a>).
@@ -106,7 +106,7 @@ Here we see, for instance, that inhabited places are differentiated by size and 
 <p>Older maps created by Indigenous artists, by contrast, were more visibly inspired by traditional iconography and unique experiences of space (Hidalgo, 2019). The map below is one example. It was created by an unknown artist from Tetliztaca, Mexico, in around 1581. It is held by the Benson Latin American Collection at the University of Texas, Austin:</p>
 
 <a href="https://d7hftxdivxxvm.cloudfront.net/?height=2880&quality=80&resize_to=fit&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2FHeVNkRocI-Kh-NeFfWcT3w%252F5.Tetliztaca.jpg&width=2880" target="_blank">
-  <img src="https://d7hftxdivxxvm.cloudfront.net/?height=2880&quality=80&resize_to=fit&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2FHeVNkRocI-Kh-NeFfWcT3w%252F5.Tetliztaca.jpg&width=2880" alt="Tetliztaca Map" style="width:50%; max-width:900px; float:left; margin: 0 20px 20px 0;">
+  <img src="https://d7hftxdivxxvm.cloudfront.net/?height=2880&quality=80&resize_to=fit&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2FHeVNkRocI-Kh-NeFfWcT3w%252F5.Tetliztaca.jpg&width=2880" alt="Tetliztaca Map" style="width:25%; max-width:900px; float:left; margin: 0 20px 20px 0;">
 </a>
 
 <p>In 2019, the Blanton Museum of Art at the University of Texas exhibited this map alongside eighteen other hand-painted Indigenous maps, collectively known as the "Mapas de las Relaciones Geográficas", in their exhibition “Mapping Memory: Space and History in 16th-century Mexico”.</p>
