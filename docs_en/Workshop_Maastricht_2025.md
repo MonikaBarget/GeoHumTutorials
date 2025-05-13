@@ -57,15 +57,7 @@ Alsfeld, where the map was created, was a significant and often contested tradin
   <img src="https://www.bierl-antiquariat.de/media/catalog/product/cache/fb3672239af29012103a84801b59e41e/1/2/12235cg.jpg" alt="Map HStAD P 1, 2522" style="width:25%; float:right; margin: 0 20px 20px 20px;">
 </a>
 
-<p>This map is a copper engraving created by G. C. Jung from Nuremberg in the year 1692. The dimensions of the map are 14 by 19.5 cm. It is part of a larger, 64-part map series called <em>Franconiae mappa locupletissima</em> (a most richly illustrated map of Franconia). Unfortunately, both historical maps depicted above have no surviving key that would explain the symbols and abbreviations used. Where early modern keys have come down to us, however, we get a sense of how map-makers of the period structured space and assigned hierarchies to individual places. One detailed early modern map key accompanies the hand-coloured copperplate map <em>Quangsi, Sinarum Imperii Provincia Decimatertia</em> from Martino Martini’s 1655 <em>Novus atlas Sinensis</em> (<strong>fig. 1.4</strong>):</p>
-
-<a href="https://static-prod.lib.princeton.edu/visual_materials/maps/websites/thematic-maps/introduction/martini-map-key.jpg" target="_blank">
-  <img src="https://static-prod.lib.princeton.edu/visual_materials/maps/websites/thematic-maps/introduction/martini-map-key.jpg" alt="Map key from Martini’s Novus Atlas Sinensis (1655)" style="width:20%; float:left; margin: 0 20px 20px 0;">
-</a>
-
-<p>
-Here we see, for instance, that inhabited places are differentiated by size and importance. Similar keys, with slightly different attributions, were used in a late seventeenth-century copy of the so-called English <em>Anonymous</em> map originally produced in 1603. The key of this map explains the symbolism in both Latin and English (see close-up on the <a href="https://www.revolutionaryplayers.org.uk/keys-and-explanations/" target="_blank">Revolutionary Players website</a>).
-</p>
+<p>This map is a copper engraving created by G. C. Jung from Nuremberg in the year 1692. The dimensions of the map are 14 by 19.5 cm. It is part of a larger, 64-part map series called <em>Franconiae mappa locupletissima</em> (a most richly illustrated map of Franconia).</p>
 
 <h3>Questions for discussion:</h3>
 <ul>
