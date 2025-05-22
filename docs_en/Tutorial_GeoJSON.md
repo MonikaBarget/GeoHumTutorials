@@ -1,67 +1,92 @@
 ---
 layout: default
 lang: en
-permalink: /docs_en/Tutorial_GeoJSON
 ---
 
-# Erstellen und Bearbeiten von GeoJSON Dateien mit Geojson.io
+<style>
+p { text-align: justify; }
+.img-container { float: left; margin: 0 20px 20px 0; width: 25%; }
+.img-container img { width: 100%; height: auto; }
+.clearfix::after { content: ""; clear: both; display: table; }
+</style>
 
-Für viele Geisteswissenschaftler/Innen und Mitarbeiter/Innen in der Forschungskommunikation sind Karten attraktive Werkzeuge, um räumliche Beziehungen und Entwicklungen verständlich zu machen. Allerdings fällt es oft schwer, geeignete Werkzeuge zur Kartenerstellung auszuwählen, da die Möglichkeiten klassischer Einsteigertools wie Palladio und Dariah-De Geobrowser besonders im Bereich des Exports hochwertiger Kartenbilder sehr beschränkt sind, während viele andere Werkzeuge aufwendigere Softwareinstallationen, Kenntnisse in der Arbeit mit Terminal / Kommandozeile oder sogar Erfahrung mit Programmiersprachen erfordern.
+# Creating and Editing GeoJSON Files with Geojson.io
 
-In diesem Tutorial möchte ich deshalb eine einfache Methode der Aufbereitung geographischer Informationen mit [Geojson.io](http://geojson.io/#map=2/20.0/0.0) vorstellen. Geojson.io ist ein browsergestütztes Tool, das keine Installationen erfordert und die Erstellung von sog. GeoJSON-Dateien ermöglicht, die von allen gängigen GIS-Tools gelesen und in Karten verarbeitet werden können.
+<p>For many humanities scholars and research communicators, maps are appealing tools to make spatial relationships and developments more comprehensible. However, it is often difficult to choose the right mapping tools. Beginner options like Palladio or the Dariah-DE Geobrowser are limited, especially when it comes to exporting high-quality map images. Many more powerful tools require complex software installations, command line work, or programming skills.</p>
 
-Anstatt Tabellen in Excel anzulegen, die dann mithilfe zusätzlicher Software geokodiert und exportiert werden müssen, kann man mit Geojson.io Ortsdaten direkt aus einer Karte auswählen, anreichern und in kompatiblen Formaten speichern. 
+<p>This tutorial introduces an easy way to prepare geographic data using <a href="http://geojson.io/#map=2/20.0/0.0">Geojson.io</a>. Geojson.io is a browser-based tool that requires no installation and allows users to create GeoJSON files that can be read and processed by all major GIS platforms.</p>
 
-<img alt="Screenshot1" src="./Screenshot1_points.png">
+<p>Instead of creating tables in Excel that must be geocoded and exported using additional tools, Geojson.io allows you to select, enrich, and save location data directly from a map in compatible formats.</p>
 
-----
-
-Es wird dringend empfohlen, sich zu registrieren, da dann begonnene Projekte temporär im Profil gespeichert werden können. Außerdem stehen erweiterte Funktionen nur registrierten Nutzer/Innen zur Verfügung. Die Anmeldung kann z.B. über ein bereits vorhandenes Github-Profil erfolgen. Wenn man die Geojson.io-Seite öffnet, erscheint links eine auf Open Street Map beruhende Karte mit Suchfeld, in der man frei navigieren und Marker für verschiedene Geometrien (Punkte, Linien und Polygone) setzen kann. Rechts daneben erscheinen die gewählten Geometrien automatisch im GeoJSON-Format.
-
-<img alt="Screenshot2" src="./Screenshot2_codeview_raw.png">
-
-----
-
-Um die in Geojson.io erstellten Geoinformationen um weitere Attribute wie z.B. Namen oder Datumsangaben zu erweitern, kann man in der geschweiften "properties" Klammer der GeoJSON-Datei beliebig viele "key-value-pairs", also Paare aus "Schlüssel" und "Wert" eintragen.
-
-So wie in der „geometry“-Klammer der GeoJSON-Datei automatisch ```"type":"Point"``` erscheint, wenn ein Punkt auf der Karte markiert wird, so kann unter "properties" z.B. ```"label":"IEG Mainz"``` eingetragen werden. Es ist hier auch möglich, mehrere Informationen miteinander zu verbinden und Satzzeichen zu verwenden, sofern diese in Anführungszeichen geschrieben werden:
-
-```"label":"2020: IEG, Mainz"```
-
-Wenn diese Information auf mehrere Attribute verteilt wird, ist es allerdings leichter, die Punkte auf der Karte später nach diesen Attributen kategorisiert zu kolorieren oder anderweitig hervorzuheben. So könnte die oben angegebene Information auf ein Anzeigelabel (```"label":"2020: IEG, Mainz"```) und die Selektionskriterien ```"date":"2020"``` und ```"place":"Mainz"``` aufgeteilt werden. Die Bezeichnung der "properties"-Schlüssel ist dabei frei wählbar. Leerzeichen nach den Doppelpunkten und Zeilenumbrüche dienen der besseren Lesbarkeit. 
-
-<img alt="Screenshot 3" src="./Screenshot3_Geometrie%20Punkte%20mit%20Attributen.png">
+<div class="img-container">
+  <img src="/screenshots/Screenshot1_points.png" alt="Screenshot: Adding point geometries">
+</div>
+<p class="clearfix"></p>
 
 ----
 
-Ein besonders nutzerfreundliches Attributmanagement erschließt sich durch einen Doppelklick auf eine einzelne Geometrie in der Karte. Ein kleiner Kasten mit den bestehenden "Properties" erscheint, der über ```"add row"``` um neue Attribute analog zu den "key-value-pairs" erweitert werden kann. Außerdem ist es hier möglich, die Anzeigefarbe der Geometrien in ```"marker-color"``` zu ändern und so z.B. Punkte zu markieren, die bereits bearbeitet wurden oder zu einem späteren Zeitpunkt geprüft werden müssen. Besonders hilfreich ist diese Funktion auch, wenn Geometrien von Nord nach Süd oder von West nach Ost fortlaufend nummeriert werden sollen. Da die Anordnung der Punkte auf der Karte nicht der Reihenfolge der "features" in der GeoJSON-Datei entsprechen muss, behält man hier leichter den Überblick.
+<p>It is highly recommended to register a user account, so that unfinished projects can be temporarily saved to your profile. Some advanced features are also only available to registered users. Login can be done using an existing GitHub account. Upon opening Geojson.io, you’ll see a map (based on OpenStreetMap) on the left with a search bar, where you can freely navigate and place markers for points, lines, or polygons. On the right, the geometries are displayed in real time in GeoJSON format.</p>
 
-Alle Eintragungen in der Code-Ansicht (</> im Bedienfeld oben) oder in den Attributboxen können abschließend in der Tabellenansicht von Geojson.io überprüft und ergänzt werden.
-
-<img alt="Screenshot 4" src="./Screenshot4_Codeview_properties%20added.png">
-
-----
-
-<img alt="Screenshot 5" src="./Screenshot5_Tabellenansicht.png">
+<div class="img-container">
+  <img src="/screenshots/Screenshot2_codeview_raw.png" alt="Screenshot: Raw GeoJSON code view">
+</div>
+<p class="clearfix"></p>
 
 ----
 
-Außerdem ist es möglich, anstatt der (modernen) politischen Karte als Hintergrund auch das Satellitenbild oder die (unbeschriftete) OSM Standardkarte zu wählen.
+<p>To enrich the geoinformation created in Geojson.io with additional attributes such as names or dates, you can add as many "key-value pairs" as needed within the <code>"properties"</code> brackets of the GeoJSON file.</p>
 
-<img alt="Screenshot 6" src="./Screenshot6_OSMAnsicht.png">
+<p>Just like <code>"type":"Point"</code> is automatically generated under the <code>"geometry"</code> bracket when placing a point, you could add <code>"label":"IEG Mainz"</code> under <code>"properties"</code>. It is also possible to include punctuation and combine multiple pieces of information in quotes: <code>"label":"2020: IEG, Mainz"</code>.</p>
+
+<p>However, it is often more effective to split complex labels into separate attributes. For example: <code>"label":"2020: IEG, Mainz"</code>, <code>"date":"2020"</code>, <code>"place":"Mainz"</code>. Attribute names are freely definable. Spaces and line breaks improve readability.</p>
+
+<div class="img-container">
+  <img src="/screenshots/Screenshot3_Geometrie%20Punkte%20mit%20Attributen.png" alt="Screenshot: Points with attribute data">
+</div>
+<p class="clearfix"></p>
 
 ----
 
-<img alt="Screenshot 7" src="./Screenshot7_Satellitenansicht.png">
+<p>Attribute management becomes especially user-friendly when you double-click on a geometry on the map. A small box opens showing the current properties, and new key-value pairs can be added via <code>"add row"</code>. Here, you can also adjust the display color using <code>"marker-color"</code>, for example to highlight edited or to-be-reviewed points. This is especially useful when points are numbered spatially (e.g., from north to south), which may not match the feature order in the code view.</p>
+
+<div class="img-container">
+  <img src="/screenshots/Screenshot4_Codeview_properties%20added.png" alt="Screenshot: Properties panel with added attributes">
+</div>
+<p class="clearfix"></p>
 
 ----
 
-Nach jedem wesentlichen Arbeitsschritt sollte das File gespeichert bzw. exportiert werden ("save" Option). Für die weitere Bearbeitung und Visualisierung der Geodaten in einem GIS-Werkzeug wie QGIS oder Mapbox ist es erforderlich, die Daten nicht etwa als CSV-Tabelle, sondern als GeoJSON-Datei zu sichern. Wie die Daten in ein GIS-Werkzeug importiert und bearbeitet werden, erkläre ich einem weiteren Blogpost [XY](Link).
+<div class="img-container">
+  <img src="/screenshots/Screenshot5_Tabellenansicht.png" alt="Screenshot: Table view in Geojson.io">
+</div>
+<p class="clearfix"></p>
 
-Eine ausführlichere Einführung in Geojson.io gibt das folgende Video-Tutorial von Riccardo Klinger (in englischer Sprache):
+----
 
-["GeoJSON.io editing webmap data online"](https://www.youtube.com/watch?v=sPAkG7bS10o)
+<p>You can also switch the basemap in Geojson.io, choosing a satellite image or an unlabelled OSM standard map instead of the default political map.</p>
+
+<div class="img-container">
+  <img src="/screenshots/Screenshot6_OSMAnsicht.png" alt="Screenshot: OpenStreetMap view">
+</div>
+<p class="clearfix"></p>
+
+----
+
+<div class="img-container">
+  <img src="/screenshots/Screenshot7_Satellitenansicht.png" alt="Screenshot: Satellite view">
+</div>
+<p class="clearfix"></p>
+
+----
+
+<p>After each major step, your file should be saved or exported (using the “save” option). To edit or visualise your geodata in GIS tools like QGIS or Mapbox, be sure to export it as a GeoJSON file—not as a CSV table.</p>
+
+<p>How to import and edit this data in QGIS is explained in a separate post: [XY](Link).</p>
+
+<p>A helpful English-language video introduction is this tutorial by Riccardo Klinger:</p>
+
+<p><a href="https://www.youtube.com/watch?v=sPAkG7bS10o">"GeoJSON.io editing webmap data online"</a></p>
 
 <iframe width="500" height="281" src="https://www.youtube.com/embed/sPAkG7bS10o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Außerdem empfehle ich das auf Geoinformationssysteme spezialisierte Forum [GIS.Stackexchange](https://gis.stackexchange.com/).
+<p>For further support, you can browse or ask questions on the GIS community forum <a href="https://gis.stackexchange.com/">GIS Stack Exchange</a>.</p>
