@@ -54,7 +54,7 @@ permalink: /docs_en/Workshop_Maastricht_2025
 <p>By modern standards, Alsfeld is a comparatively small town, and the surrounding villages have all been integrated into larger administrative units. The map in <strong>fig. 1.2</strong> highlights Alsfeld, Angenroth, Gleimenhain and Fischbach in a considerably rural area of present-day Germany:</p>
 
 <div class="img-container">
-    <img src="https://example.com/screenshots/MapboxOSM_Alsfeld.png" alt="Mapbox OSM Alsfeld">
+    <img src="/screenshots/MapboxOSM_Alsfeld.png" alt="Mapbox OSM Alsfeld">
 </div>
 
 <p class="clearfix"><strong>Figure 1.2:</strong> Modern map of the Alsfeld region, created with Geojson.io by Monika Barget</p>
