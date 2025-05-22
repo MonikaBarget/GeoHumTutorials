@@ -2,7 +2,7 @@
 layout: default
 title: Overzicht
 lang: nl
-permalink: /docs_NL/
+permalink: /docs_nl/
 ---
 
 <h2>Overzicht</h2>
