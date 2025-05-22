@@ -18,8 +18,8 @@ permalink: /docs_en/Tutorial_geocodingOPENCAGE
   
 <p align="justify">This German screenshot summarises the workflow for copying a shared Colab folder to your own Drive:</p>
   
-<img alt="how to connect Colab DE" src="./PNG_Geodata_DE/GeocodePythonDE.png">
+<img alt="how to connect Colab DE" src="../PNG_Geodata_DE/GeocodePythonDE.png">
   
 <p align="justify">Also, each section of code has to be run one after the other. A green arrow on the left hand side indicates if a section of code has been executed correctly. Please see the instruction in the screenshot below.</p>
 
-<img alt="run COLAB" src="./PNG_Geodata_DE/RunCOLAB.png">
+<img alt="run COLAB" src="../PNG_Geodata_DE/RunCOLAB.png">
