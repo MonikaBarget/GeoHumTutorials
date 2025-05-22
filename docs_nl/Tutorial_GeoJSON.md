@@ -1,61 +1,101 @@
-# Erstellen und Bearbeiten von GeoJSON Dateien mit Geojson.io
+---
+layout: default
+lang: nl
+---
 
-Für viele Geisteswissenschaftler/Innen und Mitarbeiter/Innen in der Forschungskommunikation sind Karten attraktive Werkzeuge, um räumliche Beziehungen und Entwicklungen verständlich zu machen. Allerdings fällt es oft schwer, geeignete Werkzeuge zur Kartenerstellung auszuwählen, da die Möglichkeiten klassischer Einsteigertools wie Palladio und Dariah-De Geobrowser besonders im Bereich des Exports hochwertiger Kartenbilder sehr beschränkt sind, während viele andere Werkzeuge aufwendigere Softwareinstallationen, Kenntnisse in der Arbeit mit Terminal / Kommandozeile oder sogar Erfahrung mit Programmiersprachen erfordern.
+<style>
+p { text-align: justify; }
+.img-container {
+  float: left;
+  margin: 0 20px 20px 0;
+  width: 50%;
+}
+.img-container img {
+  width: 100%;
+  height: auto;
+}
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
 
-In diesem Tutorial möchte ich deshalb eine einfache Methode der Aufbereitung geographischer Informationen mit [Geojson.io](http://geojson.io/#map=2/20.0/0.0) vorstellen. Geojson.io ist ein browsergestütztes Tool, das keine Installationen erfordert und die Erstellung von sog. GeoJSON-Dateien ermöglicht, die von allen gängigen GIS-Tools gelesen und in Karten verarbeitet werden können.
+# GeoJSON-bestanden maken en bewerken met Geojson.io
 
-Anstatt Tabellen in Excel anzulegen, die dann mithilfe zusätzlicher Software geokodiert und exportiert werden müssen, kann man mit Geojson.io Ortsdaten direkt aus einer Karte auswählen, anreichern und in kompatiblen Formaten speichern. 
+## Geojson.io als gebruiksvriendelijke tool voor beginners
 
-<img alt="Screenshot1" src="./Screenshot1_points.png">
+<p>Voor veel geesteswetenschappers en medewerkers in de wetenschapscommunicatie zijn kaarten aantrekkelijke hulpmiddelen om ruimtelijke relaties en ontwikkelingen inzichtelijk te maken. Het is echter vaak lastig om het juiste kaartgereedschap te kiezen. Instapopties zoals Palladio of de Dariah-DE Geobrowser zijn beperkt, vooral als het gaat om het exporteren van kaarten in hoge resolutie. Geavanceerdere tools vereisen vaak complexe software-installaties, het gebruik van de opdrachtregel of programmeervaardigheden.</p>
 
-----
+<p>In deze tutorial stellen we een eenvoudige methode voor om geografische gegevens te bewerken met <a href="http://geojson.io/#map=2/20.0/0.0">Geojson.io</a>. Geojson.io is een browsergebaseerde tool die geen installatie vereist en gebruikers in staat stelt GeoJSON-bestanden te maken die door alle gangbare GIS-platforms gelezen en verwerkt kunnen worden.</p>
 
-Es wird dringend empfohlen, sich zu registrieren, da dann begonnene Projekte temporär im Profil gespeichert werden können. Außerdem stehen erweiterte Funktionen nur registrierten Nutzer/Innen zur Verfügung. Die Anmeldung kann z.B. über ein bereits vorhandenes Github-Profil erfolgen. Wenn man die Geojson.io-Seite öffnet, erscheint links eine auf Open Street Map beruhende Karte mit Suchfeld, in der man frei navigieren und Marker für verschiedene Geometrien (Punkte, Linien und Polygone) setzen kann. Rechts daneben erscheinen die gewählten Geometrien automatisch im GeoJSON-Format.
+<p>In plaats van tabellen te maken in Excel die vervolgens moeten worden geogecodeerd en geëxporteerd met extra software, kun je met Geojson.io locaties direct op een kaart selecteren, verrijken en opslaan in compatibele formaten.</p>
 
-<img alt="Screenshot2" src="./Screenshot2_codeview_raw.png">
+<div class="img-container">
+  <img src="../screenshots/Screenshot1_points.png" alt="Screenshot: Punten toevoegen op de kaart">
+</div>
+<p class="clearfix"></p>
 
-----
+## Handmatig geometrieën toevoegen
 
-Um die in Geojson.io erstellten Geoinformationen um weitere Attribute wie z.B. Namen oder Datumsangaben zu erweitern, kann man in der geschweiften "properties" Klammer der GeoJSON-Datei beliebig viele "key-value-pairs", also Paare aus "Schlüssel" und "Wert" eintragen.
+<p>Het is sterk aan te raden om een gebruikersaccount aan te maken, zodat niet-afgeronde projecten tijdelijk in je profiel kunnen worden opgeslagen. Sommige geavanceerde functies zijn alleen beschikbaar voor geregistreerde gebruikers. Aanmelden kan bijvoorbeeld via een bestaand GitHub-account. Bij het openen van Geojson.io zie je links een kaart (gebaseerd op OpenStreetMap) met een zoekbalk, waarin je vrij kunt navigeren en markers kunt plaatsen voor punten, lijnen of polygonen. Aan de rechterkant worden de geometrieën in realtime weergegeven in GeoJSON-formaat.</p>
 
-So wie in der „geometry“-Klammer der GeoJSON-Datei automatisch ```"type":"Point"``` erscheint, wenn ein Punkt auf der Karte markiert wird, so kann unter "properties" z.B. ```"label":"IEG Mainz"``` eingetragen werden. Es ist hier auch möglich, mehrere Informationen miteinander zu verbinden und Satzzeichen zu verwenden, sofern diese in Anführungszeichen geschrieben werden:
+<div class="img-container">
+  <img src="../screenshots/Screenshot2_codeview_raw.png" alt="Screenshot: GeoJSON-codeweergave">
+</div>
+<p class="clearfix"></p>
 
-```"label":"2020: IEG, Mainz"```
+## Extra informatie toevoegen in de code-editor
 
-Wenn diese Information auf mehrere Attribute verteilt wird, ist es allerdings leichter, die Punkte auf der Karte später nach diesen Attributen kategorisiert zu kolorieren oder anderweitig hervorzuheben. So könnte die oben angegebene Information auf ein Anzeigelabel (```"label":"2020: IEG, Mainz"```) und die Selektionskriterien ```"date":"2020"``` und ```"place":"Mainz"``` aufgeteilt werden. Die Bezeichnung der "properties"-Schlüssel ist dabei frei wählbar. Leerzeichen nach den Doppelpunkten und Zeilenumbrüche dienen der besseren Lesbarkeit. 
+<p>Om de geografische gegevens in Geojson.io aan te vullen met aanvullende attributen, zoals namen of data, kun je binnen de <code>"properties"</code>-haakjes zoveel "key-value pairs" toevoegen als nodig is.</p>
 
-<img alt="Screenshot 3" src="./Screenshot3_Geometrie%20Punkte%20mit%20Attributen.png">
+<p>Net zoals <code>"type":"Point"</code> automatisch onder <code>"geometry"</code> verschijnt wanneer je een punt plaatst, kun je onder <code>"properties"</code> bijvoorbeeld <code>"label":"IEG Mainz"</code> toevoegen. Het is ook mogelijk leestekens te gebruiken en meerdere gegevens te combineren, zolang ze tussen aanhalingstekens staan: <code>"label":"2020: IEG, Mainz"</code>.</p>
 
-----
+<p>Het is vaak effectiever om complexe labels op te splitsen in afzonderlijke attributen. Bijvoorbeeld: <code>"label":"2020: IEG, Mainz"</code>, <code>"date":"2020"</code>, <code>"place":"Mainz"</code>. Je kunt de naam van de attributen zelf kiezen. Spaties en nieuwe regels verbeteren de leesbaarheid.</p>
 
-Ein besonders nutzerfreundliches Attributmanagement erschließt sich durch einen Doppelklick auf eine einzelne Geometrie in der Karte. Ein kleiner Kasten mit den bestehenden "Properties" erscheint, der über ```"add row"``` um neue Attribute analog zu den "key-value-pairs" erweitert werden kann. Außerdem ist es hier möglich, die Anzeigefarbe der Geometrien in ```"marker-color"``` zu ändern und so z.B. Punkte zu markieren, die bereits bearbeitet wurden oder zu einem späteren Zeitpunkt geprüft werden müssen. Besonders hilfreich ist diese Funktion auch, wenn Geometrien von Nord nach Süd oder von West nach Ost fortlaufend nummeriert werden sollen. Da die Anordnung der Punkte auf der Karte nicht der Reihenfolge der "features" in der GeoJSON-Datei entsprechen muss, behält man hier leichter den Überblick.
+<div class="img-container">
+  <img src="../screenshots/Screenshot3_Geometrie%20Punkte%20mit%20Attributen.png" alt="Screenshot: Punten met attributen">
+</div>
+<p class="clearfix"></p>
 
-Alle Eintragungen in der Code-Ansicht (</> im Bedienfeld oben) oder in den Attributboxen können abschließend in der Tabellenansicht von Geojson.io überprüft und ergänzt werden.
+## Attributen per geometrie bewerken
 
-<img alt="Screenshot 4" src="./Screenshot4_Codeview_properties%20added.png">
+<p>Attributen bewerken wordt bijzonder gebruiksvriendelijk als je dubbelklikt op een geometrie op de kaart. Er verschijnt dan een klein venster met de bestaande eigenschappen, en via <code>"add row"</code> kun je nieuwe key-value pairs toevoegen. Hier kun je ook de kleur van het symbool aanpassen via <code>"marker-color"</code>, bijvoorbeeld om reeds bewerkte punten of punten die nog gecontroleerd moeten worden te markeren. Dit is vooral handig wanneer punten geografisch zijn genummerd (bijvoorbeeld van noord naar zuid), wat mogelijk niet overeenkomt met de volgorde in de codeweergave.</p>
 
-----
+<div class="img-container">
+  <img src="../screenshots/Screenshot4_Codeview_properties%20added.png" alt="Screenshot: Toegevoegde eigenschappen">
+</div>
+<p class="clearfix"></p>
 
-<img alt="Screenshot 5" src="./Screenshot5_Tabellenansicht.png">
+<div class="img-container">
+  <img src="../screenshots/Screenshot5_Tabellenansicht.png" alt="Screenshot: Tabelweergave in Geojson.io">
+</div>
+<p class="clearfix"></p>
 
-----
+## Verschillende achtergrondkaarten selecteren
 
-Außerdem ist es möglich, anstatt der (modernen) politischen Karte als Hintergrund auch das Satellitenbild oder die (unbeschriftete) OSM Standardkarte zu wählen.
+<p>Je kunt ook de achtergrondkaart in Geojson.io wijzigen, bijvoorbeeld naar een satellietbeeld of een niet-gelabelde OSM-standaardkaart, in plaats van de standaard politieke kaart.</p>
 
-<img alt="Screenshot 6" src="./Screenshot6_OSMAnsicht.png">
+<div class="img-container">
+  <img src="../screenshots/Screenshot6_OSMAnsicht.png" alt="Screenshot: OpenStreetMap-weergave">
+</div>
+<p class="clearfix"></p>
 
-----
+<div class="img-container">
+  <img src="../screenshots/Screenshot7_Satellitenansicht.png" alt="Screenshot: Satellietweergave">
+</div>
+<p class="clearfix"></p>
 
-<img alt="Screenshot 7" src="./Screenshot7_Satellitenansicht.png">
+## Bestanden opslaan en exporteren
 
-----
+<p>Na elke belangrijke stap moet je het bestand opslaan of exporteren (via de knop “save”). Om je geografische gegevens verder te bewerken of visualiseren in GIS-tools zoals QGIS of Mapbox, moet je het bestand opslaan als een GeoJSON-bestand – niet als een CSV.</p>
 
-Nach jedem wesentlichen Arbeitsschritt sollte das File gespeichert bzw. exportiert werden ("save" Option). Für die weitere Bearbeitung und Visualisierung der Geodaten in einem GIS-Werkzeug wie QGIS oder Mapbox ist es erforderlich, die Daten nicht etwa als CSV-Tabelle, sondern als GeoJSON-Datei zu sichern. Wie die Daten in ein GIS-Werkzeug importiert und bearbeitet werden, erkläre ich einem weiteren Blogpost [XY](Link).
+<p>Hoe je deze gegevens in QGIS importeert en bewerkt, wordt uitgelegd in een aparte post: [XY](Link).</p>
 
-Eine ausführlichere Einführung in Geojson.io gibt das folgende Video-Tutorial von Riccardo Klinger (in englischer Sprache):
+<p>Een nuttige Engelstalige videointroductie is deze tutorial van Riccardo Klinger:</p>
 
-["GeoJSON.io editing webmap data online"](https://www.youtube.com/watch?v=sPAkG7bS10o)
+<p><a href="https://www.youtube.com/watch?v=sPAkG7bS10o">"GeoJSON.io editing webmap data online"</a></p>
 
 <iframe width="500" height="281" src="https://www.youtube.com/embed/sPAkG7bS10o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Außerdem empfehle ich das auf Geoinformationssysteme spezialisierte Forum [GIS.Stackexchange](https://gis.stackexchange.com/).
+<p>Voor verdere ondersteuning kun je zoeken of vragen stellen op het GIS-communityforum <a href="https://gis.stackexchange.com/">GIS Stack Exchange</a>.</p>
