@@ -4,70 +4,72 @@ lang: en
 permalink: /docs_en/Tutorial_simpleQGISmaps
 ---
 
-<h2>Gestaltung einfacher Karten mit QGIS</h2>
+---
+layout: default
+lang: en
+permalink: /docs_en/Tutorial_simpleQGISmaps
+---
 
-<p align="justify">Als Ergänzung zur <a href="https://monikabarget.github.io/GeoHumTutorials/Tutorial1_GeoJSON">Einführung in die Erstellung von GeoJSON-Dateien</a> beschäftigt sich der heutige Beitrag mit der Visualisierung dieser Geodaten im Open Source Geoinformationssystem <strong>QGIS</strong> (https://www.qgis.org/en/site/).</p>
+<h2>Creating Simple Maps with QGIS</h2>
 
-<p align="justify">QGIS erfordert eine Installation auf der Festplatte und ist daher nur für Nutzer/innen geeignet, die auf Ihren Computern Administratorenrechte haben. Andernfalls kann für die Erstellung von Karten, die sich auf für den Druck eignen, die browserbasierte Plattform <strong>Mapbox</strong> (https://www.mapbox.com/) verwendet werden, die in der Anwendung allerdings weniger intuitiv ist.</p>
+<p align="justify">As a follow-up to the <a href="https://monikabarget.github.io/GeoHumTutorials/Tutorial1_GeoJSON">introduction to creating GeoJSON files</a>, this tutorial focuses on visualising these geodata in the open source Geographic Information System <strong>QGIS</strong> (https://www.qgis.org/en/site/).</p>
 
-<p align="justify">Die Nutzeroberfläche von QGIS erinnert an Bildbearbeitungsprogramme und ermöglicht sowohl den Import standardisierter geographischer Daten aus verschiedenen Quellen, als auch deren Darstellung auf unterschiedlichen Hintergrundkarten. Für die meisten Hintergrundkarten sind allerdings (gewerbliche) Nutzungrechte erforderlich.</p>
+<p align="justify">QGIS must be installed on your hard drive, which means it is only suitable for users who have administrator rights on their computers. Otherwise, the browser-based platform <strong>Mapbox</strong> (https://www.mapbox.com/) can be used to create printable maps, though it is less intuitive to use.</p>
 
-<p align="justify">Eine kostenfreie Basiskarte ist die Standardkarte von Open Street Map, die in QGIS über den "Web" Reiter geladen werden kann. Diese Karte ist allerdings für historische Anwendungen nur dann zu empfehlen, wenn du Orientierung der Nutzer*innen im Raum im Vordergrund stehen soll, da moderne Grenzen und Infrastrukturen sichtbar sind. Weitere kostenlose Basiskarten können über verschiedene QGIS Plug-Ins installiert und ebenfalls über "Web" geladen werden.</p>
+<p align="justify">The QGIS user interface is similar to image editing software and allows both the import of standardised geographical data from various sources and its display on different base maps. Most base maps, however, require (commercial) usage rights.</p>
 
-<img alt="Screenshot 1: Basiskarte öffnen" src="./QGIS_Screenshot1_OSM Basiskarte öffnen.png">
+<p align="justify">One free base map is the Open Street Map standard map, which can be loaded in QGIS via the "Web" tab. However, this map is only recommended for historical applications if user orientation in space is the priority, as modern borders and infrastructure are visible. Additional free base maps can be installed via various QGIS plug-ins and also accessed via "Web".</p>
 
-<img alt="Screenshot 2: Ansicht der OSM Basiskarte als Layer" src="./QGIS_Screenshot2_OSM Basiskarte.png">
+<img alt="Screenshot 1: Open base map" src="/screenshots/QGIS_Screenshot1_OSM Basiskarte öffnen.png">
 
-<p align="justify">Die zuvor vorbereiteten GeoJSON-Dateien werden über "Layer hinzufügen" als neue Vektorlayer integriert.</p>
+<img alt="Screenshot 2: View of OSM base map as layer" src="/screenshots/QGIS_Screenshot2_OSM Basiskarte.png">
 
-<img alt="Screenshot 3: Vektorlayer hinzufügen" src="./QGIS_Screenshot3_Vektorlayer.png">
+<p align="justify">The previously prepared GeoJSON files are added as new vector layers via "Add Layer".</p>
 
-<p align="justify">Hier ist es wichtig, für die Hintergrundkarte und alle Datenebenen eine passende geographische Projektion ("KBS setzen") zu wählen, damit die Ortsdaten in der richtigen Relation zueinander abgebildet werden.</p>
+<img alt="Screenshot 3: Add vector layer" src="/screenshots/QGIS_Screenshot3_Vektorlayer.png">
 
-<img alt="Screenshot 4: KBS setzen" src="./QGIS_Screenshot4_KBS setzen.png">
+<p align="justify">It is important to set an appropriate geographic projection ("set CRS") for both the base map and all data layers to ensure that spatial data is correctly aligned.</p>
 
-<p align="justify">Über "Eigenschaften" kann dann die Darstellung der Datenlayer verändert werden.</p>
+<img alt="Screenshot 4: Set CRS" src="/screenshots/QGIS_Screenshot4_KBS setzen.png">
 
-<p>Hier bietet QGIS folgende Funktionen:</p>
+<p align="justify">You can then change the appearance of the data layers via "Properties".</p>
+
+<p>QGIS offers the following functions:</p>
 
 <ul>
-    <li>Verändern der Kartensymbole, ihrer Größe und Farbe</li>
-    <li>Einfügen von Labels</li>
-    <li>Maßstababhängige Sichtbarkeit von Kartenelementen</li>
-    <li>Definition von Datenabhängigkeiten</li>
-    <li>Datenbeschreibung</li>
-    <li>Datenreparaturen</li>
-    <li>3D Ansichten</li>
-    <li>Datendiagramme</li>
-    <li>Selektive Maskierung oder Sichtbarkeit von Symbolen</li>
-    <li>Verwaltung von Benutzerformularen</li>
-    <li>usw.</li>
+    <li>Change map symbols, their size and colour</li>
+    <li>Add labels</li>
+    <li>Scale-dependent visibility of map elements</li>
+    <li>Define data dependencies</li>
+    <li>Data descriptions</li>
+    <li>Data repair tools</li>
+    <li>3D views</li>
+    <li>Data charts</li>
+    <li>Selective masking or visibility of symbols</li>
+    <li>Management of user forms</li>
+    <li>etc.</li>
 </ul>
 
-<p align="justify">Für diese Funktionen gibt es ausführliche Video-Tutorials (z.B. die Reihe <a href="https://www.youtube.com/watch?v=kCnNWyl9qSE">QGIS 3 for Absolute Beginners</a> von Klas Karlsson sowie die Dokumentation auf der offiziellen QGIS-Webseite.</p>
+<p align="justify">There are detailed video tutorials for these functions (e.g., the series <a href="https://www.youtube.com/watch?v=kCnNWyl9qSE">QGIS 3 for Absolute Beginners</a> by Klas Karlsson) as well as the official QGIS documentation.</p>
 
-<p align="justify">Für einfache Karten ist meistens die Label-Funktion besonders revelant.</p>
+<p align="justify">For simple maps, the label function is often the most relevant.</p>
 
-<img alt="Screenshot 5: Label in Layereigenschaften wählen" src="./QGIS_Screenshot5_Layereigenschaften_Label.png">
+<img alt="Screenshot 5: Choose label in layer properties" src="/screenshots/QGIS_Screenshot5_Layereigenschaften_Label.png">
 
+<p align="justify">You can either choose a single label per map element based on a specific attribute (e.g., "Name") or define labelling based on (mathematical) rules. A detailed explanation of various label functions can be found in <a href="https://docs.qgis.org/2.14/en/docs/training_manual/vector_classification/label_tool.html">Lesson 4.2 of the QGIS documentation</a>.</p>
 
-<p align="justify">Hier kann entweder eine einzelne Beschriftung pro Kartenelement basierend auf einem bestimmten Attribut (z.B. "Name") ausgewählt oder die Beschriftung bestimmten (mathematischen) Regeln unterworfen werden. Eine ausführliche Erklärung der verschiedenen Label-Funktionen bietet [Lektion 4.2 in der QGIS Dokumentation](https://docs.qgis.org/2.14/en/docs/training_manual/vector_classification/label_tool.html).</p>
+<img alt="Screenshot 6: Display simple labels on map" src="/screenshots/QGIS_Screenshot6_added labels.png">
 
-<img alt="Screenshot 6: Darstellung einfacher Labels auf der Karte" src="./QGIS_Screenshot6_added labels.png">
+<p align="justify">Since maps created in QGIS are often needed for publication in academic journals or posters, it is also important to become familiar with QGIS's "Print Layouts". Preparing specific maps or map sections for print is unfortunately not entirely straightforward in QGIS, so watching a video tutorial is highly recommended. In German, there is a video series by Marshal Mappers. A new print layout is opened via "Project -> New Print Layout".</p>
 
+<img alt="Screenshot 7: Create new print layout" src="/screenshots/QGIS_Screenshot7_open print layout.png">
 
-<p align="justify">Da in QGIS erstellte Karten oft für die Veröffentlichung in wissenschaftlichen Publikationen oder auf Postern benötigt werden, ist es außerdem wichtig, sich mit den sog. "Drucklayouts" in QGIS vertraut zu machen. Die Vorbereitung bestimmter Karten oder Kartenausschnitte für den Druck ist in QGIS leider nicht ganz einfach, weshalb man sich ein entsprechendes Video-Tutorial ansehen sollte. In deutscher Sprache gibt es z.B. eine Videoserie von Marshal Mappers. Geöffnet wird ein neues Drucklayout unter "Projekt -> Neues Drucklayout".</p>
-
-<img alt="Screenshot 7: neues Drucklayout erstellen" src="./QGIS_Screenshot7_open print layout.png">
-
-
-<p align="justify">Für jedes Drucklayout muss ein eindeutiger Layoutname gewählt werden. Im Drucklayout selbst muss außerdem der aktuelle Kartenausschnitt bzw. der Auschnitt, der gedruckt werden soll, separat geladen werden. Die einzelnen Arbeitsschritte erklärt z.B. das deutschsprachige Video [QGIS 3 - Tutorial - Kartenlayout Teil 1](https://www.youtube.com/watch?v=rpkeBZHrXVQ&t=2s).</p>
+<p align="justify">Each print layout must be given a unique name. Within the print layout, the current map section or the section to be printed must be loaded separately. The individual steps are explained in more detail in the German-language video <a href="https://www.youtube.com/watch?v=rpkeBZHrXVQ&t=2s">QGIS 3 – Tutorial – Map Layout Part 1</a>.</p>
 
 <iframe width="500" height="281" src="https://www.youtube.com/embed/rpkeBZHrXVQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<p align="justify">In the print layout, attribute information can be displayed either as labels or in a map legend. The legend can be given a freely chosen title. The layout and element properties can be adjusted in the panel to the right of the map. Including a legend is particularly advisable for dense map images with many labels.</p>
 
-<p align="justify">Im Drucklayout können Attributinformationen entweder als Labels oder in einer Kartenlegende angezeigt werden. Die Legende erhält einen frei wählbaren Titel. Das Layout und die Elementeigenschaften können im Bedienfeld rechts neben der Karte angepasst werden. Das Einfügen einer Legende empfiehlt sich bei besonders dichten Kartenbildern mit umfangreichen Beschriftungen.</p>
+<img alt="Screenshot 8: Create legend in print layout" src="/screenshots/QGIS_Screenshot8_Legende.png">
 
-<img alt="Screenshot 8: Legende im Drucklayout erstellen" src="./QGIS_Screenshot8_Legende.png">
-
-<p align="justify">Die QGIS-Dokumentation beschreibt diesen Schritt ausführlicher in <a href="https://docs.qgis.org/3.4/en/docs/training_manual/map_composer/map_composer.html">Lektion 5.1</a>. Außerdem lohnt es sich auch in diesem Fall, Fragen und Antworten der GIS-Community auf <a href="https://gis.stackexchange.com/">GIS Stackexchange</a> nachzulesen oder selbst eine Frage zu diesem Thema zu stellen.</p>
+<p align="justify">This step is described in more detail in <a href="https://docs.qgis.org/3.4/en/docs/training_manual/map_composer/map_composer.html">Lesson 5.1 of the QGIS documentation</a>. It is also worth checking questions and answers from the GIS community on <a href="https://gis.stackexchange.com/">GIS Stack Exchange</a> or asking a question of your own.</p>
