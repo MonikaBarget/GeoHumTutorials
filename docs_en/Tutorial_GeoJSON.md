@@ -22,7 +22,9 @@ p { text-align: justify; }
 </style>
 
 
-# Creating and Editing GeoJSON Files with Geojson.io
+# Creating and editing GeoJSON Files with Geojson.io
+
+## Geojson.io as a user-friendly tool for beginners
 
 <p>For many humanities scholars and research communicators, maps are appealing tools to make spatial relationships and developments more comprehensible. However, it is often difficult to choose the right mapping tools. Beginner options like Palladio or the Dariah-DE Geobrowser are limited, especially when it comes to exporting high-quality map images. Many more powerful tools require complex software installations, command line work, or programming skills.</p>
 
@@ -35,7 +37,7 @@ p { text-align: justify; }
 </div>
 <p class="clearfix"></p>
 
-----
+## Manually adding geometries
 
 <p>It is highly recommended to register a user account, so that unfinished projects can be temporarily saved to your profile. Some advanced features are also only available to registered users. Login can be done using an existing GitHub account. Upon opening Geojson.io, you’ll see a map (based on OpenStreetMap) on the left with a search bar, where you can freely navigate and place markers for points, lines, or polygons. On the right, the geometries are displayed in real time in GeoJSON format.</p>
 
@@ -44,7 +46,7 @@ p { text-align: justify; }
 </div>
 <p class="clearfix"></p>
 
-----
+## Adding additional information in the code editor
 
 <p>To enrich the geoinformation created in Geojson.io with additional attributes such as names or dates, you can add as many "key-value pairs" as needed within the <code>"properties"</code> brackets of the GeoJSON file.</p>
 
@@ -57,7 +59,7 @@ p { text-align: justify; }
 </div>
 <p class="clearfix"></p>
 
-----
+## Editing attributes per geometry
 
 <p>Attribute management becomes especially user-friendly when you double-click on a geometry on the map. A small box opens showing the current properties, and new key-value pairs can be added via <code>"add row"</code>. Here, you can also adjust the display color using <code>"marker-color"</code>, for example to highlight edited or to-be-reviewed points. This is especially useful when points are numbered spatially (e.g., from north to south), which may not match the feature order in the code view.</p>
 
@@ -66,14 +68,12 @@ p { text-align: justify; }
 </div>
 <p class="clearfix"></p>
 
-----
-
 <div class="img-container">
   <img src="../screenshots/Screenshot5_Tabellenansicht.png" alt="Screenshot: Table view in Geojson.io">
 </div>
 <p class="clearfix"></p>
 
-----
+## Selecting different basemaps
 
 <p>You can also switch the basemap in Geojson.io, choosing a satellite image or an unlabelled OSM standard map instead of the default political map.</p>
 
@@ -82,14 +82,12 @@ p { text-align: justify; }
 </div>
 <p class="clearfix"></p>
 
-----
-
 <div class="img-container">
   <img src="../screenshots/Screenshot7_Satellitenansicht.png" alt="Screenshot: Satellite view">
 </div>
 <p class="clearfix"></p>
 
-----
+## Saving and exporting files
 
 <p>After each major step, your file should be saved or exported (using the “save” option). To edit or visualise your geodata in GIS tools like QGIS or Mapbox, be sure to export it as a GeoJSON file—not as a CSV table.</p>
 
