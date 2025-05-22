@@ -30,7 +30,7 @@ Programming languages such as Python offer a reliable and safe alternative for t
 This script transforms an EXCEL spreadsheet that contains spatial information (place names) into a GeoJSON file after geocoding the addresses with Open Street Map. Moreover, the script displays the input data on an interactive map. The file comes as a so-called Jupyter notebook with the `.ipynb` file ending. [Jupyter Notebook](https://jupyter.org/) combines computer code, formatted text and (visual) output in a single document, which makes it very convenient for visualisation-focused research fields like geohumanities.
 
 [!WARNING] 
-Please note, however, the code provided here was specifically written for [Google Colab](https://colab.research.google.com/) and needs adjustments when run in other environments. While local code executions and institutional coding environments are recommended, Google Colab does not require any user installations and is, therefore, easy to use for beginners.
+Please note, however, that the code provided here was specifically written for [Google Colab](https://colab.research.google.com/) and needs adjustments when run in other environments. While local code executions and institutional coding environments are recommended, Google Colab does not require any user installations and is, therefore, easy to use for beginners.
 
 Your input file can have as many columns as you like but must include one column called "Addresses". The GeoJSON output that is saved to your computer as part of the code execution should have the following structure:
 
