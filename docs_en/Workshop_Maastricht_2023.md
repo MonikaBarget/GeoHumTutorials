@@ -6,10 +6,10 @@ permalink: /docs_en/Workshop_Maastricht_2023
 
 # Working with spatial data – a beginners’ workshop
 
-Instructor: Monika Barget, Assistant Professor in History
-Date: 26 April 2023
-Time: 10.30-12.30
-Venue: The Plant, FASoS building 76, ground floor
+- Instructor: Monika Barget, Assistant Professor in History
+- Date: 26 April 2023
+- Time: 10.30-12.30
+- Venue: The Plant, FASoS building 76, ground floor
 
 ### Objectives
 
