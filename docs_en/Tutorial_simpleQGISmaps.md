@@ -4,12 +4,6 @@ lang: en
 permalink: /docs_en/Tutorial_simpleQGISmaps
 ---
 
----
-layout: default
-lang: en
-permalink: /docs_en/Tutorial_simpleQGISmaps
----
-
 <h2>Creating Simple Maps with QGIS</h2>
 
 <p align="justify">As a follow-up to the <a href="https://monikabarget.github.io/GeoHumTutorials/Tutorial1_GeoJSON">introduction to creating GeoJSON files</a>, this tutorial focuses on visualising these geodata in the open source Geographic Information System <strong>QGIS</strong> (https://www.qgis.org/en/site/).</p>
