@@ -37,11 +37,11 @@ Similarly, participants of my workshops who have direct access to one of my Goog
 
 <p align="justify">This German screenshot summarises the workflow for copying a shared Colab folder to your own Drive:</p>
   
-<img alt="how to connect Colab DE" src="../screenshots/PNG_Geodata_DE/GeocodePythonDE.png">
+<img alt="how to connect Colab DE" src="../PNG_Geodata_DE/GeocodePythonDE.png">
 
 <h3>Executing code in Colab</h3>
 
 <p align="justify">Code provided in Colab mostly comes in Jupyter Notebook format and combines the actual code with explanations. The explanations are meant for the user but are not part of the actual script.
 The code that can be executed normally has a grey background and a little "play" button in the top-left corner. Each section of code has to be run one after the other. A green arrow on the left hand side indicates if a section of code has been executed correctly. Please see the instructions in the screenshorts below.</p>
 
-<img alt="run COLAB" src="../screenshots/PNG_Geodata_DE/RunCOLAB.png">
+<img alt="run COLAB" src="../PNG_Geodata_DE/RunCOLAB.png">
