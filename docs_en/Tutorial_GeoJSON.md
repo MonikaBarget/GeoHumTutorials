@@ -5,10 +5,22 @@ lang: en
 
 <style>
 p { text-align: justify; }
-.img-container { float: left; margin: 0 20px 20px 0; width: 25%; }
-.img-container img { width: 100%; height: auto; }
-.clearfix::after { content: ""; clear: both; display: table; }
+.img-container {
+  float: left;
+  margin: 0 20px 20px 0;
+  width: 50%;
+}
+.img-container img {
+  width: 100%;
+  height: auto;
+}
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 </style>
+
 
 # Creating and Editing GeoJSON Files with Geojson.io
 
