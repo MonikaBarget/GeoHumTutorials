@@ -1,3 +1,9 @@
+---
+layout: default
+lang: en
+permalink: /docs_en/Tutorials_symbols-keys.md
+---
+
 <h2>Symbols and keys in the history of cartography</h2>
 
 <p>Cartographic symbols were first formalised in the early modern period and printed maps produced since the early 17th century generally came with keys that explained the use of more unusual symbology or letters and numbers used. While we are still familiar with some of the early modern cartographic symbols today, others are no longer used.</p>
