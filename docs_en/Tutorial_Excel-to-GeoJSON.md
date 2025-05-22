@@ -8,7 +8,7 @@ permalink: /docs_en/Tutorial_Excel-to-GeoJSON
 
 [GeoJSON](https://geojson.org/) is a file format for encoding geographic data. In GeoJSON, you can define different geometry types:
 
-- Point
+- Point (typically used for individual buildings, but also for villages, towns, or cities when their exact geographic extensions are not of interest)
 - LineString
 - Polygon
 - MultiPoint
@@ -27,6 +27,12 @@ Programming languages such as Python offer a reliable and safe alternative for t
 
 [Create GeoJSON file from EXCEL spreadsheet](https://github.com/MonikaBarget/GeoHumTutorials/blob/master/Colab_Geocoding/GEOJSON_from_EXCEL.ipynb)
 
-This script transform an EXCEL spreadsheet that contains geocoded spatial information (coordinates) into a GeoJSON file. Moreover, the script displays the input data on an interactive map. The file comes as a so-called Jupyter notebook with the `.ipynb` file ending. [Jupyter Notebook](https://jupyter.org/) combines computer code, formatted text and (visual) output in a single document, which makes it very convenient for visualisation-focused research fields like geohumanities.
+This script transforms an EXCEL spreadsheet that contains spatial information (place names) into a GeoJSON file after geocoding the addresses with Open Street Map. Moreover, the script displays the input data on an interactive map. The file comes as a so-called Jupyter notebook with the `.ipynb` file ending. [Jupyter Notebook](https://jupyter.org/) combines computer code, formatted text and (visual) output in a single document, which makes it very convenient for visualisation-focused research fields like geohumanities.
 
-Please note, however, the code provided here was specifically written for [Google Colab](https://colab.research.google.com/) and needs adjustments when run in other environments. While local code executions and institutional coding environments are recommended, Google Colab does not require any user installations and is, therefore, easy to use for beginners.
+[!WARNING] Please note, however, the code provided here was specifically written for [Google Colab](https://colab.research.google.com/) and needs adjustments when run in other environments. While local code executions and institutional coding environments are recommended, Google Colab does not require any user installations and is, therefore, easy to use for beginners.
+
+Your input file can have as many columns as you like but must include one column called "Addresses". The GeoJSON output that is saved to your computer as part of the code execution should have the following structure:
+
+```
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-0.1277653, 51.5074456]}, "properties": {"Event": "Birth", "Date": 1750, "Address": "London"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-1.2578499, 51.7520131]}, "properties": {"Event": "Graduation", "Date": 1770, "Address": "Oxford"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.1186637, 52.2055314]}, "properties": {"Event": "Ordination", "Date": 1771, "Address": "Cambridge"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-0.1400561, 50.8214626]}, "properties": {"Event": "Retirement", "Date": 1820, "Address": "Brighton"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [0.5824703, 50.8553888]}, "properties": {"Event": "Death", "Date": 1822, "Address": "Hastings"}}]}
+```
