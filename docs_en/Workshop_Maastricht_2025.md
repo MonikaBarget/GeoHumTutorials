@@ -25,12 +25,15 @@ An interesting cartographic tradition closely tied to legal disputes over border
 </p>
 
 <p>
-Other inspection maps are highly abstract and focus on just a few key features, such as boundary stones. The map embedded below (<strong>fig. 1.1</strong>) comes from the holdings of the Hessian State Archive in Darmstadt (reference HStAD, P 1, 2522) and is a minimalist sketch from the year 1628. It shows the approximate borders of the three villages of Angenroth, Gleimenhain, and Fischbach, as well as their proximity to the territories of Hesse-Darmstadt, Hesse-Kassel, and Electoral Mainz:
+Other inspection maps are highly abstract and focus on just a few key features, such as boundary stones. The map embedded below (<strong>fig. 1.1</strong>) comes from the holdings of the Hessian State Archive in Darmstadt and is a minimalist sketch from the year 1628. It shows the approximate borders of the three villages of Angenroth, Gleimenhain, and Fischbach, as well as their proximity to the territories of Hesse-Darmstadt, Hesse-Kassel, and Electoral Mainz:
 </p>
 
-<a href="https://digitalisate-he.arcinsys.de/hstad/p_1/2522/p_1%232522.jpg" target="_blank">
-  <img src="https://digitalisate-he.arcinsys.de/hstad/p_1/2522/p_1%232522.jpg" alt="Map HStAD P 1, 2522" style="width:25%; float:left; margin: 0 20px 20px 0;">
-</a>
+<figure>
+  <a href="https://digitalisate-he.arcinsys.de/hstad/p_1/2522/p_1%232522.jpg" target="_blank">
+    <img src="https://digitalisate-he.arcinsys.de/hstad/p_1/2522/p_1%232522.jpg" alt="Map HStAD P 1, 2522" style="width:25%; float:left; margin: 0 20px 20px 0;">
+  </a>
+  <figcaption>Figure 1.1: Map HStAD P 1, 2522, used with permission of the Hessian State Archive</figcaption>
+</figure>
 
 <p>
 This map was created by Rentmaster Daniel Ludwig Lüncker in Alsfeld, the nearby town, presumably on behalf of the landgravial government of Hesse-Darmstadt. The map measures 33 by 42 cm and is drawn on paper.
@@ -47,15 +50,22 @@ Alsfeld, where the map was created, was a significant and often contested tradin
 
 <p>By modern standards, Alsfeld is a comparatively small town, and the surrounding villages have all been integrated into larger administrative units. The map in <strong>fig. 1.2</strong> highlights Alsfeld, Angenroth, Gleimenhain and Fischbach in a considerably rural area of present-day Germany:</p>
 
-<a href="../screenshots/MapboxOSM_Alsfeld.png" target="_blank">
-  <img src="../screenshots/MapboxOSM_Alsfeld.png" alt="Mapbox OSM Alsfeld" style="width:25%; float:left; margin: 0 20px 20px 0;;">
-</a>
+<figure>
+  <a href="../screenshots/MapboxOSM_Alsfeld.png" target="_blank">
+    <img src="../screenshots/MapboxOSM_Alsfeld.png" alt="Mapbox OSM Alsfeld" style="width:25%; float:left; margin: 0 20px 20px 0;">
+  </a>
+  <figcaption>Figure 1.2.: Modern map of the Alsfeld region, created with Geojson.io by Monika Barget</figcaption>
+</figure>
+
 
 <p>For critical comparison, you may also want to look at a printed map of the same region produced in the later 17th-century (<strong>fig. 1.3</strong>).</p>
 
-<a href="https://www.bierl-antiquariat.de/media/catalog/product/cache/fb3672239af29012103a84801b59e41e/1/2/12235cg.jpg" target="_blank">
-  <img src="https://www.bierl-antiquariat.de/media/catalog/product/cache/fb3672239af29012103a84801b59e41e/1/2/12235cg.jpg" alt="Map HStAD P 1, 2522" style="width:25%; float:right; margin: 0 20px 20px 20px;">
-</a>
+<figure>
+  <a href="https://www.bierl-antiquariat.de/media/catalog/product/cache/fb3672239af29012103a84801b59e41e/1/2/12235cg.jpg" target="_blank">
+    <img src="https://www.bierl-antiquariat.de/media/catalog/product/cache/fb3672239af29012103a84801b59e41e/1/2/12235cg.jpg" alt="Printed Map" style="width:25%; float:right; margin: 0 20px 20px 20px;">
+  </a>
+  <figcaption>Figure 1.3.: Copper-engraved map by G. C. Jung, 1692, photographed by Antiquariat Bierl</figcaption>
+</figure>
 
 <p>This map is a copper engraving created by G. C. Jung from Nuremberg in the year 1692. The dimensions of the map are 14 by 19.5 cm. It is part of a larger, 64-part map series called <em>Franconiae mappa locupletissima</em> (a most richly illustrated map of Franconia).</p>
 
@@ -92,23 +102,27 @@ Kümper, H. (2023). Streit um den Rhein: von Zöllen, Sand und ganz viel Ärger.
 
 <p>Today, Indigenous communities are actively remapping and renaming their homelands to assert their presence on the land, and preserve their languages and stories. In this process, maps play an important role, but many of the modern maps dedicated to Indigenous cultures still follow modern Western conventions of map-making. The <em>Indigenous Peoples Atlas of Canada</em>, for example, shows new perspectives on the history and geography of Canada in maps produced with standard Geoinformation Systems, including common spatial projections and keys (<strong>fig. 2.1</strong>).</p>
 
-<a href="https://indigenouspeoplesatlasofcanada.ca/wp-content/uploads/2018/06/Inuit-Owned-Lands-in-Nunavut-2016.gif" target="_blank">
-  <img src="https://indigenouspeoplesatlasofcanada.ca/wp-content/uploads/2018/06/Inuit-Owned-Lands-in-Nunavut-2016.gif" alt="Inuit Owned Lands in Nunavut" style="width:25%; max-width:900px; float:left; margin: 0 20px 20px 0;">
-</a>
+<figure>
+  <a href="https://indigenouspeoplesatlasofcanada.ca/wp-content/uploads/2018/06/Inuit-Owned-Lands-in-Nunavut-2016.gif" target="_blank">
+    <img src="https://indigenouspeoplesatlasofcanada.ca/wp-content/uploads/2018/06/Inuit-Owned-Lands-in-Nunavut-2016.gif" alt="Inuit Owned Lands in Nunavut" style="width:25%; max-width:900px; float:left; margin: 0 20px 20px 0;">
+  </a>
+  <figcaption>Figure 2.1: Map of Inuit-owned lands in Nunavut, 2016, Indigenous Peoples Atlas of Canada</figcaption>
+</figure>
 
 <p>Older maps created by Indigenous artists, by contrast, were more visibly inspired by traditional iconography and unique experiences of space (Hidalgo, 2019). The map in <strong>fig. 2.2</strong> is one example. It was created by an unknown artist from Tetliztaca, Mexico, in around 1581. It is held by the Benson Latin American Collection at the University of Texas, Austin:</p>
 
 <a href="https://d7hftxdivxxvm.cloudfront.net/?height=2880&quality=80&resize_to=fit&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2FHeVNkRocI-Kh-NeFfWcT3w%252F5.Tetliztaca.jpg&width=2880" target="_blank">
   <img src="https://d7hftxdivxxvm.cloudfront.net/?height=2880&quality=80&resize_to=fit&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2FHeVNkRocI-Kh-NeFfWcT3w%252F5.Tetliztaca.jpg&width=2880" alt="Tetliztaca Map" style="width:25%; max-width:900px; float:right; margin: 0 20px 20px 20px;">
 </a>
+<figcaption style="clear: both; text-align: center; display: block;">Figure 2.2: Tetliztaca Map, ca. 1581, Beson Latin American Collection, University of Texas</figcaption>
 
 <p>In 2019, the Blanton Museum of Art at the University of Texas exhibited this map alongside eighteen other hand-painted Indigenous maps, collectively known as the "Mapas de las Relaciones Geográficas", in their exhibition “Mapping Memory: Space and History in 16th-century Mexico”.</p>
 
 <h3>Questions for discussion:</h3>
 <ul>
   <li>Look at the visual elements used in the map and try to describe them. In what categories do the different elements fall? What distinguishes them from modern-day maps? What do the visual markers tell us about the Indigenous relationship with space? Which elements are distinctly colonial and where do you observe boundaries between spheres?</li>
-  <li>As Monica Uszerowicz recounts in her article about the "Mapping Memory" exhibition, the hybrid style of the "Mapas" challenges the idea that Indigenous cultures were completely destroyed by the Spanish invasion (Uszerowicz, 2019). Can you think of other examples where geography and cartography combine elements from different cultures and help to preserve traditional knowledge?</li>
-  <li>What is special about maps as compared to other media that compare cultural knowledge? For what type of knowledge of what (political) circumstances are maps especially useful?</li>
+  <li>Monica Uszerowicz recounts in her article about the "Mapping Memory" exhibition that the hybrid style of the "Mapas" challenges the idea that Indigenous cultures were completely destroyed by the Spanish invasion (Uszerowicz, 2019). Can you think of other examples where geography and cartography combine elements from different cultures and help to preserve traditional knowledge?</li>
+  <li>What is special about maps as compared to other media that preserve cultural knowledge? For what type of knowledge or what (political) circumstances are maps especially useful?</li>
   <li>Indigenous maps, like maps generally, also point to social hierarchies within a community as the ability to draw and represent knowledge about space is linked with education and status. Similarly, owning and reading maps requires financial resources and skills. The Mexican Indigenous maps were mostly made by elites, and Mestiza culture also played an important role. Does highlighting geographic and cartographic production deflect our attention too much from everyday lives of the lower classes? What place should elite production generally have in the context of postcolonial and de-colonial discourse?</li>
 </ul>
 
@@ -151,6 +165,7 @@ The map displayed here (<strong>fig. 3.1</strong>) is a screenshot of the new Ch
 <a href="https://globalvoices.org/wp-content/uploads/2023/09/Screenshot-2023-09-02-12.44.12-PM-1200x675.png" target="_blank">
   <img src="https://globalvoices.org/wp-content/uploads/2023/09/Screenshot-2023-09-02-12.44.12-PM-1200x675.png" alt="Chinese Standard Map 2023" style="width:50%; max-width:900px; float:left; margin: 0 20px 20px 0;">
 </a>
+<figcaption style="clear: both; text-align: center; display: block;">Figure 3.1: Chinese Standard Map, 2023, published by the Ministry of Natural Resources, screenshot by Oiwan Lam</figcaption>
 
 <p>Official English-language information by the Chinese government on this map, including a Chinese-language screenshot, is shared <a href="https://www.chinadaily.com.cn/a/202308/28/WS64ec91c2a31035260b81ea5b.html" target="_blank">here</a>, but the screenshot provided is not zoomable and too small to read.</p>
 
