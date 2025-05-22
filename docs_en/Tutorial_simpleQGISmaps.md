@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+permalink: /docs_en/Tutorial_simpleQGISmaps
 ---
 
 <h2>Gestaltung einfacher Karten mit QGIS</h2>

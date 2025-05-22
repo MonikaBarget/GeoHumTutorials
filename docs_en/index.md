@@ -2,40 +2,24 @@
 layout: default
 title: Overview
 lang: en
-permalink: /docs_EN/
+permalink: /docs_en/
 ---
 
 <h2>Overview</h2>
 
-<p align="justify">This page presents simple geohumanities tutorials and maps created for teaching, research and public relations at the Institute of European History in Mainz, Germany, and at Maastricht University, Netherlands. Please visit Monika Barget's <a href="https://insulae.hypotheses.org/">INSULAE</a> blog and the <a href="https://dhlab.hypotheses.org/">IEG DH LAB</a> blog for more coding samples, digital humanities reports and training opportunities.</p>
+<p align="justify">This repository presents simple geohumanities tutorials and maps created for teaching, research and public relations at the Institute of European History in Mainz, Germany, and at Maastricht University, Netherlands. Please visit Monika Barget's <a href="https://insulae.hypotheses.org/">INSULAE</a> blog and the <a href="https://dhlab.hypotheses.org/">IEG DH LAB</a> blog for more coding samples, digital humanities reports and training opportunities.</p>
 
-<h3>Topics</h3>
+<h2>Understanding spatial data</h2>
 
-<strong>General introductions</strong>
-<ul>
-<li><a href="https://zenodo.org/record/7868046#.ZEk0XnZBxPY">Working with spatial data (workshop slides)</a></li>
-  <li><a href="https://github.com/MonikaBarget/GeoHumTutorials/blob/master/Tutorial_GeoPackages.md">Geospatial analysis & visualisation in Python</a></li>
-</ul>
+Spatial data, also known as geospatial data, contain information about the physical location and shape of geographic features. These features can include anything from human-created structures like cities and roads to natural entities like trees and mountains. Historical spatial data also include a time component, which can make them more challenging to process and visualise. In humanities research, spatial analysis can provide important insights into the development of human settlements over time, migration movements, borders, agricultural landscapes, or industrial production and trade. 
 
-<strong>Geocoding place names</strong>
-<ul>
-<li><a href="https://monikabarget.github.io/GeoHumTutorials/Tutorial_geocodingOPENCAGE">Google Colab tutorial for geocoding EXCEL spreadsheets with OpenCage in Python (English)</a></li>
-<li><a href="https://monikabarget.github.io/GeoHumTutorials/Tutorial_geocodingGEONAMES">Google Colab tutorial for geocoding EXCEL spreadsheets with Geonames in Python (English)</a></li>
-</ul>
-<strong>Enriching and editing spatial data</strong>
-<ul>
-<li><a href="https://monikabarget.github.io/GeoHumTutorials/Tutorial_GeoJSON">Tutorial for editing geodata with Geojson.io (German)</a></li>
-<li><a href="https://github.com/MonikaBarget/GeoHumTutorials/blob/master/Tutorial_Excel-to-GeoJSON">Converting an EXCEL file containing coordinates to GeoJSON (English)</a></li>
+<h2>From spreadsheets to maps</h2>
 
-</ul>
-<strong>Visualising spatial data</strong>
-<ul>
-<li><a href="https://monikabarget.github.io/GeoHumTutorials/Tutorial_simpleQGISmaps">Tutorial for creating and printing simple maps in QIGS (German)</a></li>
-<li><a href="https://github.com/MonikaBarget/GeoHumTutorials/blob/master/IEG_test_map.geojson">Example of GEOJSON file rendered as zoomable map on GITHUB, showing government-funded research institutes in Germany in 1949</a></li>
-<li><a href="https://monikabarget.github.io/GeoHumTutorials/qgis2web_IEG_jubilee_map/index.html">Interactive map of German research institutes receiving government funding in 1949, created for the IEG jubilee exhibition by Jannik Schulze-Selmig and Monika Barget with QGIS2web</a></li>
-<li><a href="https://monikabarget.github.io/GeoHumTutorials/qgis2web_2024_12_10-15_30_virtual-layers_ocean/index.html">Testkarte zur Visualisierung verschiedener Funktionsausübungen im Datensatz "Reichskammergericht" des DigiKAR Projekts</a></li>
-<li><a href="https://monikabarget.github.io/GeoHumTutorials/qgis2web_2024_12_10-21_event-before-RKG/index.html">Testkarte zur Visualisierung der Lebensstationen vor der RKG-Tätigkeit von Personen im Datensatz "Reichskammergericht" des DigiKAR Projekts</a></li>
-</ul>
+<p align="justify">The workflows recommended here focus on easily-available software, preferably open-source tools. I assume that most humanities scholars interested in creating a map do not have the resources to set up an advanced spatial database but will have to rely on collecting their data in spreadsheets or in XML format. Therefore, several sections of this repository focus on creating geocoded spatial data and valid GeoJSON files from EXCEL tables. GeoJSON is a popular format for storing and exchanging spatial data, which is compatible with many different mapping tools. Python, a popular programming language, offers several libraries that can help with geocoding data and exporting them to GeoJSON. Also, Python is useful for data cleaning, data enrichment, or data filtering. If you do not want to work with code but prefer tools with graphic user interfaces, you can also use Geojson.io, a simple and user-friendly browser-based tool, to edit your geographic data and visualise them on the fly. Geojson.io also allows you to draw new geographic features directly onto a map. For the visualisation of the spatial data, we use the open-source mapping tool QGIS. 
+
+<h2>Using this repository</h2>
+
+This repository was built over time and is still work in progress. The individual sections were mostly written for MA students in Digital Humanities and humanities scholars without previous mapping experience. To navigate the different sections, please use the <strong>drop-down menus</strong> above. Several pages are still under construction.</p>
 
 <hr>
 

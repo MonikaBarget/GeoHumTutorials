@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+permalink: /docs_en/Tutorial_GeoJSON
 ---
 
 # Erstellen und Bearbeiten von GeoJSON Dateien mit Geojson.io

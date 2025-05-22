@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+permalink: /docs_en/Tutorial_geocodingOPENCAGE
 ---
 
 <h2>Google Colab tutorial for geocoding EXCEL spreadsheets with OpenCage in Python</h2>

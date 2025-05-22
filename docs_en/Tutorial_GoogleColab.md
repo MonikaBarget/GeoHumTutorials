@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+permalink: /docs_en/Tutorial_GoogleColab
 ---
 
 <h2>How to execute Python code in Google Colab</h2>
