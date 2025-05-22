@@ -19,7 +19,7 @@ p { text-align: justify; }
 <p>Instead of creating tables in Excel that must be geocoded and exported using additional tools, Geojson.io allows you to select, enrich, and save location data directly from a map in compatible formats.</p>
 
 <div class="img-container">
-  <img src="/screenshots/Screenshot1_points.png" alt="Screenshot: Adding point geometries">
+  <img src="../screenshots/Screenshot1_points.png" alt="Screenshot: Adding point geometries">
 </div>
 <p class="clearfix"></p>
 
@@ -28,7 +28,7 @@ p { text-align: justify; }
 <p>It is highly recommended to register a user account, so that unfinished projects can be temporarily saved to your profile. Some advanced features are also only available to registered users. Login can be done using an existing GitHub account. Upon opening Geojson.io, you’ll see a map (based on OpenStreetMap) on the left with a search bar, where you can freely navigate and place markers for points, lines, or polygons. On the right, the geometries are displayed in real time in GeoJSON format.</p>
 
 <div class="img-container">
-  <img src="/screenshots/Screenshot2_codeview_raw.png" alt="Screenshot: Raw GeoJSON code view">
+  <img src="../screenshots/Screenshot2_codeview_raw.png" alt="Screenshot: Raw GeoJSON code view">
 </div>
 <p class="clearfix"></p>
 
@@ -41,7 +41,7 @@ p { text-align: justify; }
 <p>However, it is often more effective to split complex labels into separate attributes. For example: <code>"label":"2020: IEG, Mainz"</code>, <code>"date":"2020"</code>, <code>"place":"Mainz"</code>. Attribute names are freely definable. Spaces and line breaks improve readability.</p>
 
 <div class="img-container">
-  <img src="/screenshots/Screenshot3_Geometrie%20Punkte%20mit%20Attributen.png" alt="Screenshot: Points with attribute data">
+  <img src="../screenshots/Screenshot3_Geometrie%20Punkte%20mit%20Attributen.png" alt="Screenshot: Points with attribute data">
 </div>
 <p class="clearfix"></p>
 
@@ -50,14 +50,14 @@ p { text-align: justify; }
 <p>Attribute management becomes especially user-friendly when you double-click on a geometry on the map. A small box opens showing the current properties, and new key-value pairs can be added via <code>"add row"</code>. Here, you can also adjust the display color using <code>"marker-color"</code>, for example to highlight edited or to-be-reviewed points. This is especially useful when points are numbered spatially (e.g., from north to south), which may not match the feature order in the code view.</p>
 
 <div class="img-container">
-  <img src="/screenshots/Screenshot4_Codeview_properties%20added.png" alt="Screenshot: Properties panel with added attributes">
+  <img src="../screenshots/Screenshot4_Codeview_properties%20added.png" alt="Screenshot: Properties panel with added attributes">
 </div>
 <p class="clearfix"></p>
 
 ----
 
 <div class="img-container">
-  <img src="/screenshots/Screenshot5_Tabellenansicht.png" alt="Screenshot: Table view in Geojson.io">
+  <img src="../screenshots/Screenshot5_Tabellenansicht.png" alt="Screenshot: Table view in Geojson.io">
 </div>
 <p class="clearfix"></p>
 
@@ -66,14 +66,14 @@ p { text-align: justify; }
 <p>You can also switch the basemap in Geojson.io, choosing a satellite image or an unlabelled OSM standard map instead of the default political map.</p>
 
 <div class="img-container">
-  <img src="/screenshots/Screenshot6_OSMAnsicht.png" alt="Screenshot: OpenStreetMap view">
+  <img src="../screenshots/Screenshot6_OSMAnsicht.png" alt="Screenshot: OpenStreetMap view">
 </div>
 <p class="clearfix"></p>
 
 ----
 
 <div class="img-container">
-  <img src="/screenshots/Screenshot7_Satellitenansicht.png" alt="Screenshot: Satellite view">
+  <img src="../screenshots/Screenshot7_Satellitenansicht.png" alt="Screenshot: Satellite view">
 </div>
 <p class="clearfix"></p>
 
