@@ -49,8 +49,7 @@ Save the file with the appropriate extension (e.g., .csv, .json, .txt).
 
 ### Script-based feature extraction
 
-For a more automated approach, a Python script can be used to generate coordinates or grid references. You can use libraries such as Pillow (PIL) to load and process the map 
-image. You can write a script to divide the image into a grid and assign each grid cell a unique identifier. Alternatively, a script can identify key features on the map and generate their coordinates. This can be done using more advanced methods like feature detection.
+For a more automated approach, a Python script can be used to generate coordinates or grid references. You can use libraries such as Pillow (PIL) to load and process the map image. You can write a script to divide the image into a grid and assign each grid cell a unique identifier. Alternatively, a script can identify key features on the map and generate their coordinates. This can be done using more advanced methods like feature detection.
 In Python, feature detection in images can be performed with one of the following packages:
 
 - OpenCV (Open Source Computer Vision Library): OpenCV is one of the most widely used libraries for computer vision tasks. It provides extensive support for feature detection algorithms such as SIFT (Scale-Invariant Feature Transform), SURF (Speeded-Up Robust Features), ORB (Oriented FAST and Rotated BRIEF), and many others. OpenCV can handle various image file formats, including JPEG, PNG, TIFF, and BMP.
@@ -69,3 +68,5 @@ When exporting data from feature detection processes, you typically save the res
 - JSON: Useful for structured data that includes both feature coordinates and metadata.
 - HDF5: Useful for storing large datasets, including image data and feature descriptors, especially in scientific computing contexts.
 - NumPy files (.npy or .npz): For storing numerical data efficiently, especially when working within the Python ecosystem.
+
+## Maps to test story script 
